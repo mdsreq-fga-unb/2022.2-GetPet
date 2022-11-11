@@ -3,7 +3,7 @@ Vida</b></h1>
 
 1. ### _**Scrum**_
 
-    <img src="../assets/Images/Scrum1.png" width="750" height="500" />
+    <img src="2022.2-GetPet/docs/assets/Images/Scrum1.png" width="750" height="500" />
 
 2. ### _**O que é e como é o seu funcionamento:**_
 
