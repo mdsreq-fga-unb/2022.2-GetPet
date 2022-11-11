@@ -6,6 +6,7 @@
 
 - [Material do Seminário de Processos e Ciclos de
 Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
+- [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
 
 ----------------------------------------------------
 ### _**Equipe**_
