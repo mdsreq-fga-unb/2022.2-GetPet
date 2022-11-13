@@ -95,6 +95,14 @@ Solução mobile servida de **flutter** e **firebase** que permite interação v
 
 ### 2.2 Planejamento das Fases e/ou Iterações do Projeto
 
+| Sprint | Entrega | Data início | Data fim |
+:--------|---------|-------------|----------|
+| 0 | Definição da equipe e do projeto | 25/10/22 | 04/11/22 |
+| 1 | Primeira versão da visão de produto e projeto | 07/11/22 | 18/11/22 |
+| 2 | Product Backlog, ambiente de desenvolvimento, estudo de tecnologias e protótipo de interface | a definir | a definir |
+| 3 | Implementação do MVP1 | a definir | a definir |
+| 4 | a definir | a definir | a definir |
+
 <br>
 
 ### 2.3 Matriz de Comunicação
