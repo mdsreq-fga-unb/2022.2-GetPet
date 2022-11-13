@@ -25,13 +25,17 @@ Versão 1.0
     - 2.4 Gerenciamento de Riscos
     - 2.5 Critérios de Replanejamento
 - [PROCESSO DE DESENVOLVIMENTO DE SOFTWARE](#processo-de-desenvolvimento)
-    - 3.1 Atividades e processos
+    - 3.1 Atividade 1 - Planejamento de Projeto
+    - 3.2 Atividade 2 - Elicitação de Requisitos
+    - 3.3 Atividade 3 - Desenvolvimento MVP1
+    - 3.4 Atividade 4 - Desenvolvimento MVP 2
 
 - [LIÇÕES APRENDIDAS](#licoes-aprendidas) 
     - 4.1 Unidade 1
 
 - [REFERÊNCIAS BIBLIOGRÁFICAS](#referencias-bibliograficas)
 
+<br>
 
 ## VISÃO GERAL DO PRODUTO 
 
@@ -48,7 +52,7 @@ O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição 
  | Nosso produto | Engloba os motoristas parceiros dispostos a contribuírem para a locomoção, espera e todo cuidado necessário para o transporte dos animais de estimação. |
 
 <br>
-	
+
 ### 1.2. Objetivos do Produto
 O produto terá 3 macro funcionalidades dispostas para que os motoristas realizem o transporte seguro dos animais, sendo elas:
 
@@ -65,12 +69,17 @@ O produto terá 3 macro funcionalidades dispostas para que os motoristas realize
         - Ida;
         - Ida e volta;
         - Ida e volta com espera.
-<br> 
+
+<br>
 
 ### 1.3. Tecnologias a Serem Utilizadas
 Solução mobile servida de **flutter** e **firebase** que permite interação via internet de usuários motoristas e donos de animais de estimação.
 
+<br>
+
 ## VISÃO GERAL DO PROJETO
+
+<br>
 
 ### 2.1 Organização do Projeto
 
@@ -82,7 +91,11 @@ Solução mobile servida de **flutter** e **firebase** que permite interação v
 | Analista de qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Pedro | Pedro e Guilherme
 | Cliente | Fornecer as informações necessárias para construição do backlog e validar as entregas | a definir | a definir |
 
+<br>
+
 ### 2.2 Planejamento das Fases e/ou Iterações do Projeto
+
+<br>
 
 ### 2.3 Matriz de Comunicação
 
@@ -97,9 +110,15 @@ O telegram e o Discord serão as principais plataformas de comunicação utiliza
 | Sprint Retro | Time scrum | Uma vez na sprint | Plano para aumentar a qualidade e eficácia da equipe |
 | Comunicar situação do projeto | Time scrum e professor | a definir | Ponto de controle |
 
+<br>
+
 ### 2.4 Gerenciamento de Riscos
 
+<br>
+
 ### 2.5 Critérios de Replanejamento
+
+<br>
 
 ## PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
 
@@ -107,11 +126,35 @@ Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os
 
 Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle do produto ao cliente.
 
-### 3.1 
+<br>
+
+### 3.1 Atividade 1 - Planejamento de Projeto
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+
+### 3.2 Atividade 2 - Elicitação de Requisitos
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+
+### 3.3 Atividade 3 - Desenvolvimento MVP1
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+
+### 3.4 Atividade 4 - Desenvolvimento MVP 2
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+
+<br>
 
 ## LIÇÕES APRENDIDAS
 
 ### Unidade 1
+
+<br>
 
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 - [Scrum Guide](https://scrumguides.org/)
