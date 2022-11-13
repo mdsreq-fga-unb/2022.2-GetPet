@@ -28,6 +28,38 @@ Desenvolvedor: amarelo #
         </sub>
       </a>
     </td>
+    <td>
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/83987201?v=4" width="100px;" alt="Foto Bruna"/><br>
+        <sub>
+          <b>Bruna Lima</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/24920267?v=4" width="100px;" alt="Foto Guilherme"/><br>
+        <sub>
+          <b>Guilherme Vilela</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62524293?v=4" width="100px;" alt="Foto Murilo"/><br>
+        <sub>
+          <b>Murilo Perazzo</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="" width="100px;" alt="Foto Pedro"/><br>
+        <sub>
+          <b>Pedro Jesus</b>
+        </sub>
+      </a>
+    </td>
    </tr>
   <tr>
     
