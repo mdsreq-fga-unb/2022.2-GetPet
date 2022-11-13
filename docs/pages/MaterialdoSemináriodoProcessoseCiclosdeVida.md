@@ -3,7 +3,7 @@
 
 1. ### _**Scrum**_
 
-    <img src="../assets/Images/Scrum1.png" width="750" height="500" />
+    ![Scrum1](/docs/assets/Images/Scrum1.png =750x500)
 
 2. ### _**O que é e como é o seu funcionamento:**_
 
