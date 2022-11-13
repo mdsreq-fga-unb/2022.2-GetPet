@@ -8,8 +8,8 @@ Versão 1.0
 
 | Data | Versão | Descrição | Autor |
 |------| ------ | --------- | ----- |
-| 11/11/2022 | 1.0 | Adicionandoa "Visão Geral do Produto" | [Maria Abritta](https://github.com/MariaAbritta) |
-| 12/11/2022 | 1.1 | Justes no documento e processo de desenvolvimento de software | [Bruna Lima](https://github.com/libruna) |
+| 11/11/2022 | 1.0 | Adicionanda "Visão Geral do Produto" | [Maria Abritta](https://github.com/MariaAbritta) |
+| 13/11/2022 | 1.1 | Justes no documento, Matriz de Comunicação e Organização do Projeto| [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
@@ -71,6 +71,30 @@ O produto terá 3 macro funcionalidades dispostas para que os motoristas realize
 Solução mobile servida de **flutter** e **firebase** que permite interação via internet de usuários motoristas e donos de animais de estimação.
 
 ## VISÃO GERAL DO PROJETO
+
+### 2.1 Organização do Projeto
+
+| Perfil | Atribuições | Responsável | Participantes |
+:--------|-------------|-------------|---------------|
+| Scrum Master | Garantir que o time scrum se oriente pelos valores e práticas do Scrum | a definir | a definir |
+| Product Owner | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | a definir | a definir |
+| Desenvolvedor | Codificar o produto, testes unitários e realizar refatoração | a definir | Bruna, Guilherme, Maria, Murilo e Pedro |
+| Analista de qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | 
+| Cliente | Fornecer as informações necessárias para construição do backlog e validar as entregas | a definir | a definir |
+
+
+### 2.3 Matriz de Comunicação
+
+O telegram e o Discord serão as principais plataformas de comunicação utilizadas pela equipe.
+
+| Descrição | Envolvidos | Periodicidade | Produtos Gerados |
+:-----------|------------|---------------|------------------|
+| Sprint | time scrum e cliente | Há cada 2 semanas | Incremento do produto |
+| Sprint Planning | time scrum | Uma vez na sprint | Definição do Sprint Backlog | 
+| Daily | time scrum | Diariamente | Inspecção do progresso em direção a meta da sprint e identificação de empecilhos |
+| Sprint Review | time scrum e cliente | Uma vez na sprint | Inspecção do resultado da sprint e determinar possíveis adaptações |
+| Sprint Retro | time scrum | Uma vez na sprint | Plano para aumentar a qualidade e eficácia da equipe |
+| Comunicar situação do projeto | time scrum e professor | a definir | Ponto de controle |
 
 ## PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
 
