@@ -76,12 +76,13 @@ Solução mobile servida de **flutter** e **firebase** que permite interação v
 
 | Perfil | Atribuições | Responsável | Participantes |
 :--------|-------------|-------------|---------------|
-| Scrum Master | Garantir que o time scrum se oriente pelos valores e práticas do Scrum | a definir | a definir |
-| Product Owner | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | a definir | a definir |
-| Desenvolvedor | Codificar o produto, testes unitários e realizar refatoração | a definir | Bruna, Guilherme, Maria, Murilo e Pedro |
-| Analista de qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | 
+| Scrum Master | Garantir que o time scrum se oriente pelos valores e práticas do Scrum | Maria | Maria |
+| Product Owner | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Bruna | Bruna e Murilo |
+| Desenvolvedor | Codificar o produto, testes unitários e realizar refatoração | Murilo | Bruna, Guilherme, Maria, Murilo e Pedro |
+| Analista de qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Pedro | Pedro e Guilherme
 | Cliente | Fornecer as informações necessárias para construição do backlog e validar as entregas | a definir | a definir |
 
+### 2.2 Planejamento das Fases e/ou Iterações do Projeto
 
 ### 2.3 Matriz de Comunicação
 
@@ -96,10 +97,22 @@ O telegram e o Discord serão as principais plataformas de comunicação utiliza
 | Sprint Retro | Time scrum | Uma vez na sprint | Plano para aumentar a qualidade e eficácia da equipe |
 | Comunicar situação do projeto | Time scrum e professor | a definir | Ponto de controle |
 
+### 2.4 Gerenciamento de Riscos
+
+### 2.5 Critérios de Replanejamento
+
 ## PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
+
+Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os requisitos do produto ainda não são totalmente conhecidos e a disponibilidade do cliente, o processo ScrumXp foi escolhido pela equipe. As cerimônias do Scrum para otimizar a gestão do projeto e procedimentos do XP (Extreme Programming) para auxiliar os desenvolvedores do time.
+
+Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle do produto ao cliente.
 
 ### 3.1 
 
 ## LIÇÕES APRENDIDAS
 
+### Unidade 1
+
 ## REFERÊNCIAS BIBLIOGRÁFICAS
+- [Scrum Guide](https://scrumguides.org/)
+- [The Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html)
