@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 1.0
+Versão 1.1
 
 <br>
 
@@ -9,7 +9,7 @@ Versão 1.0
 | Data | Versão | Descrição | Autor |
 |------| ------ | --------- | ----- |
 | 11/11/2022 | 1.0 | Adicionanda "Visão Geral do Produto" | [Maria Abritta](https://github.com/MariaAbritta) |
-| 13/11/2022 | 1.1 | Justes no documento, Matriz de Comunicação e Organização do Projeto| [Bruna Lima](https://github.com/libruna) |
+| 13/11/2022 | 1.1 | Ajustes no documento, Matriz de Comunicação e Organização do Projeto| [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
