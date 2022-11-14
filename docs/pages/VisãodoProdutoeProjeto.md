@@ -100,10 +100,15 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 :--------|---------|-------------|----------|
 | 0 | Definição da equipe e do projeto | 25/10/22 | 04/11/22 |
 | 1 | Primeira versão da visão de produto e projeto | 07/11/22 | 18/11/22 |
-| 2 | Product Backlog, ambiente de desenvolvimento, estudo de tecnologias e protótipo de interface | a definir | a definir |
-| 3 | Implementação do MVP1 | a definir | a definir |
-| 4 | a definir | a definir | a definir |
+| 2 | Product Backlog, ambiente de desenvolvimento, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
+| 3 | Desenvolvimento do MVP1 | 05/12/22 | 16/12/22 |
+| 4 | Implementação do MVP1 | 19/12/22 | 30/12/22* |
+| 5 | Implementação e entrega do MVP1 | 02/01/23 | 13/01/23 |
+| 6 | Desenvolvimento do MVP2 | 16/01/23 | 27/01/23 |
+| 7 | Desenvolvimento e entrega do MVP2 | 30/01/23 | 10/02/23 |
 
+<br>
+* Devido ao recesso de Natal e Ano Novo teremos uma semana a menos de aula.
 <br>
 
 ### 2.3 Matriz de Comunicação
