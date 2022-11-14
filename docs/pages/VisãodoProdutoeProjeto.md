@@ -10,6 +10,7 @@ Versão 1.1
 |------| ------ | --------- | ----- |
 | 11/11/2022 | 1.0 | Adicionanda "Visão Geral do Produto" | [Maria Abritta](https://github.com/MariaAbritta) |
 | 13/11/2022 | 1.1 | Ajustes no documento, Matriz de Comunicação e Organização do Projeto| [Bruna Lima](https://github.com/libruna) |
+| 14/11/2022 | 1.2 | Tecnologias a Serem Utilizadas, Lições Aprendidas e Organização do Projeto| [Murilo Perazzo](https://github.com/murilopbs) |
 
 <br>
 
@@ -73,7 +74,7 @@ O produto terá 3 macro funcionalidades dispostas para que os motoristas realize
 <br>
 
 ### 1.3. Tecnologias a Serem Utilizadas
-Solução mobile servida de **flutter** e **firebase** que permite interação via internet de usuários motoristas e donos de animais de estimação.
+Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. Nosso banco de dados será o Firebase, devido a fácil integração com o Flutter. Também utilizamos o Telegram para a comunicação, Discord para reuniões, o Git para controle de versionamento, GitHub Pages para a documentação do projeto.
 
 <br>
 
@@ -89,7 +90,7 @@ Solução mobile servida de **flutter** e **firebase** que permite interação v
 | Product Owner | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Bruna | Bruna e Murilo |
 | Desenvolvedor | Codificar o produto, testes unitários e realizar refatoração | Murilo | Bruna, Guilherme, Maria, Murilo e Pedro |
 | Analista de qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código | Pedro | Pedro e Guilherme
-| Cliente | Fornecer as informações necessárias para construição do backlog e validar as entregas | a definir | a definir |
+| Cliente | Fornecer as informações necessárias para construição do backlog e validar as entregas | João Pedro Frutuoso | João Pedro Frutuoso |
 
 <br>
 
@@ -161,6 +162,8 @@ Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedb
 ## LIÇÕES APRENDIDAS
 
 ### Unidade 1
+
+A primeira unidade foi muito importante para aprendermos mais a respeito das metodologias de desenvolvimento. Após estudos, aprendemos a como escolher a melhor abordagem de acordo com os requisitos. Também foi iniciado um leve estudo de Flutter.
 
 <br>
 
