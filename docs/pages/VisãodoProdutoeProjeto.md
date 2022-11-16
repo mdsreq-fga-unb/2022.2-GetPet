@@ -75,7 +75,7 @@ O produto terá 3 macro funcionalidades dispostas para que os motoristas realize
 <br>
 
 ### 1.3. Tecnologias a Serem Utilizadas
-Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. Nosso banco de dados será o Firebase, devido a fácil integração com o Flutter. Também utilizamos o Telegram para a comunicação, Discord para reuniões, o Git para controle de versionamento, GitHub Pages para a documentação do projeto. Além das plataformas Miro e Trello para organização dos requisitos.
+Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. Nosso banco de dados será o Firebase, devido a fácil integração com o Flutter. Também utilizamos o Telegram para a comunicação, Discord para reuniões, o Git para controle de versionamento, GitHub Pages para a documentação do projeto. Além das plataformas Miro e Trello para organização dos requisitos e o Figma para construção das interfaces.
 
 <br>
 
@@ -197,12 +197,13 @@ As primeiras atividades de requisitos serão realizadas durante a sprint 1, já 
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
+| Interface de usuário | Protótipo de baixa fidelidade | Figma | Protótipo de interfaces |
 
 ### 3.3 Atividade 3 - Construção
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Implementação do MVP1 e MVP2 | Pair programming | VsCode | Incremento do produto |
+| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
 | Validação do produto com o cliente | Sprint Review | Discord | Validar se a entrega atende aos requisitos | 
 
 ### 3.4 Atividade 4 - Teste
