@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 1.1
+Versão 1.3
 
 <br>
 
@@ -9,8 +9,9 @@ Versão 1.1
 | Data | Versão | Descrição | Autor |
 |------| ------ | --------- | ----- |
 | 11/11/2022 | 1.0 | Adicionanda "Visão Geral do Produto" | [Maria Abritta](https://github.com/MariaAbritta) |
-| 13/11/2022 | 1.1 | Ajustes no documento, Matriz de Comunicação e Organização do Projeto| [Bruna Lima](https://github.com/libruna) |
-| 14/11/2022 | 1.2 | Tecnologias a Serem Utilizadas, Lições Aprendidas e Organização do Projeto| [Murilo Perazzo](https://github.com/murilopbs) |
+| 13/11/2022 | 1.1 | Ajustes no documento, Matriz de Comunicação e Organização do Projeto | [Bruna Lima](https://github.com/libruna) |
+| 14/11/2022 | 1.2 | Tecnologias a Serem Utilizadas, Lições Aprendidas e Organização do Projeto | [Murilo Perazzo](https://github.com/murilopbs) |
+| 16/11/2022 | 1.3 | Atividades e processos | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
@@ -26,10 +27,10 @@ Versão 1.1
     - 2.4 Gerenciamento de Riscos
     - 2.5 Critérios de Replanejamento
 - [PROCESSO DE DESENVOLVIMENTO DE SOFTWARE](#processo-de-desenvolvimento)
-    - 3.1 Atividade 1 - Planejamento de Projeto
-    - 3.2 Atividade 2 - Elicitação de Requisitos
-    - 3.3 Atividade 3 - Desenvolvimento MVP1
-    - 3.4 Atividade 4 - Desenvolvimento MVP 2
+    - 3.1 Atividade 1 - Requisitos
+    - 3.2 Atividade 2 - Design
+    - 3.3 Atividade 3 - Construção
+    - 3.4 Atividade 4 - Teste
 
 - [LIÇÕES APRENDIDAS](#licoes-aprendidas) 
     - 4.1 Unidade 1
@@ -142,25 +143,37 @@ Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedb
 
 <br>
 
-### 3.1 Atividade 1 - Planejamento de Projeto
+### 3.1 Atividade 1 - Requisitos
+
+As primeiras atividades de requisitos serão realizadas durante toda a sprint 1, já as de refinamento, durante breves reuniões da sprints sequintes, conforme for necessário.
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+| Elicitação de requisitos | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
+| Construção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
+| Refinamento do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
+| Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
+| Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
+| Validação e verificação | Revisão e inspecção de requisitos | Discord e Miro | Lista de requisitos alinhada com os objetivos do produto |
+
+### 3.2 Atividade 2 - Design
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
 
-### 3.2 Atividade 2 - Elicitação de Requisitos
+### 3.3 Atividade 3 - Construção
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
+| Implementação do MVP1 e MVP2 | Pair programming | VsCode | Incremento do produto |
+| Validação do produto com o cliente | Sprint Review | Discord | Validar se a entrega atende aos requisitos | 
 
-### 3.3 Atividade 3 - Desenvolvimento MVP1
-
-| Atividade | Método | Ferramenta | Entrega |
-:-----------|--------|------------|---------|
-
-### 3.4 Atividade 4 - Desenvolvimento MVP 2
+### 3.4 Atividade 4 - Teste
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
+| Codificação de testes unitários | TDD | VsCode | Identificação e correção de erros |
+| Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
 
 <br>
 
