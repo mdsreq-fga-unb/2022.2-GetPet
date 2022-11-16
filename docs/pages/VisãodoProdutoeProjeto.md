@@ -139,7 +139,7 @@ A gestão de riscos de projeto corresponde à identificação, ao planejamento e
 
 <br>
 
-| Risco | Nível de Impacto [0 - 5] | Gerenciamento de Risco | Prevenção ao Risco |
+| Risco | Nível de Impacto <br> [0 - 5] | Gerenciamento de Risco | Prevenção ao Risco |
 :-------|--------------------------|------------------------|--------------------|
 | Saída de Membros do Projeto | 5 | Reatribuição das atividades entre os demais membros | Contato contínuo com os membros da equipe, verificando a saúde e desenvolvimento deles |
 | Comunicação Ineficiente entre Stakeholder | 5 | Cancelamento do projeto e mal entendimento do mesmo | Tentar contato e verificar respostas semanais do cliente |
@@ -162,7 +162,7 @@ Haverá o replanejamento caso algum desses casos aconteça:
 - Perda total de contato com o cliente;
 - Algum membro ficar doente;
 - Mudança no escopo do projeto.
-- 
+
 <br>
 
 Nessas situações os seguintes passos devem ser seguidos:
