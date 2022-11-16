@@ -145,7 +145,7 @@ Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedb
 
 ### 3.1 Atividade 1 - Requisitos
 
-As primeiras atividades de requisitos serão realizadas durante toda a sprint 1, já as de refinamento, durante breves reuniões da sprints sequintes, conforme for necessário.
+As primeiras atividades de requisitos serão realizadas durante a sprint 1, já as de refinamento, durante breves reuniões nas sprints sequintes, conforme for necessário.
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
@@ -188,3 +188,4 @@ A primeira unidade foi muito importante para aprendermos mais a respeito das met
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 - [Scrum Guide](https://scrumguides.org/)
 - [The Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html)
+- Material do moodle da disciplina
