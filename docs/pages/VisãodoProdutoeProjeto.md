@@ -75,7 +75,7 @@ O produto terá 3 macro funcionalidades dispostas para que os motoristas realize
 <br>
 
 ### 1.3. Tecnologias a Serem Utilizadas
-Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. Nosso banco de dados será o Firebase, devido a fácil integração com o Flutter. Também utilizamos o Telegram para a comunicação, Discord para reuniões, o Git para controle de versionamento, GitHub Pages para a documentação do projeto.
+Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. Nosso banco de dados será o Firebase, devido a fácil integração com o Flutter. Também utilizamos o Telegram para a comunicação, Discord para reuniões, o Git para controle de versionamento, GitHub Pages para a documentação do projeto. Além das plataformas Miro e Trello para organização dos requisitos.
 
 <br>
 
