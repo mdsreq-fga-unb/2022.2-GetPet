@@ -129,9 +129,46 @@ O telegram e o Discord serão as principais plataformas de comunicação utiliza
 
 ### 2.4 Gerenciamento de Riscos
 
+A gestão de riscos de projeto corresponde à identificação, ao planejamento e ao monitoramento dos riscos em potencial. É possível que nada chegue a dar errado no seu projeto, mas avaliar os riscos e gerir as ocorrências de maneira proativa podem ajudar a preparar e a corrigir o curso rapidamente. Os riscos do projeto devem ser acompanhados e atualizados a cada ciclo, a fim de evitar que eles aconteçam ou para perceber novos riscos. 
+
+- **Saída de Membros do Projeto:** Devido ao período de pandemia e as Empresas Juniores terem alta rotatividade, é possível que alguns membros se retirem da empresa durante a execução do projeto, desfalcando a equipe. Como forma de mitigar o risco, os membros constantemente serão monitorados sobre como se sentem em relação ao projeto, à empresa e ao contexto geral no qual se enquadram. Além disso, a gestão de conhecimento levantados durante o projeto deve ser eficiente para que, mesmo que a saída do membro seja inevitável, não existam grandes consequências, pois será mais fácil substituir o trabalho prestado. Esse risco pode ocorrer durante todo o período do projeto. 
+- **Comunicação Ineficiente entre Stakeholders:** Mal entendidos e falta de alinhamento entre as partes interessadas do projeto é um risco pois gera insatisfações em todas as partes e tem potencial de gerar retrabalho, já que a equipe poderá obter resultados que não estejam de acordo com os reais interesses de todas as partes. Um planejamento que priorize entregas pequenas e frequentes mitigará parte desse risco, pois, supondo o bom cumprimento do planejado, sempre existirão resultados palpáveis para que os stakeholders o validem. Esse risco pode ocorrer durante todo o período do projeto, porém de forma mais grave no início, na elencação dos documentos iniciais do projeto.
+- **Alteração de Escopo:** Embora o projeto tenham objetivos estabelecidos, os meios utilizados para o cumprimento dos mesmos não são muito claros em momento inicial. Sabe-se apenas que, através do escopo do tema já estabelecido nesse documento, o público alvo deve desenvolver o comportamento descrito anteriormente. A utilização de metodologias que entreguem MVPs que de alguma forma possam ser validados pode diminuir a probabilidade de mudança de escopo, pois através destas é possível ter uma melhor visão das soluções propostas, consolidando o escopo ao longo do projeto e, consequentemente, diminuindo a probabilidade de alterações. Esse risco pode ocorrer durante todo o período do projeto, sendo uma consequẽncia da comunicação ineficiente entre o Stakeholders.
+- **Baixo Desempenho:** O risco de desempenho surge quando o próprio desempenho do projeto não corresponde às expectativas iniciais estabelecidas pelo grupo. Nem sempre é possível encontrar a causa original do baixo desempenho, mas com a organização e planejamento de atividades, o foco é identificar riscos que possam resultar nisso e buscar formas de evitá-los. Alguns exemplos deste tipo de risco são: Baixa produtividade na semana de provas ou entregas de trabalhos de outras matérias e dificuldade de entendimento do projeto. Iremos evitar enquanto grupo os prazos curtíssimos e falhas de comunicação entre os membros da equipe. Esse risco pode ocorrer durante todo o período do projeto.
+- **Prazos Muito Curtos:** O risco de tempo, também chamado de risco de cronograma, significa que as tarefas levarão mais tempo do que o esperado. Cronogramas atrasados podem impactar outros fatores, como datas de entrega e desempenho geral. Trata-se de um risco comum enfrentado por projetos. Exemplos de consequências desse risco: Não conseguir entregar o Backlog da sprint e atrasar muitas sprints. Quando um membro só não é responsável por executar todos os aspectos dinâmicos do trabalho e sim as atividades serem distribuídas para um desempenho mais rápido, com essas atividades devidamente especificadas e detalhadas, com os seus objetivos relacionados ao progresso do projeto, é fácil estimar com a equipe, durante o planejamento, o tempo que os membros da equipe levarão para concluir as partes do projeto. Esse risco pode ocorrer durante todo o período do projeto.
+
+<br>
+
+| Risco | Nível de Impacto [0 - 5] | Gerenciamento de Risco | Prevenção ao Risco |
+:-------|--------------------------|------------------------|--------------------|
+| Saída de Membros do Projeto | 5 | Reatribuição das atividades entre os demais membros | Contato contínuo com os membros da equipe, verificando a saúde e desenvolvimento deles |
+| Comunicação Ineficiente entre Stakeholder | 5 | Cancelamento do projeto e mal entendimento do mesmo | Tentar contato e verificar respostas semanais do cliente |
+| Alteração de Escopo | 3 | Revisão do backlog e do planejamento dos ciclos | Não superestimar a quantidade de funcionalidades que podem ser entregues em um ciclo |
+| Baixo Desempenho | 4 | Reatribuição das atividades entre os demais membros | Tomar decisões baseadas em um consenso ou acordo, para que nenhum membro fique desengajado com o projeto ou sobrecarregado |
+| Prazos Muito Curtos | 3 | Revisão do backlog e do planejamento dos ciclos | Tomar decisões sobre o tempo das atividades baseadas em um consenso ou acordo com toda a equipe |
+
 <br>
 
 ### 2.5 Critérios de Replanejamento
+
+O produto será replanejado caso entenda-se que o escopo está inadequado, isto é, grande ou pequeno demais para o tempo da matéria e tamanho da equipe. Também poderá ocorrer seu replanejamento caso os clientes necessitem de uma nova funcionalidade, sendo necessário um backlog atualizado e uma revisão das sprints até o presente momento.
+
+<br>
+
+Haverá o replanejamento caso algum desses casos aconteça:
+- Atrasos recorrentes de ciclos;
+- Alterações drásticas de requisitos;
+- Perda de dois membros ou mais;
+- Perda total de contato com o cliente;
+- Algum membro ficar doente;
+- Mudança no escopo do projeto.
+- 
+<br>
+
+Nessas situações os seguintes passos devem ser seguidos:
+- Revisão dos requisitos;
+- Replanejamento de ciclos;
+- Replanejamento da alocação de tarefas.
 
 <br>
 
