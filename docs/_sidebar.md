@@ -9,8 +9,9 @@
 ----------------------------------------------------
 ### _**Entregas**_
 
-- [Unidade 1 - Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
-
+- Unidade 1 
+   - [Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
+   - [Vídeo de Apresentação das Entregas](>colocar a rota do vídeo -> Sugestão de nome: VideoApresentacaoDasEntregas.md)
 ----------------------------------------------------
 ### _**Equipe**_
 
