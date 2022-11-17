@@ -54,7 +54,7 @@ Desenvolvedor: amarelo #
     </td>
     <td>
       <a href="#">
-        <img src="" width="100px;" alt="Foto Pedro"/><br>
+        <img src="https://avatars.githubusercontent.com/u/69866365?v=4" width="100px;" alt="Foto Pedro"/><br>
         <sub>
           <b>Pedro Jesus</b>
         </sub>
