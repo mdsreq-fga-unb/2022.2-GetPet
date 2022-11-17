@@ -15,5 +15,7 @@
 ----------------------------------------------------
 ### _**Equipe**_
 
+- [Alocação de Tarefas](pages/AlocacaoDeTarefas.md)
+
 
    
