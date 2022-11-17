@@ -66,7 +66,7 @@ O produto terá 3 macro funcionalidades dispostas para que os motoristas realize
     - Em transporte: A caminho do local solicitado com o pet;
     - No local: Disposto no local solicitado.
 
-- Já para os donos de pets realizarem a solicitação confiável de transporte, o produto contará com 3 macro funcionalidades, sendo elas:
+- Já para os donos de pets realizarem a solicitação confiável de transporte, o produto contará com 2 macro funcionalidades, sendo elas:
     - *Cadastro de perfil:* Funcionalidades para criação, edição, leitura e deleção de perfil;
     - *Solicitação de serviços:*
         - Ida;
