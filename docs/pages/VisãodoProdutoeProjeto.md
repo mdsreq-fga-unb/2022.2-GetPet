@@ -119,12 +119,9 @@ O telegram e o Discord serão as principais plataformas de comunicação utiliza
 
 | Descrição | Envolvidos | Periodicidade | Produtos Gerados |
 :-----------|------------|---------------|------------------|
-| Sprint | Time scrum e cliente | Há cada 2 semanas | Incremento do produto |
-| Sprint Planning | Time scrum | Uma vez na sprint | Definição do Sprint Backlog | 
-| Daily Scrum | Time scrum | Diariamente | Inspecção do progresso em direção a meta da sprint e identificação de empecilhos |
-| Sprint Review | Time scrum e cliente | Uma vez na sprint | Inspecção do resultado da sprint e determinar possíveis adaptações |
-| Sprint Retro | Time scrum | Uma vez na sprint | Plano para aumentar a qualidade e eficácia da equipe |
-| Comunicar situação do projeto | Time scrum e professor | a definir | Ponto de controle |
+| Acompanhamento das atiidades | Time scrum | Diariamente | Inspecção do progresso em direção a meta da sprint e identificação de empecilhos |
+| Encontros com o cliente | Time scrum e cliente | De 1-2 vezes a cada sprint | Elicitação de requisitos, inspecção do produto e determinar possíveis adaptações |
+| Comunicar situação do projeto | Time scrum e professor | Pontos de controle | Apresentação dos resultados gerados |
 
 <br>
 
