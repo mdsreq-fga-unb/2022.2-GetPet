@@ -164,9 +164,9 @@ Nessas situações os seguintes passos devem ser seguidos:
 
 ## PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
 
-Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os requisitos do produto ainda não são totalmente conhecidos e a disponibilidade do cliente, o processo ScrumXp foi escolhido pela equipe. As cerimônias do Scrum para otimizar a gestão do projeto e procedimentos do XP (Extreme Programming) para auxiliar os desenvolvedores do time.
+Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os requisitos do produto ainda não são totalmente conhecidos e a disponibilidade do cliente ser grande, o processo ScrumXp foi escolhido pela equipe. As cerimônias do Scrum para otimizar a gestão do projeto e procedimentos do XP (Extreme Programming) para auxiliar os desenvolvedores do time. Utilizaremos de boas práticas de programação que o XP nos trás, como pair programming, testes de aceitação, simplicidade de projeto e integração contínua junto da organização de time do Scrum e suas métricas e eventos, como daily, revisão, retrospectiva e planejamento da sprint.
 
-Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle do produto ao cliente.
+Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes do cliente sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle com transparência do produto ao cliente.
 
 <br>
 
