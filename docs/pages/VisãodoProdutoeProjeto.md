@@ -14,6 +14,7 @@ Versão 1.3
 | 16/11/2022 | 1.3 | Atividades e processos | [Bruna Lima](https://github.com/libruna) |
 | 16/11/2022 | 1.4 | Arrumando erros do Gerenciamento de Riscos | [Maria Abritta](https://github.com/MariaAbritta) |
 | 28/11/2022 | 1.5 | Arrumando os "Objetivos do produto" | [Maria Abritta](https://github.com/MariaAbritta) |
+| 28/11/2022 | 1.6 | Arrumando as "Lições aprendidas" | [Maria Abritta](https://github.com/MariaAbritta) |
 
 <br>
 
@@ -47,7 +48,7 @@ Versão 1.3
 
 O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição a pessoas com necessidade de transporte para seu pet. Atualmente, não existem plataformas específicas que ofereçam esse serviço exclusivo para animais de estimação, existem apps de transporte particular que são proibidos de transportarem animais de estimação em suas viagens, e mesmo quando aceitam, cobram valores adiconais.<br>
 Outro exemplo são Petshops que não fazem o serviço de buscar ou levar de volta o pet, fazendo seus donos se dedobrarem para conseguir tal serviço.<br>
-Falando em acesibilidade, memso sendo lei (lei 11.126), que assegura "à pessoa portadora de deficiência visual usuária de cão-guia, o direito de ingressar e permanecer, acompanhado do cão-guia, em qualquer local público ou privado, meio de transporte, estabelecimento comercial ou industrial", porém, é de liberdade do motorista das empresas privadas de transporte particular decidirem se aceitam o animal ou não em seus carros, causando a falta de auxílio a essas pessoas e até mesmo uma falta de segurança com o pet.
+Falando em acesibilidade, memso sendo lei (lei 11.126), que assegura "à pessoa portadora de deficiência visual usuária de cão-guia, o direito de ingressar e permanecer, acompanhado do cão-guia, em qualquer local público ou privado, meio de transporte, estabelecimento comercial ou industrial", porém, é de liberdade do motorista das empresas privadas de transporte particular decidirem se aceitam o animal ou não em seus carros, causando a falta de auxílio a essas pessoas e até mesmo uma falta de segurança com o pet.<br>
 Existem aplicativos onde se procura por diversos serviços aleatórios, e neles se procuram esses serviços específico para pets, alguém que possa fazer o transporte seguro do seu animal e por isso o GetPet tem o potencial de agregar mais praticidade para seus usuários, com valores mais acessíveis.
 	
  | | | 
@@ -208,7 +209,11 @@ As primeiras atividades de requisitos serão realizadas durante a sprint 1, já 
 
 ### Unidade 1
 
-A primeira unidade foi muito importante para aprendermos mais a respeito das metodologias de desenvolvimento. Após estudos, aprendemos a como escolher a melhor abordagem de acordo com os requisitos. Também foi iniciado um leve estudo de Flutter.
+Com a unidade 1, consguimos entender como é importante o entendimento do negócio/produto, para especificar seu ciclo de vida e sua abordagem de desenvolvimento correta para ter uma metodologia correta que leve você ao sucesso do seu projeto. Por muito tempo, pensávamos sempre que a metodologia "Scrum", mesmo não sendo um desenvolvimento de software, era sempre o mais aplicável para todo e qualquer tipo de situação, e na unidade 1, vimos que pensávamos de uma forma bem errada.<br>
+Aprendemos que para escolher uma abordagem e um ciclo de vida que encaixe bem no seu projeto, temos que avaliar diversar partes: Requisitos, acessibilidade do cliente, prazos, características da sua equipe, recursos. <br>
+Na parte de documentação, conseguimos aprender a montagem incial da "Visão do produto e projeto". Tivemos que analisar de uma forma que tinhamos que ter uma visão ampla do produto para a criação da parte de "Atividades", sendo um desafio.<br>
+Entendemos como analisar os riscos que podemos ter e com isso pensar como mitigar eles, aprendendo sobre o gerenciamento de riscos ou problemas que podem ocorrer no nosso projeto.<br>
+Para finalizar, aprendemos bastante sobre como dividir tarefas de forma justa e criar um vículo divertido entre os membros do grupo, aprendendo o ritmo de cada membro e suas personalidades, visando um local confortável para trabalhar em conjunto durante o projeto inteiro.
 
 <br>
 
