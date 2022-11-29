@@ -205,7 +205,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Verificar | PDCA | Slice | Plano de ação | 
+| Identificar pontos fortes e de melhoria da equipe observados durante a sprint | PDCA | Slice | Plano de ação | 
 
 **Obs.:* Atividades com (*) serão realizadas apenas uma vez em todo o projeto e ocorrerão durante a Sprint 1 (sprint de preparação).
 
