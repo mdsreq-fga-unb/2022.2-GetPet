@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 1.3
+Versão 1.7
 
 <br>
 
@@ -15,6 +15,7 @@ Versão 1.3
 | 16/11/2022 | 1.4 | Arrumando erros do Gerenciamento de Riscos | [Maria Abritta](https://github.com/MariaAbritta) |
 | 28/11/2022 | 1.5 | Arrumando os "Objetivos do produto" | [Maria Abritta](https://github.com/MariaAbritta) |
 | 28/11/2022 | 1.6 | Arrumando as "Lições aprendidas" | [Maria Abritta](https://github.com/MariaAbritta) |
+| 29/11/2022 | 1.7 | Ajustes na matriz de comunicação e atividades | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
@@ -30,10 +31,8 @@ Versão 1.3
     - 2.4 Gerenciamento de Riscos
     - 2.5 Critérios de Replanejamento
 - [PROCESSO DE DESENVOLVIMENTO DE SOFTWARE](#processo-de-desenvolvimento)
-    - 3.1 Atividade 1 - Requisitos
-    - 3.2 Atividade 2 - Design
-    - 3.3 Atividade 3 - Construção
-    - 3.4 Atividade 4 - Teste
+    - 3.1 Metodologia e Processo de Desenvolvimento de Sofware
+    - 3.2 Atividades 
 
 - [LIÇÕES APRENDIDAS](#licoes-aprendidas) 
     - 4.1 Unidade 1
@@ -164,44 +163,51 @@ Nessas situações os seguintes passos devem ser seguidos:
 
 ## PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
 
+### 3.1 Metodologia e Processo de Desenvolvimento de Sofware
+
 Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os requisitos do produto ainda não são totalmente conhecidos e a disponibilidade do cliente ser grande, o processo ScrumXp foi escolhido pela equipe. As cerimônias do Scrum para otimizar a gestão do projeto e procedimentos do XP (Extreme Programming) para auxiliar os desenvolvedores do time. Utilizaremos de boas práticas de programação que o XP nos trás, como pair programming, testes de aceitação, simplicidade de projeto e integração contínua junto da organização de time do Scrum e suas métricas e eventos, como daily, revisão, retrospectiva e planejamento da sprint.
 
 Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes do cliente sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle com transparência do produto ao cliente.
 
 <br>
 
-### 3.1 Atividade 1 - Requisitos
+### 3.2 Atividades
 
-As primeiras atividades de requisitos serão realizadas durante a sprint 1, já as de refinamento, durante breves reuniões nas sprints sequintes, conforme for necessário.
+Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas cerimônias:
+
+### Sprint Planning
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Elicitação de requisitos | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
-| Construção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
-| Refinamento do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
-| Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
-| Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
 | Validação e verificação | Revisão e inspecção de requisitos | Discord e Miro | Lista de requisitos alinhada com os objetivos do produto |
+| Elicitação de requisitos* | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
+| Construção do Product Backlog* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
+| Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
 
-### 3.2 Atividade 2 - Design
-
-| Atividade | Método | Ferramenta | Entrega |
-:-----------|--------|------------|---------|
-| Interface de usuário | Protótipo de baixa fidelidade | Figma | Protótipo de interfaces |
-
-### 3.3 Atividade 3 - Construção
+### Sprint - Desenvolvimento
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
+| Refinamento do Product Backlog* | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
+| Interface de usuário* | Protótipo de baixa fidelidade | Figma | Protótipo de interfaces |
 | Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
-| Validação do produto com o cliente | Sprint Review | Discord | Validar se a entrega atende aos requisitos | 
-
-### 3.4 Atividade 4 - Teste
-
-| Atividade | Método | Ferramenta | Entrega |
-:-----------|--------|------------|---------|
+| Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
 | Codificação de testes unitários | TDD | VsCode | Identificação e correção de erros |
 | Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
+
+### Sprint Review
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+| Validação do produto com o cliente | Apresentação | Discord | Validar se a entrega atende aos requisitos | 
+
+### Sprint Retro
+
+| Atividade | Método | Ferramenta | Entrega |
+:-----------|--------|------------|---------|
+| Verificar | PDCA | Slice | Plano de ação | 
+
+**Obs.:* Atividades com (*) serão realizadas apenas uma vez em todo o projeto e ocorrerão durante a Sprint 1 (sprint de preparação).
 
 <br>
 
