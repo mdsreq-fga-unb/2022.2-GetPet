@@ -12,7 +12,8 @@ Versão 1.3
 | 13/11/2022 | 1.1 | Ajustes no documento, Matriz de Comunicação e Organização do Projeto | [Bruna Lima](https://github.com/libruna) |
 | 14/11/2022 | 1.2 | Tecnologias a Serem Utilizadas, Lições Aprendidas e Organização do Projeto | [Murilo Perazzo](https://github.com/murilopbs) |
 | 16/11/2022 | 1.3 | Atividades e processos | [Bruna Lima](https://github.com/libruna) |
-| 16/11/2022 | 1.3 | Arrumando erros do Gerenciamento de Riscos | [Maria Abritta](https://github.com/MariaAbritta) |
+| 16/11/2022 | 1.4 | Arrumando erros do Gerenciamento de Riscos | [Maria Abritta](https://github.com/MariaAbritta) |
+| 28/11/2022 | 1.5 | Arrumando os "Objetivos do produto" | [Maria Abritta](https://github.com/MariaAbritta) |
 
 <br>
 
@@ -43,7 +44,11 @@ Versão 1.3
 ## VISÃO GERAL DO PRODUTO 
 
 ### 1.1 Declaração de Posição do Produto 
-O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição a pessoas com necessidade de transporte para seu pet. Atualmente, não existem plataformas específicas que ofereçam esse serviço exclusivo para animais de estimação, existem aplicativos onde se procura por diversos serviços aleatórios, e neles se procuram esses serviços específico para pets e por isso o GetPet tem o potencial de agregar mais praticidade para seus usuários, com valores mais acessíveis.
+
+O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição a pessoas com necessidade de transporte para seu pet. Atualmente, não existem plataformas específicas que ofereçam esse serviço exclusivo para animais de estimação, existem apps de transporte particular que são proibidos de transportarem animais de estimação em suas viagens, e mesmo quando aceitam, cobram valores adiconais.<br>
+Outro exemplo são Petshops que não fazem o serviço de buscar ou levar de volta o pet, fazendo seus donos se dedobrarem para conseguir tal serviço.<br>
+Falando em acesibilidade, memso sendo lei (lei 11.126), que assegura "à pessoa portadora de deficiência visual usuária de cão-guia, o direito de ingressar e permanecer, acompanhado do cão-guia, em qualquer local público ou privado, meio de transporte, estabelecimento comercial ou industrial", porém, é de liberdade do motorista das empresas privadas de transporte particular decidirem se aceitam o animal ou não em seus carros, causando a falta de auxílio a essas pessoas e até mesmo uma falta de segurança com o pet.
+Existem aplicativos onde se procura por diversos serviços aleatórios, e neles se procuram esses serviços específico para pets, alguém que possa fazer o transporte seguro do seu animal e por isso o GetPet tem o potencial de agregar mais praticidade para seus usuários, com valores mais acessíveis.
 	
  | | | 
  :----|----|
@@ -57,21 +62,7 @@ O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição 
 <br>
 
 ### 1.2. Objetivos do Produto
-O produto terá 3 macro funcionalidades dispostas para que os motoristas realizem o transporte seguro dos animais, sendo elas:
-
-- *Cadastro de perfil:* Funcionalidades para criação, edição, leitura e deleção de perfil.
-- *Edição de disponibilidade:* Funcionalidade para alterar status de disponibilidade de transporte.
-- *Status de transporte:* Funcionalidade para manter o dono do pet sempre atualizado sobre como se encontra o mesmo:
-    - Em espera: Aguardando embarque do pet;
-    - Em transporte: A caminho do local solicitado com o pet;
-    - No local: Disposto no local solicitado.
-
-- Já para os donos de pets realizarem a solicitação confiável de transporte, o produto contará com 2 macro funcionalidades, sendo elas:
-    - *Cadastro de perfil:* Funcionalidades para criação, edição, leitura e deleção de perfil;
-    - *Solicitação de serviços:*
-        - Ida;
-        - Ida e volta;
-        - Ida e volta com espera.
+O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição a pessoas com necessidade de transporte para seu pet. Atualmente, não existem plataformas específicas que ofereçam esse serviço exclusivo para animais de estimação, existem aplicativos onde se procura por diversos serviços aleatórios, e neles se procuram esses serviços específico para pets e por isso o GetPet tem o potencial de agregar mais praticidade para seus usuários, com valores mais acessíveis.
 
 <br>
 
