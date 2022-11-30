@@ -5,7 +5,7 @@
 ### _**Projeto e Produto**_
 
 - [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
-- [Backlog do Produto]((pages/ProductBacklog.md))
+- [Backlog do Produto](pages/ProductBacklog.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
