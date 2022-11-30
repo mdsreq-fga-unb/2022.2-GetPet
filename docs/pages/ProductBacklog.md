@@ -1,4 +1,4 @@
-<h1 align="center"><b>Backlog do Produto</b></h1>
+<h1 align="center"><b>Requisitos</b></h1>
 Versão 1.0
 
 <br>
@@ -12,7 +12,7 @@ Versão 1.0
 <br>
 
 ## Introdução
-O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em uma lista dos requisitos emergentes para o desenvolvimento do produto. A estrutura SAFe foi utilizada para auxiliar o planejamento e desenvolvimento desse artefato.
+O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em uma lista dos requisitos funcionais emergentes para o desenvolvimento do produto. A estrutura SAFe foi utilizada para auxiliar o planejamento e desenvolvimento desse artefato.
 
 ### Personas
 É o personagem fictício da user story que representa o cliente ideal do produto, no caso o cliente e o motorista. 
@@ -21,7 +21,7 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 - **Motorista:** Pessoa que deseja ganhar uma fonte de renda realizando corridas pet friendly. <br> <br>
 
 
-## Backlog do Produto - GetPet
+## Backlog do Produto 
 
 | Épico | Feature | User Story |
 |-------|---------|------------|
