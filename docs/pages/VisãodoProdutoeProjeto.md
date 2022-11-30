@@ -16,6 +16,7 @@ Versão 1.7
 | 28/11/2022 | 1.5 | Arrumando os "Objetivos do produto" | [Maria Abritta](https://github.com/MariaAbritta) |
 | 28/11/2022 | 1.6 | Arrumando as "Lições aprendidas" | [Maria Abritta](https://github.com/MariaAbritta) |
 | 29/11/2022 | 1.7 | Ajustes na matriz de comunicação e atividades | [Bruna Lima](https://github.com/libruna) |
+| 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
 
 <br>
 
@@ -165,9 +166,9 @@ Nessas situações os seguintes passos devem ser seguidos:
 
 ### 3.1 Metodologia e Processo de Desenvolvimento de Sofware
 
-Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os requisitos do produto ainda não são totalmente conhecidos e a disponibilidade do cliente ser grande, o processo ScrumXp foi escolhido pela equipe. As cerimônias do Scrum para otimizar a gestão do projeto e procedimentos do XP (Extreme Programming) para auxiliar os desenvolvedores do time. Utilizaremos de boas práticas de programação que o XP nos trás, como pair programming, testes de aceitação, simplicidade de projeto e integração contínua junto da organização de time do Scrum e suas métricas e eventos, como daily, revisão, retrospectiva e planejamento da sprint.
+Tendo em vista que o projeto possui um prazo fixo e curto para a entrega, que os requisitos do produto ainda não são totalmente conhecidos e a disponibilidade do cliente ser grande, o processo ScrumXp foi escolhido pela equipe. As cerimônias do Scrum para otimizar a gestão do projeto e procedimentos do XP (Extreme Programming) para auxiliar os desenvolvedores do time. Utilizaremos de boas práticas de programação que o XP nos trás, como pair programming, testes de aceitação, padronização do código e integração contínua junto da organização de time do Scrum e suas métricas e eventos, como daily, revisão, retrospectiva e planejamento da sprint.
 
-Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes do cliente sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle com transparência do produto ao cliente.
+Com uma abordagem e ciclo de vida ágeis, a aquipe também aproveitará de feedbacks constantes do cliente sobre as entregas para melhorar e modificar o produto, quando necessário. Além de agregar confiança e controle com transparência do produto ao cliente. Por termos um prazo fixo e curto o Scrum nos auxilia a manter um prazo com a ultilização de sprints e como ainda não conhecemos bem os requisitos do projeto, poderemos usar as revisões de sprint e sprint planning do Scrum para irmos refinando o os requisitos a cada sprint, com isso também aproveitaremos bastante a disponibilidade alta do cliente a cada sprint. Por causa da maioria da equipe não conhecer bem as tecnologias usadas, o XP se encaixa bem pra auxiliar nisso, com a utilização de pair programming poderemos nos ajudar com tarefas que talvez não conseguiriamos sozinhos, além disso, o XP incentiva à manter um código simples o que nos auxiliaria muito. 
 
 <br>
 
