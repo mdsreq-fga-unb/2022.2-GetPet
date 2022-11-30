@@ -2,9 +2,10 @@
 - [Objetivo](pages/objetivo.md)
 
 ----------------------------------------------------
-### _**Projeto**_
+### _**Projeto e Produto**_
 
 - [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
+- [Backlog do Produto]((pages/ProductBacklog.md))
 
 ----------------------------------------------------
 ### _**Entregas**_
