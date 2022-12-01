@@ -1,5 +1,5 @@
 <h1 align="center"><b>Requisitos do Produto</b></h1>
-Versão 1.0
+Versão 1.1
 
 <br>
 
@@ -8,6 +8,7 @@ Versão 1.0
 | Data | Versão | Descrição | Autor |
 |------| ------ | --------- | ----- |
 | 30/11/2022 | 1.0 | Primeira versão do backlog do produto | [Bruna Lima](https://github.com/libruna) |
+| 30/11/2022 | 1.1 | Adicionando os requisitos não funcionais | [Murilo Perazzo](https://github.com/murilopbs) |
 
 <br>
 
@@ -41,6 +42,24 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 <br>
 
 ## Requisitos não funcionais
+
+<br>
+
+N° | Classificação | Requisitos Não Funcionais
+:---------: |  :-------: |  :-------:
+RNF01 | Requisitos de Implementação | A parte do Back-End do sistema deve ser desenvolvido em Dart/Flutter
+RNF02 | Requisitos de Implementação | A parte do Front-End do sistema deve ser desenvolvido em Dart/Flutter
+RNF03 | Requisitos de Padrões | O sistema deve ser desenvolvido em orientação a objetos
+RNF04 | Requisitos de Portabilidade | A aplicação deve ser mobile
+RFN05 | Requisitos de Usabilidade | A aplicação deve ser responsiva
+RFN06 | Requisitos de Produtos | O sistema deve funcionar 24/7
+RFN07 | Requisitos Éticos | A aplicação deve ser segura em se tratando dos dados do usuário
+RFN08 | Requisitos de Facilidade de Uso | A interface da aplicação deve ser de fácil manipulação
+RFN09 | Requisitos de Implementação | O sistema deve ser testável em Dart/Flutter
+RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de proteção de dados (LGPD)
+
+
+
 
 <br>
 
