@@ -61,7 +61,7 @@ Usaremos esse espaço para descrever as dailys realizadas todods os dias no per�
 
 | Maria Abritta |
 |-------|
-|*"Ontem eu comecei a estrutura do mvp e organizei a parte de dailys. Hoje vou esperar o Feedback do professor em relação ao backlog para ver se já consigo implementar ele no mvp"*| 
+|*"Ontem eu comecei a estrutura do mvp e organizei a parte de dailys. Hoje vou esperar o Feedback do professor em relação ao backlog para ver se já consigo implementar ele no mvp."*| 
 
 | Murilo |
 |-------|
