@@ -76,37 +76,29 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
 
 ## MVP1
 
+ - **Objetivo:** Oferecer as funcionalidades necessárias para conectar os usuários da plataforma promovendo o serviço de transporte.
+
  - **Funcionalidades:**
 
-  | US | Descrição | Estimativa (Sprints) |
-  |----|-----------|----------------------|
-  | US01 | Como cliente, quero ser capaz de realizar meu cadastro para utilizar os serviços de viagem do aplicativo. | 1 |
-  | US02 | Como motorista, quero ser capaz de realizar meu cadastro para oferecer o meu serviço de viagem no aplicativo. | 1 |
-  | USO3 | Como cliente, quero ser capaz de editar o meu perfil para manter os meus dados atualizados. | 1 | 
-  | US04 | Como motorista, quero ser capaz de editar o meu perfil para manter os meus dados atualizados. | 1 | 
-  | US05 | Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. | 1 | 
-  | US06 | Como cliente, quero ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet. | 1 | 
-  | US07 | Como usuário, quero ser capaz de realizar login com email e senha para acessar as funcionalidades do aplicativo. | 1 |
-  | US08 | Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha. | 1 | 
-
- - **Resultado esperado:** Oferecer as funcionalidades necessárias para os usuários gerenciarem o próprio perfil e acesso ao sistema.
+  | Feature | Estimativa (Sprints) |
+  |---------|----------------------|
+  | [FEAT05] Conectar usuários | 2 |
+  | [FEAT06] Protocolos de viagem | 2 |
 
 <br>
 
 ## MVP2
 
+  - **Objetivo:** Prover as funcionalidades necessárias para os usuários gerenciarem o próprio perfil e acesso ao sistema.
+
   - **Funcionalidades:**
 
-  | US | Descrição | Estimativa (Sprints) |
-  |----|-----------|----------------------|
-  | US09 | Como cliente, quero ser capaz de me conectar com um motorista parceiro para conseguir o transporte do pet até seu destino. | 1 |
-  | US10 | Como motorista, quero ser capaz de me conectar com um cliente para transportar seu pet. | 1 | 
-  | US11 | Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. | 1 |
-  | US12 | Como motorista, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. | 1 | 
-  | US13 | Como cliente, quero ser notificado do valor da corrida para verificar se possuo valor da viagem. | 1 |
-  | US14 | Como cliente, quero ser capaz de agendar a corrida de ida e volta para garantir a disponibilidade no transporte. | 1 | 
- 
-  - **Resultado esperado:** Oferecer as funcionalidades necessárias para conectar os usuários da plataforma promovendo o serviço de viagens.
+  | Feature | Estimativa (Sprints) |
+  |---------|----------------------|
+  | [FEAT01] Cadastro de usuário | 1 
+  | [FEAT02] Edição de dados  | 1
+  | [FEAT03] Visualização de dados  | 1
+  | [FEAT04] Autenticação de usuário  | 1
 
 ## Referências 
 - Material do moodle da disciplina
