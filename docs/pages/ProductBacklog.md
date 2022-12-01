@@ -11,8 +11,13 @@ Versão 1.0
 
 <br>
 
-## Introdução
-
+### Sumário
+- Backlog do Produto
+- Requisitos não funcionais
+- Critérios de aceitação
+- MVP1
+- MVP2
+- Referências
 
 ## Backlog do Produto 
 O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em uma lista dos requisitos funcionais emergentes para o desenvolvimento do produto. A estrutura SAFe foi utilizada para auxiliar o planejamento e desenvolvimento desse artefato.
@@ -44,12 +49,31 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 | US | Critério de aceitação | Prioridade |
 |----|-----------------------|------------|
 
-
 <br>
 
 ## MVP1
 
+ - **Proposta:** 
+
+ - **Funcionalidades:**
+
+  | US | Estimativa (Sprints) |
+  |----|----------------------|
+
+ - **Resultado esperado:**
+
+<br>
+
 ## MVP2
+
+  - **Proposta:** 
+
+  - **Funcionalidades:**
+
+  | US | Estimativa (Sprints) |
+  |----|----------------------|
+
+  - **Resultado esperado:**
 
 ## Referências 
 - Material do moodle da disciplina
