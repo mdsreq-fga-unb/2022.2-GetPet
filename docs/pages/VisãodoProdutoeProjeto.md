@@ -94,8 +94,8 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 :--------|---------|-------------|----------|
 | 0 | Definição da equipe e do projeto | 25/10/22 | 04/11/22 |
 | 1 | Primeira versão da visão de produto e projeto | 07/11/22 | 18/11/22 |
-| 2 | Product Backlog, ambiente de desenvolvimento, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
-| 3 | Implementação do MVP1 | 05/12/22 | 16/12/22 |
+| 2 | Product Backlog, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
+| 3 | Ambiente de desenvolvimento e implementação do MVP1 | 05/12/22 | 16/12/22 |
 | 4 | Implementação do MVP1 | 19/12/22 | 30/12/22* |
 | 5 | Implementação e entrega do MVP1 | 02/01/23 | 13/01/23 |
 | 6 | Implementação do MVP2 | 16/01/23 | 27/01/23 |
@@ -193,7 +193,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Interface de usuário* | Protótipo de baixa fidelidade | Figma | Protótipo de interfaces |
 | Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
 | Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
-| Codificação de testes unitários | TDD | VsCode | Identificação e correção de erros |
+| Codificação de testes | Testes unitários  | VsCode | Identificação e correção de erros |
 | Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
 
 ### Sprint Review

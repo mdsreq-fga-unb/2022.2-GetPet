@@ -26,8 +26,6 @@ Usaremos esse espaço para descrever as dailys realizadas todods os dias no per�
 |-------|
 |*"Não avancei consideravelmente da última apresentação pra cá, pretendo hj me ambientar com os cards nos boards, parear com a Maria e com o Guilherme, e iniciar a correção do tópico de desenvolvimento levantado pelo professor na última avaliação"*| 
 
-<br>
-
 ### **Dia 30/11**
 | Bruna |
 |-------|
@@ -49,3 +47,28 @@ Usaremos esse espaço para descrever as dailys realizadas todods os dias no per�
 |-------|
 |*"Ontem pareando com o Guilherme, demos início a prototipação de baixa fidelidade, hj pretendo continuar e finalizar o design, inclusive vou deixar o link para validarem oque estamos fazendo. Atualizei o board de acordo com as mudanças de atividades que tivemos."*| 
 
+<br>
+
+## Dezembro
+### **Dia 01/12**
+| Bruna |
+|-------|
+|*"Ontem eu finalizei a primeira versão do backlog do produto e mais tarde vou pegar os feedbacks do professor"*|
+
+| Guilherme |
+|-------|
+|*"Ontem junto do Pedro fizemos o protótipo de baixa fidelidade e ajustei a parte de metodologia na visão do produto. Hoje vou esperar o feedback do professor pra vermos o que mais precisa ser ajustado"*| 
+
+| Maria Abritta |
+|-------|
+|*"Ontem eu comecei a estrutura do mvp e organizei a parte de dailys. Hoje vou esperar o Feedback do professor em relação ao backlog para ver se já consigo implementar ele no mvp"*| 
+
+| Murilo |
+|-------|
+|*"Hoje eu terminei os requisitos não funcionais e adicionei ao backlog"*| 
+
+| Pedro |
+|-------|
+|*"Ontem caminhei com a prototipagem com o Guilherme, pretendo fechar a parte da metodologia de desenvolvimento hj"*| 
+
+<br>
