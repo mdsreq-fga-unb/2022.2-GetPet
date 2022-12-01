@@ -45,6 +45,10 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 
 <br>
 
+Os requisitos não funcionais (RNFs) definem os atributos do sistema, como segurança, confiabilidade, desempenho, capacidade de manutenção, usabilidade. Eles servem como restrições ou constrangimentos no design do sistema em diferentes pendências.
+
+<br>
+
 N° | Classificação | Requisitos Não Funcionais
 :---------: |  :-------: |  :-------:
 RNF01 | Requisitos de Implementação | A parte do Back-End do sistema deve ser desenvolvido em Dart/Flutter
