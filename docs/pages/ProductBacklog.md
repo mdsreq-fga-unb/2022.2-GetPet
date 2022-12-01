@@ -1,4 +1,4 @@
-<h1 align="center"><b>Requisitos</b></h1>
+<h1 align="center"><b>Requisitos do Produto</b></h1>
 Versão 1.0
 
 <br>
@@ -12,6 +12,9 @@ Versão 1.0
 <br>
 
 ## Introdução
+
+
+## Backlog do Produto 
 O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em uma lista dos requisitos funcionais emergentes para o desenvolvimento do produto. A estrutura SAFe foi utilizada para auxiliar o planejamento e desenvolvimento desse artefato.
 
 ### Personas
@@ -19,9 +22,6 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 
 - **Cliente:** Pessoa que tem a necessidade de se transportar com um pet ou de transportar somente o pet. <br>
 - **Motorista:** Pessoa que deseja ganhar uma fonte de renda realizando corridas pet friendly. <br> <br>
-
-
-## Backlog do Produto 
 
 | Épico | Feature | User Story |
 |-------|---------|------------|
@@ -31,6 +31,20 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 | <b>[EP02]</b> Acesso ao sistema | <b>[FEAT04]</b> Autenticação de usuário | <b>[US07]</b> Como usuário, quero ser capaz de realizar login com email e senha para acessar as funcionalidades do aplicativo. <br> <b>[US08]</b> - Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha.|
 | <b>[EP03]</b> Transporte de pets | <b>[FEAT05]</b> Gerenciamento de corridas | <b>[US09]</b> - Como cliente, quero ser capaz de me conectar com um motorista parceiro para conseguir o transporte do pet até seu destino. <br> <b>[US10]</b> - Como motorista, quero ser capaz de me conectar com um cliente para transportar ele e seu pet. <br> <b>[US11]</b> Como motorista, antes de me conectar com um cliente que necessita de transporte, quero ser capaz de visualizar a distância até seu local de embarque. <br> <b>[US12]</b> Como motorista, após aceitar uma corrida, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. <br> <b>[US13]</b> Como cliente, quero ser notificado do valor da corrida antes de me conectar ao motorista para confirmar se possuo valor da viagem.| 
 | <b>[EP03]</b> Transporte de pets | <b>[FEAT06]</b> Agendamento prévio de corridas | 
+
+<br>
+
+## Requisitos não funcionais
+
+<br>
+
+## Critérios de aceitação
+
+| US | Critério de aceitação | Prioridade |
+|----|-----------------------|------------|
+
+
+<br>
 
 ## MVP1
 
