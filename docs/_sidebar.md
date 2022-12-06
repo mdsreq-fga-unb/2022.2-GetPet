@@ -5,7 +5,7 @@
 ### _**Projeto e Produto**_
 
 - [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
-- [Backlog do Produto](pages/ProductBacklog.md)
+- [Requisitos do Produto](pages/ProductBacklog.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
@@ -13,6 +13,8 @@
 - Unidade 1 
    - [Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
    - [Vídeo de Apresentação das Entregas](pages/VideoApresentacaoDasEntregas.md)
+   
+- Unidade 2
 ----------------------------------------------------
 ### _**Equipe**_
 
