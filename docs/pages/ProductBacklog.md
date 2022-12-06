@@ -37,7 +37,8 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 | <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT03]</b> Visualização de dados  <br> | <b>[US05]</b> Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. <br> <b>[US06]</b> Como cliente, quero ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet.| 
 | <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT04]</b> Autenticação de usuário | <b>[US07]</b> Como usuário, quero ser capaz de realizar login com email e senha para acessar as funcionalidades do aplicativo. <br> <b>[US08]</b> Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha.|
 | <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT05]</b> Conectar usuários | <b>[US09]</b> Como cliente, quero ser capaz de me conectar com um motorista parceiro para conseguir o transporte do pet até seu destino. <br> <b>[US10]</b> Como motorista, quero ser capaz de me conectar com um cliente para transportar seu pet.| 
-| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US12]</b> Como motorista, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. <br> <b>[US13]</b> Como cliente, quero ser notificado do valor da corrida para verificar se possuo valor da viagem. <br> <b>[US14]</b> Como cliente, quero ser capaz de agendar a corrida de ida e volta para garantir a disponibilidade no transporte.
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US12]</b> Como motorista, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. <br> <b>[US13]</b> Como cliente, quero ser notificado do valor da corrida para verificar se possuo valor da viagem. <br> <b>[US14]</b> Como cliente, quero ser capaz de agendar a corrida de ida e volta para garantir a disponibilidade no transporte.|
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT07]</b> Feedback de viagem | <b>[US12]</b> Como cliente, quero ser capaz de visualizar o histórico de viagens meu e do meu pet para verificar as corridas realizadas e esclarecer eventuais dúvidas. <br> <b>[US13]</b> Como motorista, quero ser capaz de visualizar o meu histórico de viagens para verificar as corridas realizadas esclarecer eventuais dúvidas. <br> <b>[US14]</b> Como cliente, quero ser capaz de avaliar o motorista que fez a corrida para contribuir com a minha segurança e de outros pets, aumentando a confiabilidade. |
 
 <br>
 
@@ -99,6 +100,7 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
   | [FEAT02] Edição de dados  | 1
   | [FEAT03] Visualização de dados  | 1
   | [FEAT04] Autenticação de usuário  | 1
+  | [FEAT07] Feedback de viagem | 1 |
 
 ## Referências 
 - Material do moodle da disciplina
