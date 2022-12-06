@@ -10,14 +10,12 @@ Versão 1.1
 | 30/11/2022 | 1.0 | Primeira versão do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.1 | Adicionando os requisitos não funcionais | [Murilo Perazzo](https://github.com/murilopbs) |
 
-<br>
-
 ### Sumário
 - Backlog do Produto
 - Requisitos não funcionais
-- Critérios de aceitação
 - MVP1
 - MVP2
+- Critérios de aceitação
 - Referências
 
 ## Backlog do Produto 
@@ -28,6 +26,7 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 
 - **Cliente:** Pessoa que tem a necessidade de se transportar com um pet ou de transportar somente o pet. A frequência de uso do aplicativo vai depender das necessidades de cada cliente, mas a experiência deve ser ágil, confortável e segura. <br>
 - **Motorista:** Pessoa que deseja ganhar uma fonte de renda realizando corridas pet friendly. A frequência de uso do aplicativo vai depender da demanda por transporte e disposição do motorista, mas a experiência deve ser prática e fácil. <br>
+- **Usuário:** Refere-se tanto ao cliente quanto ao motorista. <br>
 <br>
 
 | Épico | Feature | User Story |
@@ -62,23 +61,11 @@ RFN08 | Requisitos de Facilidade de Uso | A interface da aplicação deve ser de
 RFN09 | Requisitos de Implementação | O sistema deve ser testável em Dart/Flutter
 RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de proteção de dados (LGPD)
 
-
-
-
-<br>
-
-## Critérios de aceitação
-
-| US | Critério de aceitação | Prioridade |
-|----|-----------------------|------------|
-
 <br>
 
 ## MVP1
 
  - **Objetivo:** Oferecer as funcionalidades necessárias para conectar os usuários da plataforma promovendo o serviço de transporte.
-
- - **Funcionalidades:**
 
   | Feature | Estimativa (Sprints) |
   |---------|----------------------|
@@ -90,15 +77,20 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
 
 ## MVP2
 
-  - **Objetivo:** Prover as funcionalidades necessárias para os usuários gerenciarem o próprio perfil e acesso ao sistema.
-
-  - **Funcionalidades:**
+  - **Objetivo:** Prover as funcionalidades necessárias para os usuários gerenciarem o próprio perfil e acesso ao sistema, além da avaliação do motorista.
 
   | Feature | Estimativa (Sprints) |
   |---------|----------------------|
   | [FEAT02] Visualização de dados  | 1 |
   | [FEAT03] Autenticação de usuário  | 1 |
   | [FEAT06] Feedback de viagem | 1 |
+  
+<br>
+
+## Critérios de aceitação
+
+| US | Critério de aceitação | Prioridade |
+|----|-----------------------|------------|
 
 ## Referências 
 - Material do moodle da disciplina
