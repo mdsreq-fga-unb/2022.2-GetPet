@@ -1,5 +1,5 @@
 <h1 align="center"><b>Requisitos do Produto</b></h1>
-Versão 1.1
+Versão 1.2
 
 <br>
 
@@ -9,6 +9,7 @@ Versão 1.1
 |------| ------ | --------- | ----- |
 | 30/11/2022 | 1.0 | Primeira versão do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.1 | Adicionando os requisitos não funcionais | [Murilo Perazzo](https://github.com/murilopbs) |
+| 06/12/2022 | 1.2 | Adicionada nova feature ao backlog do produto e ajustes | [Maria Abritta](https://github.com/MariaAbritta) e [Bruna Lima](https://github.com/libruna) |
 
 ### Sumário
 - Backlog do Produto
@@ -22,7 +23,7 @@ Versão 1.1
 O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em uma lista dos requisitos funcionais emergentes para o desenvolvimento do produto. A estrutura SAFe foi utilizada para auxiliar o planejamento e desenvolvimento desse artefato.
 
 ### User Roles
-É o personagem fictício da user story que representa o usuário ideal do produto, no caso do GetPet o cliente e o motorista. Todas as histórias são escritas a partir da perspectiva de um tipo de usuário.
+É o personagem fictício da user story que representa o consumidor ideal do produto, no caso do GetPet o cliente, o motorista e o usuário que é uma generalização dos dois anteriores. Todas as histórias são escritas a partir da perspectiva de um tipo de consumidor.
 
 - **Cliente:** Pessoa que tem a necessidade de se transportar com um pet ou de transportar somente o pet. A frequência de uso do aplicativo vai depender das necessidades de cada cliente, mas a experiência deve ser ágil, confortável e segura. <br>
 - **Motorista:** Pessoa que deseja ganhar uma fonte de renda realizando corridas pet friendly. A frequência de uso do aplicativo vai depender da demanda por transporte e disposição do motorista, mas a experiência deve ser prática e fácil. <br>
@@ -77,7 +78,7 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
 
 ## MVP2
 
-  - **Objetivo:** Prover as funcionalidades necessárias para os usuários gerenciarem o próprio perfil e acesso ao sistema, além da avaliação do motorista.
+  - **Objetivo:** Prover as funcionalidades necessárias para os usuários gerenciarem o próprio perfil, viagens e acesso ao sistema, além da avaliação do motorista.
 
   | Feature | Estimativa (Sprints) |
   |---------|----------------------|
@@ -87,10 +88,6 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
   
 <br>
 
-## Critérios de aceitação
-
-| US | Critério de aceitação | Prioridade |
-|----|-----------------------|------------|
-
 ## Referências 
 - Material do moodle da disciplina
+- [SAFe](https://www.scaledagileframework.com/#)
