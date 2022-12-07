@@ -16,7 +16,6 @@ Versão 1.2
 - Requisitos não funcionais
 - MVP1
 - MVP2
-- Critérios de aceitação
 - Referências
 
 ## Backlog do Produto 
