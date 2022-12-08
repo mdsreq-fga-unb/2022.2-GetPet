@@ -12,9 +12,10 @@
 
 - Unidade 1 
    - [Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
-   - [Vídeo de Apresentação das Entregas](pages/VideoApresentacaoDasEntregas.md)
+   - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoDasEntregas.md)
    
 - Unidade 2
+   - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoUnidade2.md)
 ----------------------------------------------------
 ### _**Equipe**_
 
