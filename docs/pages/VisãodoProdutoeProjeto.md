@@ -181,18 +181,19 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
 | Validação e verificação | Revisão e inspecção de requisitos | Discord e Miro | Lista de requisitos alinhada com os objetivos do produto |
-| Elicitação de requisitos* | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
-| Construção do Product Backlog* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
+| Elicitação de requisitos | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
+| Construção do Product Backlog inicial* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
 | Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
 
 ### Sprint - Desenvolvimento
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Refinamento do Product Backlog* | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
-| Interface de usuário* | Protótipo de baixa fidelidade | Figma | Protótipo de interfaces |
-| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
+| Refinamento do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
 | Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
+| Construção e manutenção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
+| Interface de usuário | Protótipos de baixa e alta fidelidade | Figma | Protótipo de interfaces |
+| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
 | Codificação de testes | Testes unitários  | VsCode | Identificação e correção de erros |
 | Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
 
@@ -208,7 +209,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 :-----------|--------|------------|---------|
 | Identificar pontos fortes e de melhoria da equipe observados durante a sprint | PDCA | Slice | Plano de ação | 
 
-**Obs.:* Atividades com (*) serão realizadas apenas uma vez em todo o projeto e ocorrerão durante a Sprint 1 (sprint de preparação).
+**Obs.:* A atividade de Construção do Product Backlog inicial foi realizada apenas durante a Sprint 1 (sprint de preparação).
 
 <br>
 
@@ -221,6 +222,8 @@ Aprendemos que para escolher uma abordagem e um ciclo de vida que encaixe bem no
 Na parte de documentação, conseguimos aprender a montagem incial da "Visão do produto e projeto". Tivemos que analisar de uma forma que tinhamos que ter uma visão ampla do produto para a criação da parte de "Atividades", sendo um desafio.<br>
 Entendemos como analisar os riscos que podemos ter e com isso pensar como mitigar eles, aprendendo sobre o gerenciamento de riscos ou problemas que podem ocorrer no nosso projeto.<br>
 Para finalizar, aprendemos bastante sobre como dividir tarefas de forma justa e criar um vículo divertido entre os membros do grupo, aprendendo o ritmo de cada membro e suas personalidades, visando um local confortável para trabalhar em conjunto durante o projeto inteiro.
+
+### Unidade 2
 
 <br>
 
