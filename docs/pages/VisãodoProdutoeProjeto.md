@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 1.7
+Versão 1.9
 
 <br>
 
@@ -17,6 +17,7 @@ Versão 1.7
 | 28/11/2022 | 1.6 | Arrumando as "Lições aprendidas" | [Maria Abritta](https://github.com/MariaAbritta) |
 | 29/11/2022 | 1.7 | Ajustes na matriz de comunicação e atividades | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
+| 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
