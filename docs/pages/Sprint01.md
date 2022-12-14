@@ -5,7 +5,7 @@
 ## Sprint Planning
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
-- [Miro]()
+- [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
 
 ## Sprint Review 
 
