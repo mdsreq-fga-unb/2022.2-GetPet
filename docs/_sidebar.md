@@ -6,9 +6,9 @@
 
 - [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
 - [Requisitos do Produto](pages/ProductBacklog.md)
-- [Sprints]
-   - [Sprint 01](pages/Sprint01)
-   - [Sprint 02](pages/Sprint02)
+- Sprints
+   - [Sprint 01](pages/Sprint01.md)
+   - [Sprint 02](pages/Sprint02.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
