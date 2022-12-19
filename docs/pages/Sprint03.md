@@ -1,4 +1,4 @@
-<h1 align="center"><b>Sprint 02</b></h1>
+<h1 align="center"><b>Sprint 03</b></h1>
 
 <br>
 
