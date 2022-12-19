@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 1.9
+Versão 2.0
 
 <br>
 
@@ -18,6 +18,7 @@ Versão 1.9
 | 29/11/2022 | 1.7 | Ajustes na matriz de comunicação e atividades | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
 | 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
+| 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
