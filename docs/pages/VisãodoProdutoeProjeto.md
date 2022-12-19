@@ -93,14 +93,13 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 
 | Sprint | Entrega | Data início | Data fim |
 :--------|---------|-------------|----------|
-| 0 | Definição da equipe e do projeto | 25/10/22 | 04/11/22 |
 | 1 | Primeira versão da visão de produto e projeto | 07/11/22 | 18/11/22 |
-| 2 | Product Backlog, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
-| 3 | Ambiente de desenvolvimento e implementação do MVP1 | 05/12/22 | 16/12/22 |
-| 4 | Implementação do MVP1 | 19/12/22 | 30/12/22* |
-| 5 | Implementação e entrega do MVP1 | 02/01/23 | 13/01/23 |
-| 6 | Implementação do MVP2 | 16/01/23 | 27/01/23 |
-| 7 | Implementação e entrega do MVP2 | 30/01/23 | 10/02/23 |
+| 2 | Elicitação de requisitos, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
+| 3 | Product Backlog inicial, configuração de ambiente e estudo de tecnologias | 05/12/22 | 16/12/22 |
+| 4 | Implementação das US01, US02, US03 e US08 | 19/12/22 | 30/12/22* |
+| 5 | Implementação das US09, US10, US11, US12 e US13 | 02/01/23 | 13/01/23 |
+| 6 | Implementação das US04, US05, US06 | 16/01/23 | 27/01/23 |
+| 7 | Implementação das US07, US14, US15 | 30/01/23 | 10/02/23 |
 
 <br>
 * Devido ao recesso de Natal e Ano Novo teremos uma semana a menos de aula.
