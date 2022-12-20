@@ -1,5 +1,5 @@
 <h1 align="center"><b>Requisitos do Produto</b></h1>
-Versão 1.2
+Versão 1.3
 
 <br>
 
@@ -10,6 +10,7 @@ Versão 1.2
 | 30/11/2022 | 1.0 | Primeira versão do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.1 | Adicionando os requisitos não funcionais | [Murilo Perazzo](https://github.com/murilopbs) |
 | 06/12/2022 | 1.2 | Adicionada nova feature ao backlog do produto e ajustes | [Maria Abritta](https://github.com/MariaAbritta) e [Bruna Lima](https://github.com/libruna) |
+| 20/12/2022 | 1.3 | Ajuste FEAT01 do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 
 ### Sumário
 - Backlog do Produto
