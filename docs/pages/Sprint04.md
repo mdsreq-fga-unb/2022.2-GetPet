@@ -4,7 +4,7 @@
 
 ## Sprint Planning
 
-**Objetivo da Sprint 04:** Implementação das US01, US02, US03 e US08.
+**Objetivo da Sprint 04:** Implementação das US01, US02, US03, US04 e US09.
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
@@ -25,6 +25,11 @@
 
 ### Tasks US08:
   - Agendar uma corrida - **Pontuação:** 4
+  - Testes unitários de agendar uma corrida - **Pontuação:** 3
+
+<br>
+
+*Também foram criadas tasks para a atividade em sala de aula do PBB e BDD, além de atividades para atualizar a documentação do projeto.*
 
 **Obs.: As tasks foram pontuadas em dias.**
 
