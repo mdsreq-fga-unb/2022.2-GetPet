@@ -24,6 +24,7 @@
   - Testes unitários de editar perfil do cliente - **Pontuação:** 2
 
 ### Tasks US08:
+  - Agendar uma corrida - **Pontuação:** 4
 
 **Obs.: As tasks foram pontuadas em dias.**
 
