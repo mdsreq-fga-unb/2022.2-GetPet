@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 2.0
+Versão 2.1
 
 <br>
 
@@ -19,6 +19,7 @@ Versão 2.0
 | 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
 | 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 | 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
+| 19/12/2022 | 2.0 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
 
 <br>
 
@@ -225,6 +226,9 @@ Entendemos como analisar os riscos que podemos ter e com isso pensar como mitiga
 Para finalizar, aprendemos bastante sobre como dividir tarefas de forma justa e criar um vículo divertido entre os membros do grupo, aprendendo o ritmo de cada membro e suas personalidades, visando um local confortável para trabalhar em conjunto durante o projeto inteiro.
 
 ### Unidade 2
+
+Nesta unidade, estudamos um pouco mais afundo a Engenharia de Requisitos. A apredizagem de como elaborar e refinar um Backlog seguindo o padrão SAFe nos ajudou bastante. Nossa equipe adquiriu muito conhecimento na elaboração dos Épicos, Features e User Story. <br>
+Para finalizar, ficou nítido o comprometimento da equipe com o projeto, melhoramos nossa comunicação e, por conta disso, conseguimos fazer uma entrega com mais qualidade.
 
 <br>
 
