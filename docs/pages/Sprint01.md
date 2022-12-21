@@ -21,14 +21,20 @@
   - Documentação - Metodologia e Processo de Desenvolvimento de Sofware
   - Documentação - Atividades
   - Documentação - Lições aprendidas da Unidade 01
-  - Apresentação do seminário de Processos de Desenvolvimento de Software: Scrum
+  - Apresentação do seminário Scrum
   - Gravar vídeo de apresentação Unidade 01
 
 **Obs.: Nessa sprint as tasks não foram pontuadas.**
 
 ## Sprint Review 
 Houve apenas a validação com professor, as modificações solicitadas foram realizadas na sprint 02.
-Entrega: https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/Vis%C3%A3odoProdutoeProjeto
+
+<br>
+
+**Entregas:**
+  - [Visão do Produto e Projeto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/Vis%C3%A3odoProdutoeProjeto) 
+  - [Seminário Scrum](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/MaterialdoSemin%C3%A1riodoProcessoseCiclosdeVida)
+  - [Vídeo de apresentação](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/VideoApresentacaoDasEntregas)
 
 ## Sprint Retro
 Não ocorreu.
