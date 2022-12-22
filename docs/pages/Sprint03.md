@@ -24,7 +24,13 @@
 **Obs.: As tasks foram pontuadas em dias.**
 
 ## Sprint Review 
-Não houve validação com o cliente nessa sprint.
+Houve apenas a validação com professor e as modificações solicitadas foram realizadas.
+
+<br>
+
+**Entregas:**
+  - [Requisitos do produto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/ProductBacklog)
+  - [Vídeo de apresentação](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/VideoApresentacaoUnidade2)
 
 ## Sprint Retro
 - **Ponto de melhoria:** 
