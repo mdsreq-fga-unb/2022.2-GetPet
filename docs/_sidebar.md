@@ -22,10 +22,7 @@
 - Unidade 2
    - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoUnidade2.md)
 ----------------------------------------------------
-### _**Equipe**_
 
-- [Alocação de Tarefas](pages/AlocacaoDeTarefas.md)
-- [Daily](pages/Daily.md)
 
 
    
