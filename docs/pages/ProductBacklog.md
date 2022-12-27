@@ -70,7 +70,7 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
 
   | Feature | Estimativa (Sprints) |
   |---------|----------------------|
-  | [FEAT01] Cadastro de usuário | 1 |
+  | [FEAT01] Perfil de usuário | 1 |
   | [FEAT04] Conectar usuários | 2 |
   | [FEAT05] Protocolos de viagem | 2 |
 
