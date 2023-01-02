@@ -96,8 +96,8 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 | Sprint | Entrega | Data início | Data fim |
 :--------|---------|-------------|----------|
 | 1 | Primeira versão da visão de produto e projeto | 07/11/22 | 18/11/22 |
-| 2 | Elicitação de requisitos, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
-| 3 | Product Backlog inicial, configuração de ambiente e estudo de tecnologias | 05/12/22 | 16/12/22 |
+| 2 | Elicitação de requisitos, estudo de tecnologias e protótipo de baixa fidelidade | 21/11/22 | 02/12/22 |
+| 3 | Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias | 05/12/22 | 16/12/22 |
 | 4 | Implementação das US01, US02, US03, US04 e US09 | 19/12/22 | 30/12/22* |
 | 5 | Implementação das US10, US11, US12, US13 e US14| 02/01/23 | 13/01/23 |
 | 6 | Implementação das US05, US06 e US07 | 16/01/23 | 27/01/23 |
@@ -191,8 +191,8 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Refinamento do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
-| Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
+| Refinamento do Product Backlog | Brainstorming | Discord | Lista de requisitos com declarações específicas |
+| Refinamento de User Story | Brainstorming | Discord | Lista de requisitos com declarações detalhadas |
 | Construção e manutenção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
 | Interface de usuário | Protótipos de baixa e alta fidelidade | Figma | Protótipo de interfaces |
 | Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
@@ -209,7 +209,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Identificar pontos fortes e de melhoria da equipe observados durante a sprint | PDCA | Slice | Plano de ação | 
+| Verificação | Reunião para identificar pontos fortes e de melhoria da equipe observados durante a sprint | Discord | Plano de ação | 
 
 **Obs.:* A atividade de Construção do Product Backlog inicial foi realizada apenas durante a Sprint 1 (sprint de preparação).
 
