@@ -10,6 +10,7 @@ class UserModel extends Model {
 
   void signUp(
       {required Map<String, dynamic> userData, required String password}) {
+    notifyListeners();
     _auth
         .createUserWithEmailAndPassword(
             email: userData["email"], password: password)
@@ -20,10 +21,17 @@ class UserModel extends Model {
           .collection('users')
           .doc("{firebaseUser!.uid}")
           .get();
+      notifyListeners();
+    }).catchError((e) {
+      notifyListeners();
     });
   }
-}
 
-class _saveUserData {
-  _saveUserData(Map<String, dynamic> userData);
+  Future _saveUserData(Map<String, dynamic> userData) async {
+    this.userData = userData;
+    await FirebaseFirestore.instance
+        .collection("users")
+        .doc(firebaseUser!.uid)
+        .set(userData);
+  }
 }
