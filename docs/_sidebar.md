@@ -6,21 +6,29 @@
 
 - [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
 - [Requisitos do Produto](pages/ProductBacklog.md)
+- Sprints
+   - [Sprint 01](pages/Sprint01.md)
+   - [Sprint 02](pages/Sprint02.md)
+   - [Sprint 03](pages/Sprint03.md)
+   - [Sprint 04](pages/Sprint04.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
 
-- Unidade 1 
+- Unidade 01 
    - [Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
    - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoDasEntregas.md)
    
-- Unidade 2
+- Unidade 02
    - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoUnidade2.md)
-----------------------------------------------------
-### _**Equipe**_
 
-- [Alocação de Tarefas](pages/AlocacaoDeTarefas.md)
-- [Daily](pages/Daily.md)
+- Unidade 03
+   - [PBB e BDD](pages/PBB_BDD.md)
+   - [User Story Mapping]()
+   - [Vídeo de Apresentação da Unidade]()
+   - [Vídeo de validação com o cliente]()
+
+
 
 
    

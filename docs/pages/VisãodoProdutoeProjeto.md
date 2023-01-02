@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 1.7
+Versão 2.1
 
 <br>
 
@@ -17,6 +17,9 @@ Versão 1.7
 | 28/11/2022 | 1.6 | Arrumando as "Lições aprendidas" | [Maria Abritta](https://github.com/MariaAbritta) |
 | 29/11/2022 | 1.7 | Ajustes na matriz de comunicação e atividades | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
+| 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
+| 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
+| 19/12/2022 | 2.0 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
 
 <br>
 
@@ -92,14 +95,13 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 
 | Sprint | Entrega | Data início | Data fim |
 :--------|---------|-------------|----------|
-| 0 | Definição da equipe e do projeto | 25/10/22 | 04/11/22 |
 | 1 | Primeira versão da visão de produto e projeto | 07/11/22 | 18/11/22 |
-| 2 | Product Backlog, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
-| 3 | Ambiente de desenvolvimento e implementação do MVP1 | 05/12/22 | 16/12/22 |
-| 4 | Implementação do MVP1 | 19/12/22 | 30/12/22* |
-| 5 | Implementação e entrega do MVP1 | 02/01/23 | 13/01/23 |
-| 6 | Implementação do MVP2 | 16/01/23 | 27/01/23 |
-| 7 | Implementação e entrega do MVP2 | 30/01/23 | 10/02/23 |
+| 2 | Elicitação de requisitos, estudo de tecnologias e protótipo de interface | 21/11/22 | 02/12/22 |
+| 3 | Product Backlog inicial, configuração de ambiente e estudo de tecnologias | 05/12/22 | 16/12/22 |
+| 4 | Implementação das US01, US02, US03, US04 e US09 | 19/12/22 | 30/12/22* |
+| 5 | Implementação das US10, US11, US12, US13 e US14| 02/01/23 | 13/01/23 |
+| 6 | Implementação das US05, US06 e US07 | 16/01/23 | 27/01/23 |
+| 7 | Implementação das US08, US15, US16 | 30/01/23 | 10/02/23 |
 
 <br>
 * Devido ao recesso de Natal e Ano Novo teremos uma semana a menos de aula.
@@ -181,18 +183,19 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
 | Validação e verificação | Revisão e inspecção de requisitos | Discord e Miro | Lista de requisitos alinhada com os objetivos do produto |
-| Elicitação de requisitos* | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
-| Construção do Product Backlog* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
+| Elicitação de requisitos | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
+| Construção do Product Backlog inicial* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
 | Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
 
 ### Sprint - Desenvolvimento
 
 | Atividade | Método | Ferramenta | Entrega |
 :-----------|--------|------------|---------|
-| Refinamento do Product Backlog* | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
-| Interface de usuário* | Protótipo de baixa fidelidade | Figma | Protótipo de interfaces |
-| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
+| Refinamento do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações específicas |
 | Refinamento de User Story | Brainstorming | Discord e Miro | Lista de requisitos com declarações detalhadas |
+| Construção e manutenção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
+| Interface de usuário | Protótipos de baixa e alta fidelidade | Figma | Protótipo de interfaces |
+| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
 | Codificação de testes | Testes unitários  | VsCode | Identificação e correção de erros |
 | Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
 
@@ -208,7 +211,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 :-----------|--------|------------|---------|
 | Identificar pontos fortes e de melhoria da equipe observados durante a sprint | PDCA | Slice | Plano de ação | 
 
-**Obs.:* Atividades com (*) serão realizadas apenas uma vez em todo o projeto e ocorrerão durante a Sprint 1 (sprint de preparação).
+**Obs.:* A atividade de Construção do Product Backlog inicial foi realizada apenas durante a Sprint 1 (sprint de preparação).
 
 <br>
 
@@ -221,6 +224,11 @@ Aprendemos que para escolher uma abordagem e um ciclo de vida que encaixe bem no
 Na parte de documentação, conseguimos aprender a montagem incial da "Visão do produto e projeto". Tivemos que analisar de uma forma que tinhamos que ter uma visão ampla do produto para a criação da parte de "Atividades", sendo um desafio.<br>
 Entendemos como analisar os riscos que podemos ter e com isso pensar como mitigar eles, aprendendo sobre o gerenciamento de riscos ou problemas que podem ocorrer no nosso projeto.<br>
 Para finalizar, aprendemos bastante sobre como dividir tarefas de forma justa e criar um vículo divertido entre os membros do grupo, aprendendo o ritmo de cada membro e suas personalidades, visando um local confortável para trabalhar em conjunto durante o projeto inteiro.
+
+### Unidade 2
+
+Nesta unidade, estudamos um pouco mais afundo a Engenharia de Requisitos. A apredizagem de como elaborar e refinar um Backlog seguindo o padrão SAFe nos ajudou bastante. Nossa equipe adquiriu muito conhecimento na elaboração dos Épicos, Features e User Story. <br>
+Para finalizar, ficou nítido o comprometimento da equipe com o projeto, melhoramos nossa comunicação e, por conta disso, conseguimos fazer uma entrega com mais qualidade.
 
 <br>
 

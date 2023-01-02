@@ -1,5 +1,5 @@
 <h1 align="center"><b>Requisitos do Produto</b></h1>
-Versão 1.2
+Versão 1.3
 
 <br>
 
@@ -10,6 +10,7 @@ Versão 1.2
 | 30/11/2022 | 1.0 | Primeira versão do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 | 30/11/2022 | 1.1 | Adicionando os requisitos não funcionais | [Murilo Perazzo](https://github.com/murilopbs) |
 | 06/12/2022 | 1.2 | Adicionada nova feature ao backlog do produto e ajustes | [Maria Abritta](https://github.com/MariaAbritta) e [Bruna Lima](https://github.com/libruna) |
+| 20/12/2022 | 1.3 | Ajuste FEAT01 do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 
 ### Sumário
 - Backlog do Produto
@@ -31,12 +32,12 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 
 | Épico | Feature | User Story |
 |-------|---------|------------|
-| <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT01]</b> Perfil de usuário <br> | <b>[US01]</b> Como cliente, quero ser capaz de realizar meu cadastro para utilizar os serviços de viagem do aplicativo. <br> <b>[US02]</b> Como motorista, quero ser capaz de realizar meu cadastro para oferecer o meu serviço de viagem no aplicativo. <br> <b>[US03]</b> Como usuário, quero ser capaz de editar o meu perfil para manter os meus dados atualizados.| 
-| <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT02]</b> Visualização de dados  <br> | <b>[US04]</b> Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. <br> <b>[US05]</b> Como cliente, quero ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet.| 
-| <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT03]</b> Autenticação de usuário | <b>[US06]</b> Como usuário, quero ser capaz de realizar login com email e senha para acessar as funcionalidades do aplicativo. <br> <b>[US07]</b> Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha.|
-| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT04]</b> Conectar usuários | <b>[US08]</b> Como cliente, quero ser capaz de me conectar com um motorista parceiro para conseguir o transporte do pet até seu destino. <br> <b>[US9]</b> Como motorista, quero ser capaz de me conectar com um cliente para transportar seu pet.| 
-| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT05]</b> Protocolos de viagem | <b>[US10]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US11]</b> Como motorista, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. <br> <b>[US12]</b> Como cliente, quero ser notificado do valor da corrida para verificar se possuo valor da viagem. <br> <b>[US13]</b> Como cliente, quero ser capaz de agendar a corrida de ida e volta para garantir a disponibilidade no transporte.|
-| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Feedback de viagem | <b>[US14]</b> Como usuário, quero ser capaz de visualizar o meu histórico de viagens para verificar as corridas realizadas e esclarecer eventuais dúvidas. <br> <b>[US15]</b> Como cliente, quero ser capaz de avaliar o motorista que fez a corrida para contribuir com a minha segurança e de outros pets, aumentando a confiabilidade. |
+| <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT01]</b> Perfil de usuário <br> | <b>[US01]</b> Como cliente, quero ser capaz de realizar meu cadastro para utilizar os serviços de viagem do aplicativo. <br> <b>[US02]</b> Como motorista, quero ser capaz de realizar meu cadastro para oferecer o meu serviço de viagem no aplicativo. <br> <b>[US03]</b> Como cliente, quero ser capaz de editar o meu perfil para manter os meus dados atualizados. <br> <b>[US04]</b> Como motorista, quero ser capaz de editar o meu perfil para manter os meus dados atualizados.| 
+| <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT02]</b> Visualização de dados  <br> | <b>[US05]</b> Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. <br> <b>[US06]</b> Como cliente, quero ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet.| 
+| <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT03]</b> Autenticação de usuário | <b>[US07]</b> Como usuário, quero ser capaz de realizar login com email e senha para acessar as funcionalidades do aplicativo. <br> <b>[US08]</b> Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha.|
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT04]</b> Conectar usuários | <b>[US09]</b> Como cliente, quero ser capaz de me conectar com um motorista parceiro para conseguir o transporte do pet até seu destino. <br> <b>[US10]</b> Como motorista, quero ser capaz de me conectar com um cliente para transportar seu pet.| 
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT05]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US12]</b> Como motorista, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. <br> <b>[US13]</b> Como cliente, quero ser notificado do valor da corrida para verificar se possuo valor da viagem. <br> <b>[US14]</b> Como cliente, quero ser capaz de agendar a corrida de ida e volta para garantir a disponibilidade no transporte.|
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Feedback de viagem | <b>[US15]</b> Como usuário, quero ser capaz de visualizar o meu histórico de viagens para verificar as corridas realizadas e esclarecer eventuais dúvidas. <br> <b>[US16]</b> Como cliente, quero ser capaz de avaliar o motorista que fez a corrida para contribuir com a minha segurança e de outros pets, aumentando a confiabilidade. |
 
 <br>
 
@@ -52,13 +53,13 @@ N° | Classificação | Requisitos Não Funcionais
 :---------: |  :-------: |  :-------:
 RNF01 | Requisitos de Implementação | A parte do Back-End do sistema deve ser desenvolvido em Dart/Flutter
 RNF02 | Requisitos de Implementação | A parte do Front-End do sistema deve ser desenvolvido em Dart/Flutter
-RNF03 | Requisitos de Padrões | O sistema deve ser desenvolvido em orientação a objetos
+RNF03 | Requisitos de Implementação | O sistema deve ser desenvolvido em orientação a objetos
 RNF04 | Requisitos de Portabilidade | A aplicação deve ser android mobile 
 RFN05 | Requisitos de Usabilidade | A aplicação deve ser responsiva
-RFN06 | Requisitos de Produtos | O sistema deve funcionar 24/7
+RFN06 | Requisitos de Confiabilidade | O sistema deve funcionar 24/7
 RFN07 | Requisitos Éticos | A aplicação deve ser segura em se tratando dos dados do usuário
-RFN08 | Requisitos de Facilidade de Uso | A interface da aplicação deve ser de fácil manipulação
-RFN09 | Requisitos de Implementação | O sistema deve ser testável em Dart/Flutter
+RFN08 | Requisitos de Usabilidade | A interface da aplicação deve ser de fácil manipulação
+RFN09 | Requisitos de Suportabilidade | O sistema deve ser testável em Dart/Flutter
 RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de proteção de dados (LGPD)
 
 <br>
@@ -69,7 +70,7 @@ RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de prot
 
   | Feature | Estimativa (Sprints) |
   |---------|----------------------|
-  | [FEAT01] Cadastro de usuário | 1 |
+  | [FEAT01] Perfil de usuário | 1 |
   | [FEAT04] Conectar usuários | 2 |
   | [FEAT05] Protocolos de viagem | 2 |
 
