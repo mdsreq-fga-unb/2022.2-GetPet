@@ -10,7 +10,7 @@
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
 
 ### Tasks:
-  - Criação do protótipo de alta fidelidade
+  - Criação do protótipo de baixa fidelidade
   - Visão do Produto e Projeto - Objetivos do Produto
   - Visão do Produto e Projeto – Ajustes da matriz de comunicação
   - Visão do Produto e Projeto – Descrição da metodologia
@@ -24,7 +24,7 @@
 <br>
 
 **Entrega:**
-  - [Protótipo de alta fidelidade]()
+  - [Protótipo de baixa fidelidade](https://www.figma.com/file/8BQdYAuernJgZBrBaPn2Kt/Untitled?node-id=0%3A1&t=NCnODk4J4sFCdtOk-1)
 
 ## Sprint Review 
 Não ocorreu.
