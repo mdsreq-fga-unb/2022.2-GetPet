@@ -4,7 +4,7 @@
 
 ## Sprint Planning
 
-**Objetivo da Sprint 03:** Contrução do Product Backlog inicial, configuração de ambiente e estudo de tecnologias.
+**Objetivo da Sprint 03:** Contrução do Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias.
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
@@ -17,6 +17,7 @@
   - Refinamento com o cliente da US01 - **Pontuação:** 1
   - Refinamento com o cliente da US02 - **Pontuação:** 1
   - Refinamento com o cliente da US03 - **Pontuação:** 1
+  - Protótipo de alta fidelidade - **Pontuação:** 2
   - Definir critérios de aceitação da US01 - **Pontuação:** 1
   - Definir critérios de aceitação da US02 - **Pontuação:** 1
   - Gravar vídeo de apresentação da Unidade 02 - **Pontuação:** 1
@@ -31,6 +32,7 @@ Houve apenas a validação com professor e as modificações solicitadas foram r
 **Entregas:**
   - [Requisitos do produto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/ProductBacklog)
   - [Vídeo de apresentação](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/VideoApresentacaoUnidade2)
+  - [Protótipo de alta fidelidade](https://www.figma.com/file/pgtQHB4zuUUwojszKAWwcQ/Prot%C3%B3tipo-de-baixa-fidelidade?node-id=0%3A1&t=9ta8ebLyFvWEqUAG-1)
 
 ## Sprint Retro
 - **Ponto de melhoria:** 
