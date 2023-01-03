@@ -9,23 +9,49 @@
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
 
+**Capacity** de cada membro da equipe: 8 pontos
+
 ### Tasks US01:
-  - Cadastrar cliente - **Pontuação:** 2
-  - Testes unitários de cadastrar cliente - **Pontuação:** 2
+
+| Atividade | Pontuação | 
+| --------- | --------- | 
+| Endpoint de cadastrar cliente | 2 |
+| Tela de cadastro | 2 |
+| Conexão back e front | 1 |
  
 ### Tasks US02:
-  - Cadastrar motorista - **Pontuação:** 2
-  - Testes unitários de cadastrar motorista - **Pontuação:** 2
+
+| Atividade | Pontuação | 
+| --------- | --------- | 
+| Endpoint de cadastrar motorista | 2 |
+| Tela de cadastro | 2 |
+| Conexão back e front | 1 |
 
 ### Tasks US03:
-  - Editar perfil do cliente - **Pontuação:** 2
-  - Testes unitários de editar perfil do cliente - **Pontuação:** 2
-  - Editar perfil do cliente - **Pontuação:** 2
-  - Testes unitários de editar perfil do cliente - **Pontuação:** 2
+
+- Editar perfil do cliente
+
+| Atividade | Pontuação | 
+| --------- | --------- | 
+| Endpoint de editar perfil do cliente | 1 |
+| Tela de cadastro | 2 |
+| Conexão back e front | 1 |
+
+- Editar perfil do motorista
+
+| Atividade | Pontuação | 
+| --------- | --------- | 
+| Endpoint de editar perfil do cliente | 1 |
+| Tela de cadastro | 2 |
+| Conexão back e front | 1 |
 
 ### Tasks US08:
-  - Agendar uma corrida - **Pontuação:** 4
-  - Testes unitários de agendar uma corrida - **Pontuação:** 3
+
+| Atividade | Pontuação | 
+| --------- | --------- | 
+| Endpoint de agendamento da corrida | 3 |
+| Tela de agendamento | 2 |
+| Conexão back e front | 2 |
 
 <br>
 
@@ -34,5 +60,7 @@
 **Obs.: As tasks foram pontuadas em dias.**
 
 ## Sprint Review 
+Não ocorreu
 
 ## Sprint Retro
+Não ocorreu
