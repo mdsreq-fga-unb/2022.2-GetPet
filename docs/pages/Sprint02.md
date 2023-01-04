@@ -11,9 +11,9 @@
 
 ## Sprint Planning
 
-**Objetivo da Sprint 02:** Elicitação de requisitos, estudo de tecnologias e protótipo de interface
+**Objetivo da Sprint 02:** Elicitação de requisitos, estudo de tecnologias e protótipo de interface.
 
-### Tasks:
+#### Tasks:
   - Criação do protótipo de baixa fidelidade
   - Visão do Produto e Projeto - Objetivos do Produto
   - Visão do Produto e Projeto – Ajustes da matriz de comunicação
@@ -24,8 +24,6 @@
   - Estudo de tecnologias
 
 **Obs.: Nessa sprint as tasks não foram pontuadas.**
-
-<br>
 
 **Entrega:**
   - [Protótipo de baixa fidelidade](https://www.figma.com/file/8BQdYAuernJgZBrBaPn2Kt/Untitled?node-id=0%3A1&t=NCnODk4J4sFCdtOk-1)
