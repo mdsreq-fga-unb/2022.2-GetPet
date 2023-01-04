@@ -2,16 +2,17 @@
 
 <br>
 
-## Sprint Planning
-
-**Objetivo da Sprint 04:** Implementação das US01, US02, US03, US04 e US09.
+**Período:** 19/12/22 - 30/12/22 <br>
+**Capacity** de cada membro da equipe: 8 pontos
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
 
-**Capacity** de cada membro da equipe: 8 pontos
+## Sprint Planning
 
-### Tasks US01:
+**Objetivo da Sprint 04:** Implementação das US01, US02, US03, US04 e US09.
+
+#### Tasks US01:
 
 | Atividade | Pontuação | 
 | --------- | --------- | 
@@ -19,7 +20,7 @@
 | Tela de cadastro | 2 |
 | Conexão back e front | 1 |
  
-### Tasks US02:
+#### Tasks US02:
 
 | Atividade | Pontuação | 
 | --------- | --------- | 
@@ -27,7 +28,7 @@
 | Tela de cadastro | 2 |
 | Conexão back e front | 1 |
 
-### Tasks US03:
+#### Tasks US03:
 
 - Editar perfil do cliente
 
@@ -45,7 +46,7 @@
 | Tela de cadastro | 2 |
 | Conexão back e front | 1 |
 
-### Tasks US08:
+#### Tasks US08:
 
 | Atividade | Pontuação | 
 | --------- | --------- | 
