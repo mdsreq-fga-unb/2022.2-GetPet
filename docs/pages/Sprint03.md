@@ -2,12 +2,16 @@
 
 <br>
 
-## Sprint Planning
+## Visão Geral
 
-**Objetivo da Sprint 03:** Contrução do Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias.
+**Período:** 05/12/22 - 16/12/22 <br>
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
+
+## Sprint Planning
+
+**Objetivo da Sprint 03:** Contrução do Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias.
 
 ### Tasks:
   - Definição e documentação dos requisitos funcionais do Product Backlog - **Pontuação:** 2
