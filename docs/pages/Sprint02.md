@@ -2,12 +2,16 @@
 
 <br>
 
-## Sprint Planning
+## Visão Geral
 
-**Objetivo da Sprint 02:** Elicitação de requisitos, estudo de tecnologias e protótipo de interface
+**Período:** 	21/11/22 - 02/12/22 <br>
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
+
+## Sprint Planning
+
+**Objetivo da Sprint 02:** Elicitação de requisitos, estudo de tecnologias e protótipo de interface
 
 ### Tasks:
   - Criação do protótipo de baixa fidelidade
