@@ -2,12 +2,16 @@
 
 <br>
 
-## Sprint Planning
+## Visão Geral
 
-**Objetivo da Sprint 01:** Primeira versão da visão de produto e projeto
+**Período:** 07/11/22	18/11/22 <br>
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
+
+## Sprint Planning
+
+**Objetivo da Sprint 01:** Primeira versão da visão de produto e projeto
 
 ### Tasks:
   - Documentação - Declaração de Posição do Produto
