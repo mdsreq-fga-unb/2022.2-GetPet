@@ -2,6 +2,8 @@
 
 <br>
 
+## Visão Geral
+
 **Período:** 02/01/23 - 13/01/23 <br>
 **Capacity** de cada membro da equipe: 10 pontos.
 
@@ -10,7 +12,7 @@
 
 ## Sprint Planning
 
-**Objetivo da Sprint 06:**
+**Objetivo da Sprint 05:**
   1. Débito técnico das US01, US02, US03, US04 e US09;
   2. Implementação das US10, US11, US12, US13 e US14.
  
