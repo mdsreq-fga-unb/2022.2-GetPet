@@ -33,8 +33,6 @@
 ## Sprint Review 
 Houve apenas a validação com professor, as modificações solicitadas foram realizadas na sprint 02.
 
-<br>
-
 **Entregas:**
   - [Visão do Produto e Projeto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/Vis%C3%A3odoProdutoeProjeto) 
   - [Seminário Scrum](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/MaterialdoSemin%C3%A1riodoProcessoseCiclosdeVida)
