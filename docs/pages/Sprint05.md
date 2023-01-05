@@ -22,22 +22,37 @@
 #### Tasks US10
 | Atividade | Pontuação | 
 | --------- | --------- | 
+| Endpoint que registra agendamento de corrida para o motorista |
+| Tela de visualizar agendamento | 2 |
+| Conexão back e front	| 1 |
 
-#### Tasks US11
+#### Tasks US11 
 | Atividade | Pontuação | 
 | --------- | --------- | 
+| Endpoint que calcula distância entre cliente e motorista | 2 |
+| Tela de visualizar distância | 1 |
+| Conexão back e front	| 1 |
 
 #### Tasks US12
 | Atividade | Pontuação | 
 | --------- | --------- | 
+| Endpoint de confirmação do pagamento para o motorista | 2
+| Tela de confirmação | 1 |
+| Conexão back e front	| 1 |
 
 #### Tasks US13
 | Atividade | Pontuação | 
 | --------- | --------- | 
+| Endpoint que calcula valor em razão da distância | 2
+| Tela de visualizar valor | 1 |
+| Conexão back e front	| 1 |
 
 #### Tasks US14
 | Atividade | Pontuação | 
 | --------- | --------- | 
+| Endpoint de agendamento de ida e volta | 2 | 
+| Tela de agendar ida e volta	| 2 |
+| Conexão back e front	| 1 |
 
 <br>
 
