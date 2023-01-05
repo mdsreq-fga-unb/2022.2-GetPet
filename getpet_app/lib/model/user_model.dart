@@ -7,33 +7,30 @@ import 'package:scoped_model/scoped_model.dart';
 class UserModel extends Model {
   final FirebaseAuth _auth = FirebaseAuth.instance;
   User? firebaseUser;
-  Map<String, dynamic> userData = {};
+  Map<String, dynamic> userData = Map();
 
   bool isLoading = false;
 
-  void signUp({
-    required Map<String, dynamic> user,
-    required String password,
-    required VoidCallback onSuccess,
-    required VoidCallback onFail,
-  }) {
+  void signUp(
+      {required Map<String, dynamic> userData,
+      required String password,
+      required VoidCallback onSuccess, // É um apelido para void Funtion()
+      required void Function(String e) onFail}) {
     isLoading = true;
     notifyListeners();
     _auth
         .createUserWithEmailAndPassword(
-            email: user["email"], password: password)
+            email: userData["email"], password: password)
         .then((auth) async {
       firebaseUser = auth.user!;
-      _saveUserData(user);
+      _saveUserData(userData);
       await FirebaseFirestore.instance
           .collection('users')
           .doc("{firebaseUser!.uid}")
           .get();
-      onSuccess();
       isLoading = false;
       notifyListeners();
     }).catchError((e) {
-      onFail();
       isLoading = false;
       notifyListeners();
     });

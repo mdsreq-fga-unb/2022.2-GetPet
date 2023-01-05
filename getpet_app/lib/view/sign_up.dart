@@ -7,10 +7,10 @@ class SignUp extends StatefulWidget {
   const SignUp({Key? key}) : super(key: key);
 
   @override
-  State<SignUp> createState() => SignUpState();
+  State<SignUp> createState() => _SignUpState();
 }
 
-class SignUpState extends State<SignUp> {
+class _SignUpState extends State<SignUp> {
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
   TextEditingController nameController = TextEditingController();
   TextEditingController cpfController = TextEditingController();
@@ -26,6 +26,28 @@ class SignUpState extends State<SignUp> {
             child: Column(
           children: [
             const Padding(padding: EdgeInsets.only(top: 40)),
+            Row(
+              mainAxisAlignment:
+                  MainAxisAlignment.center, //Center Row contents horizontally,
+              crossAxisAlignment:
+                  CrossAxisAlignment.center, //Center Row contents vertically,
+              children: const [
+                SizedBox(
+                  width: 5,
+                ),
+                Text(
+                  "Get-Pet",
+                  style: TextStyle(fontSize: 35),
+                ),
+                Text(
+                  "Cadastro",
+                  style: TextStyle(fontSize: 13),
+                ),
+              ],
+            ),
+            const SizedBox(
+              height: 5,
+            ),
             Form(
                 key: _formKey,
                 child: Column(
@@ -37,7 +59,7 @@ class SignUpState extends State<SignUp> {
                         obscureText: false,
                         keyboardType: TextInputType.text,
                         decoration: const InputDecoration(
-                          labelText: "Nome completo",
+                          labelText: "Nome",
                           enabledBorder: OutlineInputBorder(
                             borderSide:
                                 BorderSide(color: Colors.grey, width: 0.0),
@@ -45,35 +67,10 @@ class SignUpState extends State<SignUp> {
                           border: OutlineInputBorder(borderSide: BorderSide()),
                         ),
                         validator: (text) {
-                          if (text!.isEmpty) {
-                            return "Preencha o nome completo e tente novamente.";
-                          }
-                          return null;
-                        },
-                      ),
-                    ),
-                    const SizedBox(
-                      height: 15,
-                    ),
-                    SizedBox(
-                      width: MediaQuery.of(context).size.width - 50,
-                      child: TextFormField(
-                        controller: cpfController,
-                        obscureText: false,
-                        keyboardType: TextInputType.text,
-                        decoration: const InputDecoration(
-                          labelText: "CPF",
-                          enabledBorder: OutlineInputBorder(
-                            borderSide:
-                                BorderSide(color: Colors.grey, width: 0.0),
-                          ),
-                          border: OutlineInputBorder(borderSide: BorderSide()),
-                        ),
-                        validator: (text) {
-                          if (text!.isEmpty || text.length > 11) {
-                            return "CPF inválido! Verifique e tente novamente.";
-                          }
-                          return null;
+                          if (text!.isEmpty || text.length > 30) {
+                            return "Certeza que esse é um nome válido?";
+                          } else
+                            return null;
                         },
                       ),
                     ),
@@ -96,9 +93,9 @@ class SignUpState extends State<SignUp> {
                         ),
                         validator: (text) {
                           if (!text!.contains("@")) {
-                            return "Email inválido! Verifique e tente novamente.";
-                          }
-                          return null;
+                            return "Certeza que esse é um e-mail válido?";
+                          } else
+                            return null;
                         },
                       ),
                     ),
@@ -139,14 +136,42 @@ class SignUpState extends State<SignUp> {
                         ),
                         validator: (text) {
                           if (text!.length < 6) {
-                            return "A senha deve possuir no mínimo 6 dígitos.";
-                          }
-                          return null;
+                            return "6 dígitos de senha no mínimo";
+                          } else
+                            return null;
                         },
                       ),
                     ),
                     const SizedBox(
                       height: 15,
+                    ),
+                    SizedBox(
+                      width: MediaQuery.of(context).size.width - 50,
+                      child: ElevatedButton(
+                        style: ElevatedButton.styleFrom(
+                            shape: const StadiumBorder()),
+                        child: const Text("Cadastrar"),
+                        onPressed: () {
+                          if (validarFormulario()) {
+                            Map<String, dynamic> userData = {
+                              "email": emailController.text,
+                              "latitude": 666,
+                              "longitude": 666,
+                              "numero": phoneNumber,
+                              "ocupacao": "cliente",
+                              "usuario": nameController.text,
+                            };
+                            model.signUp(
+                                userData: userData,
+                                password: passwordController.text,
+                                onSuccess: _sucesso,
+                                onFail: _falha);
+                          }
+                        },
+                      ),
+                    ),
+                    const SizedBox(
+                      height: 10,
                     ),
                   ],
                 )),
@@ -154,5 +179,26 @@ class SignUpState extends State<SignUp> {
         )),
       );
     });
+  }
+
+  bool validarFormulario() {
+    final FormState? form = _formKey.currentState;
+    if (form!.validate()) {
+      return true;
+    }
+    return false;
+  }
+
+  void _sucesso() {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+      content: Text("Cadastro realizado com sucesso!"),
+    ));
+  }
+
+  void _falha(String e) {
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+      duration: const Duration(seconds: 2),
+      content: Text(e),
+    ));
   }
 }
