@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:getpet_app/model/user_model.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
 import 'package:scoped_model/scoped_model.dart';
-import '../model/user_model.dart';
 
 class SignUp extends StatefulWidget {
   const SignUp({Key? key}) : super(key: key);
@@ -36,12 +36,8 @@ class _SignUpState extends State<SignUp> {
                   width: 5,
                 ),
                 Text(
-                  "Get-Pet",
-                  style: TextStyle(fontSize: 35),
-                ),
-                Text(
                   "Cadastro",
-                  style: TextStyle(fontSize: 13),
+                  style: TextStyle(fontSize: 36),
                 ),
               ],
             ),
@@ -68,7 +64,32 @@ class _SignUpState extends State<SignUp> {
                         ),
                         validator: (text) {
                           if (text!.isEmpty || text.length > 30) {
-                            return "Certeza que esse é um nome válido?";
+                            return "Nome inválido! Verifique e tente novamente.";
+                          } else
+                            return null;
+                        },
+                      ),
+                    ),
+                    const SizedBox(
+                      height: 15,
+                    ),
+                    SizedBox(
+                      width: MediaQuery.of(context).size.width - 50,
+                      child: TextFormField(
+                        controller: cpfController,
+                        obscureText: false,
+                        keyboardType: TextInputType.text,
+                        decoration: const InputDecoration(
+                          labelText: "CPF",
+                          enabledBorder: OutlineInputBorder(
+                            borderSide:
+                                BorderSide(color: Colors.grey, width: 0.0),
+                          ),
+                          border: OutlineInputBorder(borderSide: BorderSide()),
+                        ),
+                        validator: (text) {
+                          if (text!.isEmpty || text.length > 11) {
+                            return "CPF inválido! Verifique e tente novamente.";
                           } else
                             return null;
                         },
@@ -93,7 +114,7 @@ class _SignUpState extends State<SignUp> {
                         ),
                         validator: (text) {
                           if (!text!.contains("@")) {
-                            return "Certeza que esse é um e-mail válido?";
+                            return "Email inválido! Verifique e tente novamente.";
                           } else
                             return null;
                         },
@@ -136,7 +157,7 @@ class _SignUpState extends State<SignUp> {
                         ),
                         validator: (text) {
                           if (text!.length < 6) {
-                            return "6 dígitos de senha no mínimo";
+                            return "A senha deve ter no mínimo 6 dígitos.";
                           } else
                             return null;
                         },
@@ -154,12 +175,13 @@ class _SignUpState extends State<SignUp> {
                         onPressed: () {
                           if (validarFormulario()) {
                             Map<String, dynamic> userData = {
+                              "usuario": nameController.text,
                               "email": emailController.text,
+                              "cpf": cpfController.text,
                               "latitude": 666,
                               "longitude": 666,
                               "numero": phoneNumber,
                               "ocupacao": "cliente",
-                              "usuario": nameController.text,
                             };
                             model.signUp(
                                 userData: userData,

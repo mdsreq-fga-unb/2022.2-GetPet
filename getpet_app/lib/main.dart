@@ -1,12 +1,13 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:getpet_app/firebase_options.dart';
+import 'package:getpet_app/model/user_model.dart';
 import 'package:getpet_app/view/sign_up.dart';
 import 'package:scoped_model/scoped_model.dart';
-import 'model/User_Model.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(const MyApp());
 }
 
