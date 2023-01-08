@@ -31,7 +31,40 @@ class _AlterarPerfilState extends State<AlterarPerfil> {
                       child: Column(
                         children: [
                           const SizedBox(height: 60,),
-
+                          Form(
+                            key: _formKey,
+                            child: Column(
+                              children: [
+                                SizedBox(
+                                  width: MediaQuery.of(context).size.width - 50,
+                                  child: Column(
+                                    children: [
+                                      TextFormField(
+                                        controller: nomeControlador,
+                                        obscureText: false,
+                                        keyboardType: TextInputType.text,
+                                        decoration: const InputDecoration(
+                                          labelText: "Nome",
+                                          enabledBorder: OutlineInputBorder(
+                                            borderSide: BorderSide(color: Colors.grey, width: 0.0),
+                                          ),
+                                          border: OutlineInputBorder(
+                                              borderSide: BorderSide()),
+                                        ),
+                                        validator: (text){
+                                          if(text!.isEmpty || text.length > 30) {
+                                            return "Certeza que esse é um nome válido?";
+                                          } else return null;
+                                        },
+                                      ),
+                                      Text("Atual: ${data!["usuario"]}"),
+                                    ],
+                                  ),
+                                ),
+                                const SizedBox(height: 15,),
+                              ],
+                            ),
+                          ),
                         ],
                       ),
                     );
@@ -42,5 +75,11 @@ class _AlterarPerfilState extends State<AlterarPerfil> {
           );
         }
     );
+  }
+  void _aviso(){
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+      duration: Duration(seconds: 2),
+      content: Text("Você não alterou nenhum dado!"),
+    ));
   }
 }
