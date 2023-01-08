@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:getpet/Widgets/VerPerfil.dart';
 import 'package:getpet/models/user_model.dart';
 import 'package:scoped_model/scoped_model.dart';
 
