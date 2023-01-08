@@ -1,5 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
+import 'package:getpet/Telas/AlterarPerfil.dart';
 import 'package:getpet/models/user_model.dart';
 import 'package:scoped_model/scoped_model.dart';
 
@@ -71,7 +72,21 @@ class _VerPerfilState extends State<VerPerfil> {
                                 )
                             ),
                           ),
-                          
+                          SizedBox(
+                            width: MediaQuery.of(context).size.width - 20,
+                            height: 50,
+                            child: ElevatedButton(
+                              style: ElevatedButton.styleFrom(
+                                  backgroundColor: Colors.white
+                              ),
+                              child: const Text("Alterar Dados", style: TextStyle(color: Colors.black87),),
+                              onPressed: (){
+                                Navigator.of(context).push(
+                                    MaterialPageRoute(builder: (context) => const AlterarPerfil())
+                                );
+                              },
+                            ),
+                          ),
                         ],
                       ),
                     );
