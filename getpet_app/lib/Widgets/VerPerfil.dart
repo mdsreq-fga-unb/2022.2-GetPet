@@ -71,6 +71,7 @@ class _VerPerfilState extends State<VerPerfil> {
                                 )
                             ),
                           ),
+                          
                         ],
                       ),
                     );
