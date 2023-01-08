@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:getpet/Telas/Entrar.dart';
 import 'package:getpet/Telas/Principal.dart';
 import 'package:scoped_model/scoped_model.dart';
 import '../models/user_model.dart';

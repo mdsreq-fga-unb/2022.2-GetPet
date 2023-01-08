@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:getpet/Widgets/VerChamados.dart';
-import 'package:getpet/Widgets/VerPerfil.dart';
 import 'package:getpet/models/user_model.dart';
 import 'package:scoped_model/scoped_model.dart';
 
@@ -20,7 +18,7 @@ class _PrincipalState extends State<Principal> {
           body: SafeArea(
             child: PageView(
               children: const <Widget>[
-                VerPerfil(),
+                //VerPerfil(),
                 //VerChamados(),
 
               ],
