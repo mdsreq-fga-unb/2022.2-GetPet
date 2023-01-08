@@ -41,6 +41,21 @@ class _VerPerfilState extends State<VerPerfil> {
                             ),
                           ),
                           Text(data!["usuario"]),
+                          SizedBox(
+                            width: MediaQuery.of(context).size.width - 20,
+                            height: 50,
+                            child: Card(
+                                child: Row(
+                                  mainAxisAlignment: MainAxisAlignment.center, //Center Row contents horizontally,
+                                  crossAxisAlignment: CrossAxisAlignment.center, //Center Row contents vertically,
+                                  children: [
+                                    const Icon(Icons.mail_outline_rounded, size: 28, color: Colors.black87,),
+                                    const SizedBox(width: 10,),
+                                    Text(data["email"], style: const TextStyle(fontSize: 19),)
+                                  ],
+                                )
+                            ),
+                          ),
                         ],
                       ),
                     );
