@@ -18,9 +18,7 @@ class _PrincipalState extends State<Principal> {
           body: SafeArea(
             child: PageView(
               children: const <Widget>[
-                //VerPerfil(),
-                //VerChamados(),
-
+                VerPerfil(),
               ],
             ),
           ),
