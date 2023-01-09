@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 2.1
+Versão 2.2
 
 <br>
 
@@ -19,8 +19,8 @@ Versão 2.1
 | 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
 | 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 | 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
-| 19/12/2022 | 2.0 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
-| 19/12/2022 | 2.0 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
+| 19/12/2022 | 2.1 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
+| 08/01/2023 | 2.2 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
