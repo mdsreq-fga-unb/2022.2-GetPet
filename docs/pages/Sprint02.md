@@ -2,15 +2,19 @@
 
 <br>
 
-## Sprint Planning
+## Visão Geral
 
-**Objetivo da Sprint 02:** Elicitação de requisitos, estudo de tecnologias e protótipo de interface
+**Período:** 	21/11/22 - 02/12/22 <br>
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
 
-### Tasks:
-  - Criação do protótipo de alta fidelidade
+## Sprint Planning
+
+**Objetivo da Sprint 02:** Elicitação de requisitos, estudo de tecnologias e protótipo de interface.
+
+#### Tasks:
+  - Criação do protótipo de baixa fidelidade
   - Visão do Produto e Projeto - Objetivos do Produto
   - Visão do Produto e Projeto – Ajustes da matriz de comunicação
   - Visão do Produto e Projeto – Descrição da metodologia
@@ -21,10 +25,8 @@
 
 **Obs.: Nessa sprint as tasks não foram pontuadas.**
 
-<br>
-
 **Entrega:**
-  - [Protótipo de alta fidelidade]()
+  - [Protótipo de baixa fidelidade](https://www.figma.com/file/8BQdYAuernJgZBrBaPn2Kt/Untitled?node-id=0%3A1&t=NCnODk4J4sFCdtOk-1)
 
 ## Sprint Review 
 Não ocorreu.
