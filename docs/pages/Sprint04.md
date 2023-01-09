@@ -32,15 +32,13 @@
 
 #### Tasks US03:
 
-- Editar perfil do cliente
-
 | Atividade | Pontuação | 
 | --------- | --------- | 
 | Endpoint de editar perfil do cliente | 1 |
 | Tela de cadastro | 2 |
 | Conexão back e front | 1 |
 
-- Editar perfil do motorista
+#### Tasks US03:
 
 | Atividade | Pontuação | 
 | --------- | --------- | 
