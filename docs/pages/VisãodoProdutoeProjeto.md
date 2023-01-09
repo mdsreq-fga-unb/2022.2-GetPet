@@ -185,7 +185,6 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Validação e verificação | Revisão e inspecção de requisitos | Discord e Miro | Lista de requisitos alinhada com os objetivos do produto |
 | Elicitação de requisitos | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
 | Construção do Product Backlog inicial* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
-| Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
 
 ### Sprint - Desenvolvimento
 
@@ -195,7 +194,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Refinamento de User Story | Brainstorming | Discord | Lista de requisitos com declarações detalhadas |
 | Construção e manutenção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
 | Interface de usuário | Protótipos de baixa e alta fidelidade | Figma | Protótipo de interfaces |
-| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
+| Codificação do produto | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
 | Codificação de testes | Testes unitários  | VsCode | Identificação e correção de erros |
 | Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
 
