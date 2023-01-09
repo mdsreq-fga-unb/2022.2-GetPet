@@ -2,15 +2,16 @@
 - [Objetivo](pages/objetivo.md)
 
 ----------------------------------------------------
-### _**Projeto e Produto**_
+### _**Produto e Projeto**_
 
 - [Visão do Produto e Projeto](pages/VisãodoProdutoeProjeto.md)
 - [Requisitos do Produto](pages/ProductBacklog.md)
-- Sprints
+- [Sprints]()
    - [Sprint 01](pages/Sprint01.md)
    - [Sprint 02](pages/Sprint02.md)
    - [Sprint 03](pages/Sprint03.md)
    - [Sprint 04](pages/Sprint04.md)
+   - [Sprint 05](pages/Sprint04.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
@@ -24,7 +25,7 @@
 
 - Unidade 03
    - [PBB e BDD](pages/PBB_BDD.md)
-   - [User Story Mapping]()
+   - [User Story Mapping](pages/USM.md)
    - [Vídeo de Apresentação da Unidade]()
    - [Vídeo de validação com o cliente]()
 
