@@ -14,45 +14,30 @@
 
 **Objetivo da Sprint 04:** Implementação das US01, US02, US03, US04 e US09.
 
-#### Tasks US01:
-
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de cadastrar cliente | 2 |
-| Tela de cadastro | 2 |
-| Conexão back e front | 1 |
+#### Tasks US01 - Pontuação: 3
+ - Endpoint de cadastrar cliente.
+ - Tela de cadastro.
+ - Conexão back e front.
  
-#### Tasks US02:
+#### Tasks US02 - Pontuação: 3
+ - Endpoint de cadastrar motorista.
+ - Tela de cadastro.
+ - Conexão back e front.
 
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de cadastrar motorista | 2 |
-| Tela de cadastro | 2 |
-| Conexão back e front | 1 |
+#### Tasks US03 - Pontuação: 2
+ - Endpoint de editar perfil do cliente.
+ - Tela de cadastro.
+ - Conexão back e front.
 
-#### Tasks US03:
+#### Tasks US04 - Pontuação: 2
+ - Endpoint de editar perfil do motorista.
+ - Tela de cadastro.
+ - Conexão back e front.
 
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de editar perfil do cliente | 1 |
-| Tela de cadastro | 2 |
-| Conexão back e front | 1 |
-
-#### Tasks US03:
-
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de editar perfil do cliente | 1 |
-| Tela de cadastro | 2 |
-| Conexão back e front | 1 |
-
-#### Tasks US08:
-
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de agendamento da corrida | 3 |
-| Tela de agendamento | 2 |
-| Conexão back e front | 2 |
+#### Tasks US09 - Pontuação: 4
+ - Endpoint de agendamento da corrida.
+ - Tela de agendamento.
+ - Conexão back e front.
 
 <br>
 
