@@ -56,7 +56,7 @@
 
 <br>
 
-*Também foram criadas tasks para a atividade em sala de aula do PBB e BDD, além de atividades para atualizar a documentação do projeto.*
+*Também foram criadas desenvolvidas as atividades em sala de aula do PBB e BDD, além de atividades para atualizar a documentação do projeto.*
 
 **Obs.: As tasks foram pontuadas em dias.**
 
