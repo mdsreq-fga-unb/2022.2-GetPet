@@ -20,6 +20,7 @@ Versão 2.1
 | 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 | 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
 | 19/12/2022 | 2.0 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
+| 19/12/2022 | 2.0 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
