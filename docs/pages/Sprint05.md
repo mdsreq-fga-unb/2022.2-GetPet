@@ -26,7 +26,7 @@
 
 #### Tasks US11 - Pontuação: 3
   - Endpoint que calcula distância entre cliente e motorista.
-  - Tela de visualizar distância.
+  - Vizualizar a dist dentro de um card.
   - Conexão back e front
 
 #### Tasks US12 - Pontuação: 3
@@ -36,7 +36,7 @@
 
 #### Tasks US13 - Pontuação: 3
   - Endpoint que calcula valor em razão da distância.
-  - Tela de visualizar valor.
+  - Vizualizar o valor dentro de um card.
   - Conexão back e front.
 
 <br>
