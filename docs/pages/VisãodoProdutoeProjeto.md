@@ -21,6 +21,7 @@ Versão 2.2
 | 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
 | 19/12/2022 | 2.1 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
 | 08/01/2023 | 2.2 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
+| 11/01/2023 | 2.3 | Acrescentando as lições da Etapa 3 | [Maria Abritta](https://github.com/MariaAbritta) |
 
 <br>
 
@@ -229,6 +230,13 @@ Para finalizar, aprendemos bastante sobre como dividir tarefas de forma justa e 
 
 Nesta unidade, estudamos um pouco mais afundo a Engenharia de Requisitos. A apredizagem de como elaborar e refinar um Backlog seguindo o padrão SAFe nos ajudou bastante. Nossa equipe adquiriu muito conhecimento na elaboração dos Épicos, Features e User Story. <br>
 Para finalizar, ficou nítido o comprometimento da equipe com o projeto, melhoramos nossa comunicação e, por conta disso, conseguimos fazer uma entrega com mais qualidade.
+
+<br>
+
+### Unidade 3
+
+Nesta unidade, estudamos um pouco mais afundo a sobre PBB Overview. O Product Backlog Building (PBB), BDD (behaviour driven development), User Story Mapping. Como fizemos esses boards em aula, fizemos em conjunto e isso ajudou a ambos do grupo entenderem bem sobre o que estavam fazendo e tivemos a liberdadde de entregar questões e dúvidas para o professor na hora, que eram explicadas e resolvidas na hora. Dessa forma, conseguimos montar e criar os próximos passos para o projeto. <br>
+Na questão de programar o projeto, foi interessante porém corrido, por conta do recesso que tivemos, porém corremos atrás das questões que faltavam e conseguimos entregar o que precisávamos entregar.
 
 <br>
 
