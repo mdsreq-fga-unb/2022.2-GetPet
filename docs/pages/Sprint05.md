@@ -14,51 +14,36 @@
 
 **Objetivo da Sprint 05:**
   1. Débito técnico das US01, US02, US03, US04 e US09;
-  2. Implementação das US10, US11, US12, US13 e US14.
+  2. Implementação das US10, US11, US12 e US13.
  
 
 #### [Tasks do Débito técnico](./Sprint04.md)
 
-#### Tasks US10
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint que registra agendamento de corrida para o motorista |
-| Tela de visualizar agendamento | 2 |
-| Conexão back e front	| 1 |
+#### Tasks US10 - Pontuação: 3
+  - Endpoint que registra agendamento de corrida para o motorista.
+  - Tela de visualizar agendamento.
+  - Conexão back e front.
 
-#### Tasks US11 
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint que calcula distância entre cliente e motorista | 2 |
-| Tela de visualizar distância | 1 |
-| Conexão back e front	| 1 |
+#### Tasks US11 - Pontuação: 3
+  - Endpoint que calcula distância entre cliente e motorista.
+  - Vizualizar a dist dentro de um card.
+  - Conexão back e front
 
-#### Tasks US12
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de confirmação do pagamento para o motorista | 2
-| Tela de confirmação | 1 |
-| Conexão back e front	| 1 |
+#### Tasks US12 - Pontuação: 3
+  - Endpoint de confirmação do pagamento para o motorista.
+  - Tela de confirmação.
+  - Conexão back e front.
 
-#### Tasks US13
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint que calcula valor em razão da distância | 2
-| Tela de visualizar valor | 1 |
-| Conexão back e front	| 1 |
-
-#### Tasks US14
-| Atividade | Pontuação | 
-| --------- | --------- | 
-| Endpoint de agendamento de ida e volta | 2 | 
-| Tela de agendar ida e volta	| 2 |
-| Conexão back e front	| 1 |
+#### Tasks US13 - Pontuação: 3
+  - Endpoint que calcula valor em razão da distância.
+  - Vizualizar o valor dentro de um card.
+  - Conexão back e front.
 
 <br>
 
-*Também foram criadas tasks para a atividade em sala de aula do User Story Mapping, além de atividades para atualizar a documentação do projeto.*
+*Também foram desenvolvidas as atividades em sala de aula do User Story Mapping, além de atividades para atualizar a documentação do projeto.*
 
-**Obs.: As tasks foram pontuadas em dias.**
+**Obs.: As US foram pontuadas em dias.**
 
 ## Sprint Review 
 

@@ -14,19 +14,17 @@
 **Objetivo da Sprint 03:** Contrução do Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias.
 
 ### Tasks:
-  - Definição e documentação dos requisitos funcionais do Product Backlog - **Pontuação:** 2
-  - Definição e documentação dos requisitos não funcionais do produto - **Pontuação:** 2
-  - Definição e documentação do MVP1 e MVP2 - **Pontuação:** 1
-  - Estudo das tecnologias e configuração de ambiente - **Pontuação:** 1
-  - Refinamento com o cliente da US01 - **Pontuação:** 1
-  - Refinamento com o cliente da US02 - **Pontuação:** 1
-  - Refinamento com o cliente da US03 - **Pontuação:** 1
-  - Protótipo de alta fidelidade - **Pontuação:** 2
-  - Definir critérios de aceitação da US01 - **Pontuação:** 1
-  - Definir critérios de aceitação da US02 - **Pontuação:** 1
-  - Gravar vídeo de apresentação da Unidade 02 - **Pontuação:** 1
-
-**Obs.: As tasks foram pontuadas em dias.**
+  - Definição e documentação dos requisitos funcionais do Product Backlog 
+  - Definição e documentação dos requisitos não funcionais do produto 
+  - Definição e documentação do MVP1 e MVP2 
+  - Estudo das tecnologias e configuração de ambiente
+  - Refinamento com o cliente da US01 
+  - Refinamento com o cliente da US02 
+  - Refinamento com o cliente da US03
+  - Protótipo de alta fidelidade 
+  - Definir critérios de aceitação da US01 
+  - Definir critérios de aceitação da US02
+  - Gravar vídeo de apresentação da Unidade 02 
 
 ## Sprint Review 
 Houve apenas a validação com professor e as modificações solicitadas foram realizadas.

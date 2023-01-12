@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 2.1
+Versão 2.2
 
 <br>
 
@@ -19,7 +19,9 @@ Versão 2.1
 | 30/11/2022 | 1.8 | Arrumando a descrição da metodologia | [Guilherme Vilela](https://github.com/guivilela7) |
 | 29/11/2022 | 1.9 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 | 19/12/2022 | 2.0 | Ajustes nas fases do projeto | [Bruna Lima](https://github.com/libruna) |
-| 19/12/2022 | 2.0 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
+| 19/12/2022 | 2.1 | Adição das "Lições aprendidas" da unidade 2 | [Murilo Perazzo](https://github.com/murilopbs) |
+| 08/01/2023 | 2.2 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
+| 11/01/2023 | 2.3 | Acrescentando as lições da Etapa 3 | [Maria Abritta](https://github.com/MariaAbritta) |
 
 <br>
 
@@ -99,9 +101,9 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 | 2 | Elicitação de requisitos, estudo de tecnologias e protótipo de baixa fidelidade | 21/11/22 | 02/12/22 |
 | 3 | Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias | 05/12/22 | 16/12/22 |
 | 4 | Implementação das US01, US02, US03, US04 e US09 | 19/12/22 | 30/12/22* |
-| 5 | Implementação das US10, US11, US12, US13 e US14| 02/01/23 | 13/01/23 |
+| 5 | Implementação das US10, US11, US12 e US13 | 02/01/23 | 13/01/23 |
 | 6 | Implementação das US05, US06 e US07 | 16/01/23 | 27/01/23 |
-| 7 | Implementação das US08, US15, US16 | 30/01/23 | 10/02/23 |
+| 7 | Implementação das US08, US14 e US15 | 30/01/23 | 10/02/23 |
 
 <br>
 * Devido ao recesso de Natal e Ano Novo teremos uma semana a menos de aula.
@@ -185,7 +187,6 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Validação e verificação | Revisão e inspecção de requisitos | Discord e Miro | Lista de requisitos alinhada com os objetivos do produto |
 | Elicitação de requisitos | User Story | Discord e Miro | Levantamento das funcionalidades e prioridades, além do esforço para implementá-las |
 | Construção do Product Backlog inicial* | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
-| Padronização e armazenamento | Padronizar requisitos | Miro | Lista de requisitos padronizada e atualizada |
 
 ### Sprint - Desenvolvimento
 
@@ -195,7 +196,7 @@ Todas as atividades acontecerão dentro de **Sprints** e das suas respectivas ce
 | Refinamento de User Story | Brainstorming | Discord | Lista de requisitos com declarações detalhadas |
 | Construção e manutenção do Product Backlog | Brainstorming | Discord e Miro | Lista de requisitos com declarações intermediárias |
 | Interface de usuário | Protótipos de baixa e alta fidelidade | Figma | Protótipo de interfaces |
-| Implementação do MVP1 e MVP2 | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
+| Codificação do produto | Pair programming | VsCode, Flutter e Firebase | Incremento do produto |
 | Codificação de testes | Testes unitários  | VsCode | Identificação e correção de erros |
 | Testes de aceitação | Critérios de aceitação da user story desenvolvida | Simulador mobile | Verificar se a entrega atende às expectativas do cliente e dos usuários finais |
 
@@ -229,6 +230,13 @@ Para finalizar, aprendemos bastante sobre como dividir tarefas de forma justa e 
 
 Nesta unidade, estudamos um pouco mais afundo a Engenharia de Requisitos. A apredizagem de como elaborar e refinar um Backlog seguindo o padrão SAFe nos ajudou bastante. Nossa equipe adquiriu muito conhecimento na elaboração dos Épicos, Features e User Story. <br>
 Para finalizar, ficou nítido o comprometimento da equipe com o projeto, melhoramos nossa comunicação e, por conta disso, conseguimos fazer uma entrega com mais qualidade.
+
+<br>
+
+### Unidade 3
+
+Nesta unidade, estudamos um pouco mais afundo a sobre PBB Overview. O Product Backlog Building (PBB), BDD (behaviour driven development), User Story Mapping. Como fizemos esses boards em aula, fizemos em conjunto e isso ajudou a ambos do grupo entenderem bem sobre o que estavam fazendo e tivemos a liberdadde de entregar questões e dúvidas para o professor na hora, que eram explicadas e resolvidas na hora. Dessa forma, conseguimos montar e criar os próximos passos para o projeto. <br>
+Na questão de programar o projeto, foi interessante porém corrido, por conta do recesso que tivemos, porém corremos atrás das questões que faltavam e conseguimos entregar o que precisávamos entregar.
 
 <br>
 
