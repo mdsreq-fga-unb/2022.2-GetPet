@@ -58,8 +58,10 @@ RNF03 | Requisitos de Implementação | O sistema deve ser desenvolvido em orien
 RNF04 | Requisitos de Portabilidade | A aplicação deve ser android mobile 
 RFN05 | Requisitos de Usabilidade | A aplicação deve ser responsiva
 RFN06 | Requisitos de Confiabilidade | O sistema deve funcionar 24/7
-RFN07 | Requisitos de Usabilidade | A interface da aplicação deve ser de fácil manipulação
-RFN08 | Requisitos de Suportabilidade | O sistema deve ser testável em Dart/Flutter
+RFN07 | Requisitos Éticos | A aplicação deve ser segura em se tratando dos dados do usuário
+RFN08 | Requisitos de Usabilidade | A interface da aplicação deve ser de fácil manipulação
+RFN09 | Requisitos de Suportabilidade | O sistema deve ser testável em Dart/Flutter
+RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de proteção de dados (LGPD)
 
 <br>
 
