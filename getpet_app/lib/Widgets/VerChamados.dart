@@ -19,6 +19,26 @@ class _VerChamadosState extends State<VerChamados> {
       return StreamBuilder(
         stream: FirebaseFirestore.instance.collection("pedidos").snapshots(),
         builder: (BuildContext context, AsyncSnapshot<QuerySnapshot> snapshot) {
+          if (snapshot.hasError) {
+            return const Center(child: Text('Algo está errado!'));
+          }
+
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return Row(
+              children: const [
+                Text("Carregando!"),
+                SizedBox(
+                  width: 5,
+                ),
+                SizedBox(
+                    width: 16, height: 16, child: CircularProgressIndicator()),
+              ],
+            );
+          }
+          if (!snapshot.hasData) {
+            return const Center(
+                child: Text("Infelizmente você ainda não possui nada salvo"));
+          }
           if (!model.servidor) {
             return ListView.builder(
               itemCount: snapshot.data!.docs.length,
