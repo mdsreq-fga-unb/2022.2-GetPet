@@ -13,4 +13,16 @@ O GetPet é um aplicativo que visa conectar motoristas parceiros a disposição 
 
 <b>Acesse a documentação do projeto <a href="https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/Vis%C3%A3odoProdutoeProjeto">aqui</a>.</b>
 
+<h2> Configuração de ambiente de desenvolvimento</h2>
 
+* Instalação de software development kit (SDK) do Flutter:
+De acordo com o seu ambiente de desenvolvimento, siga as instruções de instalação do Flutter no site oficial: https://docs.flutter.dev/get-started/install
+
+obs: O banco firebase já é configurado automaticamente ao rodar o projeto pela primeira vez.
+
+* Instalação de editor de código:
+De acordo com o seu ambiente de desenvolvimento, siga as instruções de instalação do editor de código no site oficial: https://flutter.dev/docs/get-started/editor
+
+obs: Se faz necessário instalar a extensão do flutter no seu editor de código.
+
+* Para rodar o projeto, basta precionar f5 dentro do seu editor de código.
