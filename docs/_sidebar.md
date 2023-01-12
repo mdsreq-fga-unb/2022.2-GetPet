@@ -27,7 +27,7 @@
    - [PBB e BDD](pages/PBB_BDD.md)
    - [User Story Mapping](pages/USM.md)
    - [Vídeo de Apresentação da Unidade]()
-   - [Vídeo de validação com o cliente]()
+   - [Vídeo de validação com o cliente](pages/videoValidacaoCliente.md)
 
 
 
