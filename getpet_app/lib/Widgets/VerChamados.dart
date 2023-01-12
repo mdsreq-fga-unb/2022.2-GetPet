@@ -19,53 +19,130 @@ class _VerChamadosState extends State<VerChamados> {
       return StreamBuilder(
         stream: FirebaseFirestore.instance.collection("pedidos").snapshots(),
         builder: (BuildContext context, AsyncSnapshot<QuerySnapshot> snapshot) {
-          return ListView.builder(
-            itemCount: snapshot.data!.docs.length,
-            shrinkWrap: true,
-            itemBuilder: (context, index) {
-              var temp = snapshot.data!.docs[index];
-              return Card(
-                color: Colors.white,
-                child: Container(
-                  padding: const EdgeInsets.all(10),
-                  child: Column(
-                    children: [
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment
-                            .center, //Center Row contents horizontally,
-                        crossAxisAlignment: CrossAxisAlignment
-                            .center, //Center Row contents vertically,
-                        children: [
-                          const Icon(Icons.calendar_month),
-                          Text("${temp["data"]}: ${temp["dataChamado"]}"),
-                        ],
-                      ),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment
-                            .center, //Center Row contents horizontally,
-                        crossAxisAlignment: CrossAxisAlignment
-                            .center, //Center Row contents vertically,
-                        children: [
-                          const Icon(Icons.category_outlined),
-                          Text("Categoria: ${temp["categoria"]}"),
-                        ],
-                      ),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment
-                            .center, //Center Row contents horizontally,
-                        crossAxisAlignment: CrossAxisAlignment
-                            .center, //Center Row contents vertically,
-                        children: [
-                          const Icon(Icons.category_outlined),
-                          Text("Quantidade: ${temp["quantidade"]}"),
-                        ],
-                      ),
-                    ],
+          if (!model.servidor) {
+            return ListView.builder(
+              itemCount: snapshot.data!.docs.length,
+              shrinkWrap: true,
+              itemBuilder: (context, index) {
+                var temp = snapshot.data!.docs[index];
+                return Card(
+                  color: Colors.white,
+                  child: Container(
+                    padding: const EdgeInsets.all(10),
+                    child: Column(
+                      children: [
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.calendar_month),
+                            Text("${temp["data"]}: ${temp["dataChamado"]}"),
+                          ],
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.category_outlined),
+                            Text("Categoria: ${temp["categoria"]}"),
+                          ],
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.category_outlined),
+                            Text("Quantidade: ${temp["quantidade"]}"),
+                          ],
+                        ),
+                      ],
+                    ),
                   ),
-                ),
-              );
-            },
-          );
+                );
+              },
+            );
+          } else {
+            return ListView.builder(
+              itemCount: snapshot.data!.docs.length,
+              shrinkWrap: true,
+              itemBuilder: (context, index) {
+                var temp = snapshot.data!.docs[index];
+                Distance distancia = const Distance();
+                return Card(
+                  color: Colors.white,
+                  child: Container(
+                    padding: const EdgeInsets.all(10),
+                    child: Column(
+                      children: [
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.calendar_month),
+                            Text("${temp["data"]}: ${temp["dataChamado"]}"),
+                          ],
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.category_outlined),
+                            Text("Categoria: ${temp["categoria"]}"),
+                          ],
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.category_outlined),
+                            Text("Quantidade: ${temp["quantidade"]}"),
+                          ],
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment
+                              .center, //Center Row contents horizontally,
+                          crossAxisAlignment: CrossAxisAlignment
+                              .center, //Center Row contents vertically,
+                          children: [
+                            const Icon(Icons.social_distance_outlined),
+                            FutureBuilder<
+                                    DocumentSnapshot<Map<String, dynamic>>>(
+                                future: FirebaseFirestore.instance
+                                    .collection("usuarios")
+                                    .doc(model.firebaseUser!.uid)
+                                    .get(),
+                                builder: (_, snapshot) {
+                                  if (snapshot.hasError)
+                                    return Text('Error = ${snapshot.error}');
+                                  if (snapshot.hasData) {
+                                    var data = snapshot.data!.data();
+                                    return Text(
+                                        "Distância: ${distancia.as(LengthUnit.Kilometer, LatLng(temp["latitude"], temp["longitude"]), LatLng(data!["latitude"], data["longitude"]))} Km");
+                                  }
+                                  return const Center(
+                                      child: CircularProgressIndicator());
+                                }),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            );
+          }
         },
       );
     });
