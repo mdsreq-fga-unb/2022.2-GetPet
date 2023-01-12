@@ -37,7 +37,7 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 | <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT02]</b> Visualização de dados  <br> | <b>[US05]</b> Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. <br> <b>[US06]</b> Como cliente, quero ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet.| 
 | <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT03]</b> Autenticação de usuário | <b>[US07]</b> Como usuário, quero ser capaz de realizar login com email e senha para ter privacidade e segurança ao utilizar os serviços do aplicativo. <br> <b>[US08]</b> Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha.|
 | <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT04]</b> Conectar usuários | <b>[US09]</b> Como cliente, quero ser capaz de agendar uma corrida para transportar o meu pet. <br> <b>[US10]</b> Como motorista, quero ser capaz receber solicitações de corrida para realizar o transporte dos clientes. |
-| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT05]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US12]</b> Como motorista, quero ser notificado do pagamento da viagem para confirmar que receberei pelo serviço. <br> <b>[US13]</b> Como cliente, quero ser capaz de verificar o valor da corrida para confirmar se tenho o valor necessário disponível. |
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT05]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US12]</b> Como motorista, quero ser de confirmar se recebi o pagamento da viagem para efetivar a contratação do serviço. <br> <b>[US13]</b> Como cliente, quero ser capaz de verificar o valor da corrida para confirmar se tenho o valor necessário disponível. |
 | <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Feedback de viagem | <b>[US14]</b> Como usuário, eu quero ter um histórico de corridas realizadas para revisar detalhes das corridas que realizei e esclarecer qualquer dúvida que eu possa ter. <br> <b>[US15]</b> Como cliente, eu quero ser capaz de avaliar o motorista da minha corrida para contribuir com a segurança de outros passageiros, a fim de aumentar a confiabilidade. | 
 
 <br>
@@ -58,10 +58,8 @@ RNF03 | Requisitos de Implementação | O sistema deve ser desenvolvido em orien
 RNF04 | Requisitos de Portabilidade | A aplicação deve ser android mobile 
 RFN05 | Requisitos de Usabilidade | A aplicação deve ser responsiva
 RFN06 | Requisitos de Confiabilidade | O sistema deve funcionar 24/7
-RFN07 | Requisitos Éticos | A aplicação deve ser segura em se tratando dos dados do usuário
-RFN08 | Requisitos de Usabilidade | A interface da aplicação deve ser de fácil manipulação
-RFN09 | Requisitos de Suportabilidade | O sistema deve ser testável em Dart/Flutter
-RFN10 | Requisitos Legais | O produto final deve se adequar à Lei geral de proteção de dados (LGPD)
+RFN07 | Requisitos de Usabilidade | A interface da aplicação deve ser de fácil manipulação
+RFN08 | Requisitos de Suportabilidade | O sistema deve ser testável em Dart/Flutter
 
 <br>
 
