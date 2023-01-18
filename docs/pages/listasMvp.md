@@ -1,5 +1,20 @@
 # Listas MVPs
 
+## Lista do MVP1
+
+| Feature | User Story | Critério de Aceitação |
+|---------|------------|-----------------------| 
+| <b>[FEAT01]</b> Perfil de usuário <br> | <b>[US01]</b> Como cliente, quero ser capaz de realizar meu cadastro para utilizar os serviços de transporte. | 1. O aplicativo não deve permitir o cadastro de um cliente se o CPF e o Email já estiverem em uso por outro cliente. <br> 2. O cliente pode ter apenas um cadastro. |
+|      | <b>[US02]</b> Como motorista, quero ser capaz de realizar meu cadastro para oferecer o meu serviço de transporte. | 1. O aplicativo não deve permitir o cadastro de um motorista se o CPF e o Email já estiverem em uso por outro motorista. <br> 2. O motorista pode ter apenas um cadastro. |
+|      | <b>[US03]</b> Como cliente, quero ser capaz de editar o meu perfil para manter os meus dados atualizados. | 1. O cliente deve conseguir visualizar todas as informações atuais contidas em seu perfil antes realizar qualquer edição. <br> 2. Quando o cliente atualiza seu perfil, ele deve conseguir editar todos os campos, exceto o campo de CPF. | 
+|      | <b>[US04]</b> Como motorista, quero ser capaz de editar o meu perfil para manter os meus dados atualizados. | 1. O motorista deve conseguir visualizar todas as informações atuais contidas em seu perfil antes realizar qualquer edição. <br> 2. Quando o motorista atualiza seu perfil, ele deve conseguir editar todos os campos, exceto o campo de CPF.|
+| <b>[FEAT04]</b> Conectar usuários | <b>[US09]</b> Como cliente, quero ser capaz de agendar uma corrida para transportar o meu pet. | 1. Ao agendar uma corrida, o cliente deve selecionar uma das duas opções de modalidade disponíveis: ida, ida e volta ou ida e volta com espera. <br> 2. A data e o horário do agendamento devem ser posteriores à data e ao horário da solicitação. <br> 3. O cliente só poderá agendar uma nova corrida depois que a corrida agendada anteriormente for concluída. |
+|      | <b>[US10]</b> Como motorista, quero ser capaz receber solicitações de corrida para realizar o transporte dos clientes. | 1. As informações da corrida devem ser exibidas para o motorista na solicitação da corrida.
+| <b>[FEAT05]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. | 1. O motorista deve visualizar a distância até o local de embarque do cliente antes de aceitar a corrida. <br> 2. A unidade de medida utilizada para exibir a distância deve ser quilômetros (km). | 
+|      | <b>[US13]</b> Como cliente, quero ser capaz de verificar o valor da corrida para confirmar se tenho o valor necessário disponível. | 1. O card de visualização do valor da corrida deve ser exibido de forma clara, para que o cliente possa o identificar facilmente. <br> 2. O valor da corrida deve ser calculado em reais. |
+
+<br>
+
 ## Lista do MVP2
 
 | Feature | User Story | Critério de Aceitação |
