@@ -25,11 +25,10 @@
 
 **Obs.: Nessa sprint as tasks não foram pontuadas.**
 
+## Sprint Review 
+
 **Entrega:**
   - [Protótipo de baixa fidelidade](https://www.figma.com/file/8BQdYAuernJgZBrBaPn2Kt/Untitled?node-id=0%3A1&t=NCnODk4J4sFCdtOk-1)
-
-## Sprint Review 
-Não ocorreu.
 
 ## Sprint Retro
 Não ocorreu.
