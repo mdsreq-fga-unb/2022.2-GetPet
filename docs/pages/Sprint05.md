@@ -46,5 +46,9 @@
 **Obs.: As US foram pontuadas em dias.**
 
 ## Sprint Review 
+Houve a validação das US implementadas com o cliente, assista [aqui](https://drive.google.com/file/d/1M24ZwRImOTJ8H43rRax1qCPmFNG1Aigl/view).
+
+**Entrega:**
+- [App](pages/VideoApresentacaoUnidade3.md)
 
 ## Sprint Retro
