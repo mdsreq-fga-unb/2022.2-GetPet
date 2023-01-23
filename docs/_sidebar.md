@@ -12,6 +12,7 @@
    - [Sprint 03](pages/Sprint03.md)
    - [Sprint 04](pages/Sprint04.md)
    - [Sprint 05](pages/Sprint05.md)
+   - [Sprint 06](pages/Sprint06.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
