@@ -9,17 +9,16 @@ A seguir, agruparemos os nossos requisitos funcionais aos casos de uso:<br>
 
 | Caso de Uso |
 | ----------- | 
-| Gerenciar Perfil do Cliente |
-| Gerenciar Perfil do Motorista |
-| Visualizar Dados do Cliente |
-| Visualizar Dados do Motorista |
-| Agendar corrida |
-| Receber corrida |
-| Visualizar distância do embarque |
-| Confirmar o pagamento |
-| Verificar o valor da corrida |
-| Visuzalizar o histórico de corridas |
-| Avaliar o motorista |
+| Cadastrar-se |
+| visualizar dos dados de perfil |
+| atualizar perfil |
+| Acessar histórico de corridas |
+| Agendar corrida para pet |
+| Realizar pagamento para o motorista |
+| Visualizar dados do motorista |
+| Avaliar corrida do motorista |
+| Receber solicição de corrida |
+| Confirmar recebimento de pagamento |
 
 <img src="https://user-images.githubusercontent.com/69866365/214886576-50cce9b9-147b-4124-b36e-eee26a6cb953.png" alt="Diagrama de caso de uso" style="width:400px;"/>
 
