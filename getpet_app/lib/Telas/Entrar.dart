@@ -1,6 +1,7 @@
-// ignore: file_names
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:getpet/Telas/Cadastro.dart';
+import 'package:getpet/Telas/Principal.dart';
 import 'package:scoped_model/scoped_model.dart';
 import '../models/user_model.dart';
 
@@ -106,6 +107,23 @@ class _EntrarState extends State<Entrar> {
                     const SizedBox(
                       height: 10,
                     ),
+                    SizedBox(
+                      width: MediaQuery.of(context).size.width - 50,
+                      child: ElevatedButton(
+                        style: ElevatedButton.styleFrom(
+                            shape: const StadiumBorder()),
+                        child: const Text("Login"),
+                        onPressed: () {
+                          if (validarFormulario()) {
+                            model.signIn(
+                                email: emailControlador.text,
+                                pass: senhaControlador.text,
+                                onSuccess: _sucesso,
+                                onFail: _falha);
+                          }
+                        },
+                      ),
+                    ),
                     const SizedBox(
                       height: 10,
                     ),
@@ -115,5 +133,25 @@ class _EntrarState extends State<Entrar> {
         )),
       );
     });
+  }
+
+  bool validarFormulario() {
+    final FormState? form = _formKey.currentState;
+    if (form!.validate()) {
+      return true;
+    }
+    return false;
+  }
+
+  void _sucesso() {
+    Navigator.of(context)
+        .push(MaterialPageRoute(builder: (context) => const Principal()));
+  }
+
+  void _falha() {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+      duration: Duration(seconds: 2),
+      content: Text("Algo deu errado!"),
+    ));
   }
 }
