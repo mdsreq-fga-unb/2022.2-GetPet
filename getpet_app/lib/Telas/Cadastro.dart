@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:getpet/Telas/Entrar.dart';
 import 'package:getpet/Telas/Principal.dart';
 import 'package:scoped_model/scoped_model.dart';
 import '../models/user_model.dart';
@@ -253,7 +254,7 @@ class _CadastroState extends State<Cadastro> {
                               "latitude": 666,
                               "longitude": 666,
                               "numero": numeroCelular,
-                              "ocupacao": "cliente",
+                              "ocupacao": isMotorista ? "servidor" : "cliente",
                               "placa": placaControlador.text,
                               "modelo": modeloControlador.text,
                               "usuario": nomeControlador.text,
@@ -270,18 +271,18 @@ class _CadastroState extends State<Cadastro> {
                     const SizedBox(
                       height: 10,
                     ),
-                    /*SizedBox(
-                              width: MediaQuery.of(context).size.width - 50,
-                              child: ElevatedButton(
-                                style: ElevatedButton.styleFrom(shape: const StadiumBorder()),
-                                child: const Text("Login"),
-                                onPressed: (){
-                                  Navigator.of(context).push(
-                                      MaterialPageRoute(builder: (context) => const Entrar())
-                                  );
-                                },
-                              ),
-                            ),*/
+                    SizedBox(
+                      width: MediaQuery.of(context).size.width - 50,
+                      child: ElevatedButton(
+                        style: ElevatedButton.styleFrom(
+                            shape: const StadiumBorder()),
+                        child: const Text("Login"),
+                        onPressed: () {
+                          Navigator.of(context).push(MaterialPageRoute(
+                              builder: (context) => const Entrar()));
+                        },
+                      ),
+                    ),
                   ],
                 )),
           ],
