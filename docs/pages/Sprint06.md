@@ -1,4 +1,4 @@
-<h1 align="center"><b>Sprint 05</b></h1>
+<h1 align="center"><b>Sprint 06</b></h1>
 
 <br>
 
@@ -12,9 +12,9 @@
 
 ## Sprint Planning
 
-**Objetivo da Sprint 05:**
+**Objetivo da Sprint 06:**
   1. Débito técnico da US12;
-  2. Implementação das US05, US06 e US07
+  2. Implementação das US05, US06, US07 e US08.
  
 
 #### Tasks US12: Débito técnico - Pontuação: 4
@@ -29,11 +29,11 @@
 
 #### Tasks US06 - Pontuação: 3
   - Método de exibir dados do motorista para o cliente.
-  - Tela de visualizar perfil do motorista
+  - Tela de visualizar perfil do motorista.
   - Conexão back e front.
 
 #### Tasks US07 - Pontuação: 4
-  - Endpoint de autenticação do usuário
+  - Endpoint de autenticação do usuário.
   - Tela de login.
   - Conexão back e front.
 
