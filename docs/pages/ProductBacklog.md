@@ -1,5 +1,5 @@
 <h1 align="center"><b>Requisitos do Produto</b></h1>
-Versão 1.4
+Versão 1.5
 
 <br>
 
@@ -12,6 +12,7 @@ Versão 1.4
 | 06/12/2022 | 1.2 | Adicionada nova feature ao backlog do produto e ajustes | [Maria Abritta](https://github.com/MariaAbritta) e [Bruna Lima](https://github.com/libruna) |
 | 20/12/2022 | 1.3 | Ajuste FEAT01 do backlog do produto | [Bruna Lima](https://github.com/libruna) |
 | 09/01/2023 | 1.4 | Atualização das FEAT05 e FEAT06 do backlog do produto | [Bruna Lima](https://github.com/libruna) |
+| 20/01/2023 | 1.5 | Adicionadas US16 e US17 na FEAT06 | [Bruna Lima](https://github.com/libruna) |
 
 ### Sumário
 - Backlog do Produto
@@ -38,7 +39,7 @@ O Backkog do Produto é um artefato da metodologia ágil SCRUM, que consiste em 
 | <b>[EP01]</b> Gerenciamento de usuários | <b>[FEAT03]</b> Autenticação de usuário | <b>[US07]</b> Como usuário, quero ser capaz de realizar login com email e senha para ter privacidade e segurança ao utilizar os serviços do aplicativo. <br> <b>[US08]</b> Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha.|
 | <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT04]</b> Conectar usuários | <b>[US09]</b> Como cliente, quero ser capaz de agendar uma corrida para transportar o meu pet. <br> <b>[US10]</b> Como motorista, quero ser capaz receber solicitações de corrida para realizar o transporte dos clientes. |
 | <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT05]</b> Protocolos de viagem | <b>[US11]</b> Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. <br> <b>[US12]</b> Como motorista, quero ser de confirmar se recebi o pagamento da viagem para efetivar a contratação do serviço. <br> <b>[US13]</b> Como cliente, quero ser capaz de verificar o valor da corrida para confirmar se tenho o valor necessário disponível. |
-| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Feedback de viagem | <b>[US14]</b> Como usuário, eu quero ser capaz de visualizar meu histórico de corridas realizadas para revisar detalhes das corridas que realizei e esclarecer qualquer dúvida que eu possa ter. <br> <b>[US15]</b> Como cliente, eu quero ser capaz de avaliar o motorista da minha corrida para contribuir com a segurança de outros passageiros, a fim de aumentar a confiabilidade. | 
+| <b>[EP02]</b> Gerenciamento de corridas | <b>[FEAT06]</b> Feedback de viagem | <b>[US14]</b> Como usuário, eu quero ser capaz de visualizar meu histórico de corridas realizadas para revisar detalhes das corridas que realizei e esclarecer qualquer dúvida que eu possa ter. <br> <b>[US15]</b> Como cliente, eu quero ser capaz de avaliar o motorista da minha corrida para contribuir com a segurança de outros passageiros, a fim de aumentar a confiabilidade. <br> <b>[US16]</b> Como cliente, quero ser capaz de visualizar o histórico de avaliações do motorista para avaliar seu desempenho e tomar decisões sobre corridas futuras. <br> <b>[US17]</b> Como motorista, quero ser capaz de confirmar o interesse na corrida solicitada para realizar o transporte do pet do cliente.| 
 
 <br>
 
