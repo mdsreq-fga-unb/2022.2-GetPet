@@ -48,7 +48,7 @@
 ## Sprint Review 
 Houve a validação das US implementadas com o cliente, assista [aqui](https://drive.google.com/file/d/1M24ZwRImOTJ8H43rRax1qCPmFNG1Aigl/view).
 
-**Entrega:**
+**Entrega:** US01, US02, US03, US04, US09, US10, US11 e US13.
 - [App](pages/VideoApresentacaoUnidade3.md)
 
 ## Sprint Retro
