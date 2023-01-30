@@ -1,6 +1,6 @@
 ## _**GetPet**_
 <h1 align="center"><b>VISÃO DO PRODUTO E PROJETO</b></h1>
-Versão 2.4
+Versão 2.5
 
 <br>
 
@@ -23,6 +23,7 @@ Versão 2.4
 | 08/01/2023 | 2.2 | Ajustes nas atividades do projeto | [Bruna Lima](https://github.com/libruna) |
 | 11/01/2023 | 2.3 | Acrescentando as lições da Etapa 3 | [Maria Abritta](https://github.com/MariaAbritta) |
 | 23/01/2023 | 2.4 | Ajustes no planejamento e atividades do projeto | [Bruna Lima](https://github.com/libruna) |
+| 30/01/2023 | 2.5 | Ajustes no planejamento do projeto - novas US | [Bruna Lima](https://github.com/libruna) |
 
 <br>
 
@@ -103,8 +104,8 @@ Para o Front-End, Back-End, assim como para os Testes, utilizaremos o Flutter. N
 | 3 | Product Backlog inicial, configuração de ambiente, protótipo de alta fidelidade e estudo de tecnologias | 05/12/22 | 16/12/22 |
 | 4 | Implementação das US01, US02, US03, US04 e US09 | 19/12/22 | 30/12/22 |
 | 5 | Implementação das US10, US11, US12 e US13 | 02/01/23 | 13/01/23 |
-| 6 | Implementação das US05, US06 e US07 | 16/01/23 | 27/01/23 |
-| 7 | Implementação das US08, US14 e US15 | 30/01/23 | 10/02/23 |
+| 6 | Implementação das US05, US06, US07 e US08 | 16/01/23 | 27/01/23 |
+| 7 | Implementação das US14, US15, US16 e US17 | 30/01/23 | 06/02/23 |
 
 <br>
 
