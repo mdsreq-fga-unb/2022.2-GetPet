@@ -13,9 +13,9 @@
 ## Sprint Planning
 
 **Objetivo da Sprint 06:**
-  1. Implementação das US14 e US15;
+  1. Implementação das US14, US15, US16 e US17;
 
-#### Tasks US14 - Pontuação: 2
+#### Tasks US14 - Pontuação: 3
   - Método de listar histórico de corridas do usuário.
   - Tela de visualizar histórico.
   - Conexão back e front.
@@ -23,6 +23,17 @@
 #### Tasks US15 - Pontuação: 3
   - Endpoint de avaliar motorista da corrida.
   - Tela de avaliação.
+  - Conexão back e front.
+
+#### Tasks US15 - Pontuação: 3
+  - Método de listar avaliações do motorista.
+  - Tela de visualizar avaliações.
+  - Conexão back e front.
+
+#### Tasks US16 - Pontuação: 3
+  - Método de confirmar interesse na corrida.
+  - Card de visualização.
+  - Direcionar para o WhatsApp.
   - Conexão back e front.
 
 **Obs.: As US foram pontuadas em dias.**
