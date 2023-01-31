@@ -5,15 +5,21 @@
 ## Visão Geral
 
 **Período:** 	30/01/23 - 06/02/23 <br>
-**Capacity** de cada membro da equipe: 10 pontos.
+**Capacity** de cada membro da equipe: 8 pontos.
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
 
 ## Sprint Planning
 
-**Objetivo da Sprint 06:**
-  1. Implementação das US14, US15, US16 e US17;
+**Objetivo da Sprint 07:**
+  1. Débito técnico: US12;
+  2. Implementação das US14, US15, US16 e US17.
+
+#### Tasks US12: Débito técnico - Pontuação: 3
+  - Endpoint de confirmação do pagamento para o motorista.
+  - Tela de confirmação.
+  - Conexão back e front.
 
 #### Tasks US14 - Pontuação: 3
   - Método de listar histórico de corridas do usuário.

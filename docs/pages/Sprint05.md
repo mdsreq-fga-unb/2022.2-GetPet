@@ -65,7 +65,7 @@ Dessa forma, temos a oportunidade de inspecionar as atividades, adaptar as açõ
 ### O que gostamos e queremos continuar fazendo na próxima sprint? 
 | Membro | Resposta |
 | ------ | -------- |
-| [Bruna Lima](https://github.com/libruna) | Gostei muito da minha proatividade em realizar as atividades propostas individualmente mas também percebi essa proatividade por toda a equipe e queria muito que isso se permanecesse mesmo estando rumo do final do semestre e estarmos todos cansados | 
+| [Bruna Lima](https://github.com/libruna) | Gostei da proatividade em realizar as atividades propostas individualmente e queria que isso se permanecesse nessa etapa final do semestre. | 
 | [Guilherme Vilela](https://github.com/guivilela7) | O Grupo todo continua bem comunicativo, isso ajuda para a realização das tarefas e também o entendimento da matéria. Quero continuar sendo proativo e que a equipe também continue assim para realizar as tarefas da melhor forma possível |
 | [Maria Abritta](https://github.com/MariaAbritta) | Gostei da organização e comprometimento que a equipe teve em realizar as tarefas entregues a ela. Além de mesmo se algum membro faltar com algo, sempre compensam. A comunicação com a gente é ótima e isso ajuda a fazer o projeto |
 | [Murilo Perazzo](https://github.com/murilopbs) | A organização do grupo no Trello ajudou a todos a verem suas atividades e atividades que eram relacionadas e até dependentes, ajudando a enxergar de uma forma linear o projeto |

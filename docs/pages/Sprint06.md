@@ -5,7 +5,7 @@
 ## Visão Geral
 
 **Período:** 16/01/23 - 27/01/23 <br>
-**Capacity** de cada membro da equipe: 10 pontos.
+**Capacity** de cada membro da equipe: 8 pontos.
 
 - [Sprint Board](https://trello.com/b/hObguyFv/sprint-board)
 - [Miro](https://miro.com/app/board/uXjVPFFIyc4=/)
@@ -37,12 +37,17 @@
   - Tela de login.
   - Conexão back e front.
 
+#### Tasks US08 - Pontuação: 4
+  - Método de recuperar senha.
+  - Tela de recuperar senha.
+  - Conexão back e front.
+
 <br>
 
 **Obs.: As US foram pontuadas em dias.**
 
 ## Sprint Review 
 
-**Entrega:** US05, US07 e US08
+**Entrega:** US05, US06, US07 e US08
 
 ## Sprint Retro
