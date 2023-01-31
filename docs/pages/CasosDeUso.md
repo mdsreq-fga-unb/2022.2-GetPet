@@ -9,17 +9,14 @@ A seguir, agruparemos os nossos requisitos funcionais aos casos de uso:<br>
 
 | Caso de Uso | Requisitos Funcionais |
 | ----------- | --------------------- |
-| Cadastrar perfil | Usuário ser capaz de realizar cadastro para utilizar os serviços de transporte. |
+| Realizar cadastro | Usuário ser capaz de realizar cadastro para utilizar os serviços de transporte. |
 | Atualizar perfil | Usuário deve ser capaz de editar o meu perfil para manter os meus dados atualizados. |
 | Acessar histórico de corridas | Usuário ser capaz de visualizar histórico de corridas |
 | Visualizar dados de perfil |  Usuário deve ser capaz de visualizar dados de perfil |
-
 | Visualizar dados do motorista | Cliente deve ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet. |
 | Agendar corrida para pet | Cliente, quero ser capaz de agendar uma corrida para transportar o meu pet. |
 | Realizar pagamento para o motorista | Cliente deve ser capaz de realizar pagamento para o motorista |
 | Avaliar o motorista | Cliente, deve ser capaz de avaliar o motorista da minha corrida para contribuir com a segurança de outros passageiros, a fim de aumentar a confiabilidade. |
-
-
 | Autenticar o Usuário | [US07] Como usuário, quero ser capaz de realizar login com email e senha para ter privacidade e segurança ao utilizar os serviços do aplicativo. <br> [US08] Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha. |
 | Receber corrida | [US10] Como motorista, quero ser capaz receber solicitações de corrida para realizar o transporte dos clientes. |
 | Visualizar distância do embarque | [US11] Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. |
