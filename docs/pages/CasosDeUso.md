@@ -27,6 +27,6 @@ A seguir, agruparemos os nossos requisitos funcionais aos casos de uso:<br>
 | Verificar o valor da corrida | [US13] Como cliente, quero ser capaz de verificar o valor da corrida para confirmar se tenho o valor necessário disponível. |
 | Visuzalizar o histórico de corridas | [US14] Como usuário, eu quero ter um histórico de corridas realizadas para revisar detalhes das corridas que realizei e esclarecer qualquer dúvida que eu possa ter. |
 
-<img src="https://user-images.githubusercontent.com/69866365/214886576-50cce9b9-147b-4124-b36e-eee26a6cb953.png" alt="Diagrama de caso de uso" style="width:400px;"/>
+<img src="../assets/Images/diagramaUC.png" alt="Diagrama de caso de uso" style="width:400px;"/>
 
 </div>
