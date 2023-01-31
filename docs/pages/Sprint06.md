@@ -43,6 +43,6 @@
 
 ## Sprint Review 
 
-**Entrega:**
+**Entrega:** US05, US07 e US08
 
 ## Sprint Retro
