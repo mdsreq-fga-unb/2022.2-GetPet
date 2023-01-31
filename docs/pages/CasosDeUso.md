@@ -17,12 +17,10 @@ A seguir, agruparemos os nossos requisitos funcionais aos casos de uso:<br>
 | Agendar corrida para pet | Cliente, quero ser capaz de agendar uma corrida para transportar o meu pet. |
 | Realizar pagamento para o motorista | Cliente deve ser capaz de realizar pagamento para o motorista |
 | Avaliar o motorista | Cliente, deve ser capaz de avaliar o motorista da minha corrida para contribuir com a segurança de outros passageiros, a fim de aumentar a confiabilidade. |
-| Autenticar o Usuário | [US07] Como usuário, quero ser capaz de realizar login com email e senha para ter privacidade e segurança ao utilizar os serviços do aplicativo. <br> [US08] Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha. |
-| Receber corrida | [US10] Como motorista, quero ser capaz receber solicitações de corrida para realizar o transporte dos clientes. |
-| Visualizar distância do embarque | [US11] Como motorista, quero ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. |
-| Confirmar o pagamento | [US12] Como motorista, quero ser de confirmar se recebi o pagamento da viagem para efetivar a contratação do serviço. |
-| Verificar o valor da corrida | [US13] Como cliente, quero ser capaz de verificar o valor da corrida para confirmar se tenho o valor necessário disponível. |
-| Visuzalizar o histórico de corridas | [US14] Como usuário, eu quero ter um histórico de corridas realizadas para revisar detalhes das corridas que realizei e esclarecer qualquer dúvida que eu possa ter. |
+| Realizar Autenticação o Usuário | O usuário deve ser capaz de realizar login com email e senha para ter privacidade e segurança ao utilizar os serviços do aplicativo. |
+| Receber solicitação de corrida | Motorista deve ser capaz receber solicitações de corrida para realizar o transporte dos clientes. |
+| Visualizar dados da corrida | Usuário deve ser capaz de visualizar a distância até o local de embarque do cliente para analisar a viabilidade da corrida. |
+| Confirmar o pagamento | Motorista deve ser capaz de confirmar o pagamento da viagem para efetivar a contratação do serviço. |
 
 <img src="./assets/Images/diagramaUC.png" alt="Diagrama de caso de uso" style="width:400px;"/>
 
