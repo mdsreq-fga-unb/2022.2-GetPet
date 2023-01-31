@@ -88,3 +88,28 @@ Dessa forma, temos a oportunidade de inspecionar as atividades, adaptar as açõ
 | [Maria Abritta](https://github.com/MariaAbritta) | Fazer muitas coisas em um dia só, ou seja, devemos ter mais atenção nos prazos e o tamanho das atividades |
 | [Murilo Perazzo](https://github.com/murilopbs) | Mais consciência dos prazos que o professor coloca, para a gente não se enrrolar com as atividades |
 | [Pedro Vitor](https://github.com/Peedrooo) | Não acumular as tarefas individuais e as em grupo |
+
+## Plano de ação 
+Visando um documento utilizado para fazer um planejamento de trabalho necessário para atingimento de um resultado desejado ou na resolução de problemas, criamos nosso plano de ação, utilizando o Plano de Ação 5W2H.
+
+Plano de Ação 5W2H: A ferramenta nada mais é do que um checklist de atividades, prazos e responsabilidades que devem ser desenvolvidas com o máximo de clareza e eficiência por todos os envolvidos em um projeto.
+
+A sigla é formada pelas iniciais, em inglês, das sete diretrizes que, quando bem estabelecidas, eliminam quaisquer dúvidas que possam aparecer ao longo de um processo ou de uma atividade. São elas: <br>
+
+Os 5W:
+
+* What (o que será feito?)
+* Why (por que será feito?)
+* Where (onde será feito?)
+* When (quando será feito?)
+* Who (por quem será feito?)<br>
+
+Os 2H:
+
+* How (como será feito?)
+* How much (quanto vai custar?) -> Não iremos fazer esse processo pelo motivo de nossa aplicação não ter custos até o presente momento.
+
+| What (o que será feito?) | Why (por que será feito?) | Where (onde será feito?) | Who (por quem será feito?) | How (como será feito?) | Check |
+| --- | --- | --- | --- | --- | --- | 
+| Maior conciência dos prazos | Para evitar que haja atrasos ou que deixemos de entregar as necessidades da sprint | Trello | Todos os integrantes do grupo | Diariamente visualizar os cards e as definições dos mesmos | ❌ |
+| Maior organização pessoal | Percebemos que as ativdades acumulavam e acabava que em um dia se produzia muito e outros não | Organização pessoal de cada um / Miro | Todos os integrantes do grupo | No Miro, alocando atividades de uma forma mais visual, fazendo ter uma visão da quantidade de trabalho para se organizarem | ✅ | 
