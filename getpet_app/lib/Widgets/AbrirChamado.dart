@@ -179,16 +179,21 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                     ),
                                   ),
                                   Padding(
-                                    padding: EdgeInsets.only(left: 10, right: 10),
+                                    padding: const EdgeInsets.only(left: 10, right: 10),
                                     child: ElevatedButton(
                                       child: const Text("Mostrar interesse"),
                                       onPressed: () async{
                                         List<dynamic> motoristasSuporte = motoristas;
-                                        motoristasSuporte.add(model.firebaseUser!.uid);
+                                        if(!mostrouInteresse){
+                                        if(!motoristasSuporte.contains(model.firebaseUser!.uid)){
+                                          motoristasSuporte.add(model.firebaseUser!.uid);
                                             await FirebaseFirestore.instance.collection("pedidos").doc(model.idChamado).update({
                                               "interesse": true,
                                               "motoristas": motoristasSuporte,
                                             });
+                                            mostrouInteresse = true;
+                                          }
+                                        }
                                       },
                                     ),
                                   ),
