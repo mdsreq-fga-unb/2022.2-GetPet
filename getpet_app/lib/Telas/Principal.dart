@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:getpet/Widgets/FazerChamado.dart';
+import 'package:getpet/Widgets/VerChamadoc.dart';
 import 'package:getpet/Widgets/VerChamados.dart';
 import 'package:getpet/Widgets/VerPerfil.dart';
 import 'package:getpet/Widgets/VerPerfilM.dart';
@@ -21,6 +22,7 @@ class _PrincipalState extends State<Principal> {
     VerPerfilM(),
   ];
   var pagesCliente = const [
+    VerChamadoc(),
     FazerChamado(),
     VerPerfil(),
   ];
@@ -33,12 +35,12 @@ class _PrincipalState extends State<Principal> {
     _appPageController.animateToPage(index,
         duration: Duration(milliseconds: 500), curve: Curves.ease);
   }
-
   @override
   Widget build(BuildContext context) {
     final Size size = MediaQuery.of(context).size;
-    return ScopedModelDescendant<UserModel>(builder: (context, child, model) {
-      return Scaffold(
+    return ScopedModelDescendant<UserModel>(
+      builder: (context, child, model){
+        return Scaffold(
           body: SafeArea(
             child: PageView(
               scrollDirection: Axis.horizontal,
@@ -49,82 +51,92 @@ class _PrincipalState extends State<Principal> {
               },
               controller: _appPageController,
               children: model.servidor ? pagesServidor : pagesCliente,
+
             ),
           ),
-          bottomNavigationBar: Container(
-            width: size.width,
-            height: 80,
-            child: Stack(
-              //overflow: Overflow.visible,
-              children: [
-                Container(
-                  width: size.width,
-                  height: 80,
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                    children: model.servidor
-                        ? [
-                            IconButton(
-                                icon: Icon(
-                                  Icons.list_rounded,
-                                  color: currentIndex == 0
-                                      ? Colors.green[700]
-                                      : Colors.grey.shade400,
-                                ),
-                                onPressed: () {
-                                  setBottomBarIndex(0);
-                                }),
-                            IconButton(
-                                icon: Icon(
-                                  Icons.add_circle_rounded,
-                                  color: currentIndex == 1
-                                      ? Colors.green[700]
-                                      : Colors.grey.shade400,
-                                ),
-                                onPressed: () {
-                                  setBottomBarIndex(1);
-                                }),
-                            IconButton(
-                                icon: Icon(
-                                  Icons.person_rounded,
-                                  color: currentIndex == 2
-                                      ? Colors.green[700]
-                                      : Colors.grey.shade400,
-                                ),
-                                onPressed: () {
-                                  setBottomBarIndex(2);
-                                }),
-                          ]
-                        : [
-                            IconButton(
-                                icon: Icon(
-                                  Icons.add_circle_rounded,
-                                  color: currentIndex == 0
-                                      ? Colors.green[700]
-                                      : Colors.grey.shade400,
-                                ),
-                                onPressed: () {
-                                  setBottomBarIndex(0);
-                                }),
-                            IconButton(
-                                icon: Icon(
-                                  Icons.person_rounded,
-                                  color: currentIndex == 1
-                                      ? Colors.green[700]
-                                      : Colors.grey.shade400,
-                                ),
-                                onPressed: () {
-                                  setBottomBarIndex(1);
-                                }),
-                          ],
-                  ),
-                )
-              ],
-            ),
-          ));
-    });
+            bottomNavigationBar: Container(
+              width: size.width,
+              height: 80,
+              child: Stack(
+                //overflow: Overflow.visible,
+                children: [
+                  Container(
+                    width: size.width,
+                    height: 80,
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                      children: model.servidor ? [
+                      IconButton(
+                          icon: Icon(
+                            Icons.list_rounded,
+                            color: currentIndex == 0
+                                ? Colors.green[700]
+                                : Colors.grey.shade400,
+                          ),
+                          onPressed: () {
+                            setBottomBarIndex(0);
+                          }),
+                        IconButton(
+                            icon: Icon(
+                              Icons.add_circle_rounded,
+                              color: currentIndex == 1
+                                  ? Colors.green[700]
+                                  : Colors.grey.shade400,
+                            ),
+                            onPressed: () {
+                              setBottomBarIndex(1);
+                            }),
+                      IconButton(
+                          icon: Icon(
+                            Icons.person_rounded,
+                            color: currentIndex == 2
+                                ? Colors.green[700]
+                                : Colors.grey.shade400,
+                          ),
+                          onPressed: () {
+                            setBottomBarIndex(2);
+                          }),
+                      ] : [
+                        IconButton(
+                            icon: Icon(
+                              Icons.list_rounded,
+                              color: currentIndex == 0
+                                  ? Colors.green[700]
+                                  : Colors.grey.shade400,
+                            ),
+                            onPressed: () {
+                              setBottomBarIndex(0);
+                            }),
+                        IconButton(
+                            icon: Icon(
+                              Icons.add_circle_rounded,
+                              color: currentIndex == 1
+                                  ? Colors.green[700]
+                                  : Colors.grey.shade400,
+                            ),
+                            onPressed: () {
+                              setBottomBarIndex(1);
+                            }),
+                        IconButton(
+                            icon: Icon(
+                              Icons.person_rounded,
+                              color: currentIndex == 2
+                                  ? Colors.green[700]
+                                  : Colors.grey.shade400,
+                            ),
+                            onPressed: () {
+                              setBottomBarIndex(2);
+                            }),
+                      ],
+                    ),
+                  )
+                ],
+              ),
+            )
+        );
+      }
+    );
   }
-
   void _onTappedBar(int value) {
     setState(() {
       currentIndex = value;
