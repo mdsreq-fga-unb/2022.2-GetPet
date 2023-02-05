@@ -50,6 +50,7 @@ Houve a validação das US implementadas com o cliente, assista [aqui](https://d
 
 **Entrega:** US01, US02, US03, US04, US09, US10, US11 e US13.
 - [App](pages/VideoApresentacaoUnidade3.md)
+- [Vídeo de validação com o cliente](pages/videoValidacaoCliente.md)
 
 ## Sprint Retro
 A Restrospectiva Scrum é uma avaliação do processo que ocorre ao final de cada sprint, na chamada reunião de retrospectiva, onde todo o grupo se reúne para debater a sprint anterior.
