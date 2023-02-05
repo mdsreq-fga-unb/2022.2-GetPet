@@ -19,7 +19,7 @@
 
 | Feature | User Story | Critério de Aceitação |
 | ------- | ---------- | --------------------- |
-|[FEAT02] Visualização de dados |[US05] Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. | 1. O motorista precisa ter um cadastro. <br> 2. O motorista precisa receber chamados. |
+|[FEAT02] Visualização de dados |[US05] Como motorista, quero ser capaz de visualizar o perfil de quem irei transportar para compreender as necessidades da pessoa e do pet. | 1. O motorista precisa ter um cadastro. <br> 2. O motorista precisa ter recebido um chamado. |
 |         | [US06] Como cliente, quero ser capaz de visualizar o perfil do motorista para conhecer quem irá transportar meu pet. | 1. O cliente precisa ter um cadastro. <br> 2. O cliente precisa ter solicitado uma corrida. <br> 3. O perfil do motorista deve ser exibido para o cliente, após o motorista sinalizar que tem interesse na corrida. |
 | [FEAT03] Autenticação de usuário | [US07] Como usuário, quero ser capaz de realizar login com email e senha para ter privacidade e segurança ao utilizar os serviços do aplicativo. | 1. O usuário deve possuir um cadastro <br> 2. O sistema deve apresentar uma mensagem de erro caso o usuário insira um email ou senha incorretos. |
 |        | [US08] Como usuário, quero ser capaz de recuperar o acesso para me autenticar caso esqueça a senha. | 1. O usuário deve possuir um cadastro. <br> 2. O aplicativo deve validar se o endereço de e-mail inserido pelo usuário já foi previamente cadastrado. |
