@@ -20,22 +20,26 @@
 
 - Unidade 01 
    - [Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
-   - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoDasEntregas.md)
+   - [Vídeo de apresentação da unidade 01](pages/VideoApresentacaoDasEntregas.md)
    
 - Unidade 02
-   - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoUnidade2.md)
+   - [Vídeo de apresentação da unidade 02](pages/VideoApresentacaoUnidade2.md)
 
 - Unidade 03
    - [PBB e BDD](pages/PBB_BDD.md)
    - [User Story Mapping](pages/USM.md)
-   - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoUnidade3.md)
-   - [Vídeo de validação com o cliente](pages/videoValidacaoCliente.md)
-   - [App](pages/App.md)
+   - [Vídeo de apresentação da unidade 03](pages/VideoApresentacaoUnidade3.md)
+   - [Vídeo de validação do cliente MVP1](pages/videoValidacaoCliente.md)
+   - [App - MVP1](pages/App.md)
 
 - Unidade 04
    - [Listas MVPs](pages/listasMvp.md)
    - [Casos de Uso](pages/CasosDeUso.md)
-   - [App](pages/App2.md)
+   - [Especificação de casos de uso]()
+      - [Avaliar motorista](pages/Especificao/AvaliarMotorista.md)
+   - [Vídeo de apresentação da unidade 04]()
+   - [Vídeo de validação do cliente MVP2]()
+   - [App - MVP2](pages/App2.md)
 
 
 
