@@ -27,7 +27,6 @@
   - Gravar vídeo de apresentação da Unidade 02 
 
 ## Sprint Review 
-Houve apenas a validação com professor e as modificações solicitadas foram realizadas.
 
 **Entregas:**
   - [Requisitos do produto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/ProductBacklog)

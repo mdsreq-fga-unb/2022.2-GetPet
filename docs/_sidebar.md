@@ -12,6 +12,8 @@
    - [Sprint 03](pages/Sprint03.md)
    - [Sprint 04](pages/Sprint04.md)
    - [Sprint 05](pages/Sprint05.md)
+   - [Sprint 06](pages/Sprint06.md)
+   - [Sprint 07](pages/Sprint07.md)
 
 ----------------------------------------------------
 ### _**Entregas**_
@@ -28,6 +30,12 @@
    - [User Story Mapping](pages/USM.md)
    - [Vídeo de Apresentação da Unidade](pages/VideoApresentacaoUnidade3.md)
    - [Vídeo de validação com o cliente](pages/videoValidacaoCliente.md)
+   - [App](pages/App.md)
+
+- Unidade 04
+   - [Listas MVPs](pages/listasMvp.md)
+   - [Casos de Uso](pages/CasosDeUso.md)
+   - [App](pages/App2.md)
 
 
 

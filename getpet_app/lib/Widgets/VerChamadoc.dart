@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:getpet/Widgets/AbrirChamado.dart';
-import 'package:getpet/Widgets/VerChamado.dart';
+import 'package:getpet/Widgets/VerChamados.dart';
 import 'package:getpet/Widgets/VerPerfil.dart';
 import 'package:getpet/models/user_model.dart';
 import 'package:scoped_model/scoped_model.dart';
@@ -17,7 +17,7 @@ class VerChamadoc extends StatefulWidget {
 class _VerChamadocState extends State<VerChamadoc> {
   int currentIndex = 0;
   var pagesServidor = const [
-    VerChamado(),
+    VerChamados(),
     VerPerfil(),
   ];
   var pagesCliente = const [

@@ -31,7 +31,6 @@
 **Obs.: Nessa sprint as tasks não foram pontuadas.**
 
 ## Sprint Review 
-Houve apenas a validação com professor, as modificações solicitadas foram realizadas na sprint 02.
 
 **Entregas:**
   - [Visão do Produto e Projeto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/Vis%C3%A3odoProdutoeProjeto) 
