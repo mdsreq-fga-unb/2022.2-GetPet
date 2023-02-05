@@ -184,13 +184,18 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                       child: const Text("Mostrar interesse"),
                                       onPressed: () async{
                                         List<dynamic> motoristasSuporte = motoristas;
-                                        if(!mostrouInteresse){
-                                        if(!motoristasSuporte.contains(model.firebaseUser!.uid)){
-                                          motoristasSuporte.add(model.firebaseUser!.uid);
+                                        if(mostrouInteresse == true){
+                                          _falha();
+                                        }else{
+                                          if(motoristasSuporte.contains(model.firebaseUser!.uid)){
+                                            _falha();
+                                          }else{
+                                            motoristasSuporte.add(model.firebaseUser!.uid);
                                             await FirebaseFirestore.instance.collection("pedidos").doc(model.idChamado).update({
                                               "interesse": true,
                                               "motoristas": motoristasSuporte,
                                             });
+                                            _sucesso();
                                             mostrouInteresse = true;
                                           }
                                         }
