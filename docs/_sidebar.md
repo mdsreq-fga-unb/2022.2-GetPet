@@ -36,7 +36,7 @@
    - [Listas MVPs](pages/listasMvp.md)
    - [Casos de Uso](pages/CasosDeUso.md)
    - [Especificação de casos de uso]()
-      - [Avaliar motorista](pages/Especificao/AvaliarMotorista.md)
+      - [Avaliar motorista](pages/AvaliarMotorista.md)
    - [Vídeo de apresentação da unidade 04]()
    - [Vídeo de validação do cliente MVP2]()
    - [App - MVP2](pages/App2.md)
