@@ -21,19 +21,19 @@ Este caso de uso é utilizado pelos clientes para avaliarem os morotistas que re
 <br>
 
 ## 2. Fluxo Básico de Eventos
-- 2.1 O cliente concluiu uma corrida.
-- 2.2	O aplicativo solicita a avaliação do cliente sobre a última corrida realizada.
+- 2.1 O cliente concluiu uma corrida (RN01)(RN02)(RN03).
+- 2.2	O aplicativo solicita a avaliação do cliente sobre a última corrida realizada (FA01)(FA02).
 
 <br>
 
 ## 3. Fluxos Alternativos
-- ### 3.1 Avalia o motorista
+- ### 3.1 [FA01] Avalia o motorista
    - 3.1.1 O cliente adiciona uma nota em estrelas de 1-5 (FE01).
    - 3.1.2 O cliente adiciona um comentário.
    - 3.1.3 O cliente decide se deseja tornar a avaliação anônima.
    - 3.1.4 O cliente envia a avaliação.
    - 3.1.5 O aplicativo salva a avaliação.
-- ### 3.2 Pular avaliação
+- ### 3.2 [FA02] Pular avaliação
    - 3.2.1 O cliente decide pular a avaliação.
    - 3.2.2 O aplicativo não disponibiliza a corrida para avaliação novamente.
   
@@ -48,7 +48,6 @@ No passo 2.3 do fluxo básico de eventos, caso o cliente tente enviar a avaliaç
 ## 5. Pré-Condições
 - 5.1 O cliente fez login.
 - 5.2	O cliente realizou uma corrida.
-- 5.3	A última corrida realizada não foi avaliada.
 
 <br>
 
@@ -60,15 +59,23 @@ Não se aplica.
 ## 7. Pontos de Extensão
 Não se aplica.
 
+<br>
+
+## 8. Regras de Negócio
+- ### 8.1 [RN01] Realizou uma corrida
+   O aplicativo deve solicitar a avaliação da corrida do motorista para o cliente a partir do primeiro acesso do cliente após realizar a corrida.
+- ### 8.2 [RN02] Corrida mais recente
+   O aplicativo deve solicitar apenas a avaliação da corrida mais recente.
+- ### 8.3 [RN03] Não pulou a avaliação
+   O aplicativo não deve solicitar a avaliação da corrida do motorista se o cliente optou por pular a avaliação da última corrida realizada.
+
 <br> 
 
-## 8. Requisitos Especiais
-### 8.1 Dispositivo móvel
+## 9. Requisitos Especiais
+### 9.1 Dispositivo móvel
 Este caso de uso deve ser acessível, via dispositivo móvel, o qual utiliza o sistema operacional Android.
 
 <br>
 
-## 9.	Informações Adicionais
+## 10. Informações Adicionais
 [Diagrama geral de casos de uso do projeto](https://mdsreq-fga-unb.github.io/2022.2-GetPet/#/pages/CasosDeUso)
-
-<br>
