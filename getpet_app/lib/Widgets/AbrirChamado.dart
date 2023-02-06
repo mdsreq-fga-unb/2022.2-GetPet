@@ -203,10 +203,14 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                     ),
                                   ),
                                   Visibility(
-                                  visible: data["motoristaFinal"] && data["motoristaFinalId"] == model.firebaseUser!.uid,
+                                    visible: data["motoristaFinal"] && data["motoristaFinalId"] == model.firebaseUser!.uid,
                                     child: ElevatedButton(
                                       child:  const Text("Confirmar Pagamento"),
-                                      onPressed: (){},
+                                      onPressed: () async{
+                                        FirebaseFirestore.instance.collection("pedidos").doc(model.idChamado).update({
+                                          "pago": true,
+                                        });
+                                      },
                                     ),
                                   ),
                                 ],
