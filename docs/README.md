@@ -20,14 +20,6 @@ Desenvolvedor: amarelo #
 <table>
   
   <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/87709987?v=4" width="100px;" alt="Foto Abritta"/><br>
-        <sub>
-          <b>Maria Abritta</b>
-        </sub>
-      </a>
-    </td>
     <td>
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/83987201?v=4" width="100px;" alt="Foto Bruna"/><br>
@@ -41,6 +33,22 @@ Desenvolvedor: amarelo #
         <img src="https://avatars.githubusercontent.com/u/24920267?v=4" width="100px;" alt="Foto Guilherme"/><br>
         <sub>
           <b>Guilherme Vilela</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/78445038?v=4" width="100px;" alt="Foto Ian"/><br>
+        <sub>
+          <b>Ian Gama</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/87709987?v=4" width="100px;" alt="Foto Abritta"/><br>
+        <sub>
+          <b>Maria Abritta</b>
         </sub>
       </a>
     </td>
