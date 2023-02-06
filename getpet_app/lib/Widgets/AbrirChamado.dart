@@ -16,6 +16,7 @@ class AbrirChamado extends StatefulWidget {
 }
 
 class _AbrirChamadoState extends State<AbrirChamado> {
+  bool mostrouInteresse = false;
   @override
   Widget build(BuildContext context) {
     return ScopedModelDescendant<UserModel>(
@@ -177,6 +178,36 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                       },
                                     ),
                                   ),
+                                  Padding(
+                                    padding: const EdgeInsets.only(left: 10, right: 10),
+                                    child: ElevatedButton(
+                                      child: const Text("Mostrar interesse"),
+                                      onPressed: () async{
+                                        List<dynamic> motoristasSuporte = motoristas;
+                                        if(mostrouInteresse == true){
+                                          _falha();
+                                        }else{
+                                          if(motoristasSuporte.contains(model.firebaseUser!.uid)){
+                                            _falha();
+                                          }else{
+                                            motoristasSuporte.add(model.firebaseUser!.uid);
+                                            await FirebaseFirestore.instance.collection("pedidos").doc(model.idChamado).update({
+                                              "interesse": true,
+                                              "motoristas": motoristasSuporte,
+                                            });
+                                            _sucesso();
+                                            mostrouInteresse = true;
+                                          }
+                                        }
+                                      },
+                                    ),
+                                  ),
+                                  Visibility(
+                                    child: ElevatedButton(
+                                      child:  const Text("Confirmar Pagamento"),
+                                      onPressed: (){},
+                                    ),
+                                  ),
                                 ],
                               ),
                             ),
@@ -203,13 +234,13 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                                       if (snapshott.hasError) return const Text ('Erro');
                                                       if (snapshott.hasData) {
                                                         var dataa = snapshott.data!.data();
-                                                        return Text(dataa!["usuario"], style: const TextStyle(fontSize: 20),);
+                                                        return Text(dataa!["usuario"], style: const TextStyle(fontSize: 15),);
                                                       }
                                                       return const Center(child: CircularProgressIndicator());
                                                     }
                                                 ),
                                                 TextButton(
-                                                  child: const Text("Visitar perfil", style: TextStyle(fontSize: 20),),
+                                                  child: const Text("Visitar perfil", style: TextStyle(fontSize: 15),),
                                                   onPressed: () async{
                                                     model.abrirPerfil = motoristas[index];
                                                     model.abrirPerfil = model.abrirPerfil.replaceAll(' ', '');
@@ -217,6 +248,29 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                                         MaterialPageRoute(builder: (context) => const VisualizarPerfilCliente())
                                                     );
                                                   },
+                                                ),
+                                                Visibility(
+                                                  visible: !data["motoristaFinal"],
+                                                  child: TextButton(
+                                                    child: const Text("Aceitar", style: TextStyle(fontSize: 15),),
+                                                    onPressed: () async{
+                                                      await FirebaseFirestore.instance.collection("pedidos").doc(model.idChamado).update({
+                                                        "motoristaFinal": true,
+                                                        "motoristaFinalId": motoristas[index],
+                                                      });
+                                                    },
+                                                  )
+                                                ),
+                                                Visibility(
+                                                  visible: data["motoristaFinalId"] == motoristas[index] && data["motoristaFinal"],
+                                                  child: TextButton(
+                                                    child: const Text("Remover", style: TextStyle(fontSize: 15),),
+                                                    onPressed: () async{
+                                                      await FirebaseFirestore.instance.collection("pedidos").doc(model.idChamado).update({
+                                                        "motoristaFinal": false,
+                                                      });
+                                                    },
+                                                  ),
                                                 ),
                                               ],
                                             ),
@@ -259,4 +313,18 @@ class _AbrirChamadoState extends State<AbrirChamado> {
         }
     );
   }
+
+  void _sucesso() {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+      duration: Duration(seconds: 2),
+      content: Text("Interesse adicionado!\nNão esquece de enviar uma mensagem no zap!"),
+    ));
+  }
+  void _falha() {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+      duration: Duration(seconds: 2),
+      content: Text("Você já demonstrou interesse por essa corrida!"),
+    ));
+  }
 }
+
