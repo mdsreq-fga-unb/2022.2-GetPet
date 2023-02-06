@@ -46,6 +46,8 @@
 
 ## Sprint Review 
 
-**Entrega:**
+**Entrega:** US12, US14, US15, US16 e US17.
+- [App]()
+- [Vídeo de validação com o cliente]()
 
 ## Sprint Retro
