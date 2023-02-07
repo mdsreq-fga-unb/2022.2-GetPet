@@ -214,22 +214,6 @@ class _VerPerfilState extends State<VerPerfil> {
                           ],
                         )),
                       ),
-                      SizedBox(
-                        width: MediaQuery.of(context).size.width - 20,
-                        height: 50,
-                        child: ElevatedButton(
-                          style: ElevatedButton.styleFrom(
-                              backgroundColor: Colors.white),
-                          child: const Text(
-                            "Alterar Dados",
-                            style: TextStyle(color: Colors.black87),
-                          ),
-                          onPressed: () {
-                            Navigator.of(context).push(MaterialPageRoute(
-                                builder: (context) => const AlterarPerfil()));
-                          },
-                        ),
-                      ),
                     ],
                   ),
                 );
