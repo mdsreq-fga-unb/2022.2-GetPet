@@ -36,6 +36,7 @@
    - [Listas MVPs](pages/listasMvp.md)
    - [Casos de Uso](pages/CasosDeUso.md)
    - [Especificação de casos de uso]()
+      - [Atualizar Perfil](pages/AtualizarPerfil.md)
       - [Avaliar motorista](pages/AvaliarMotorista.md)
       - [Confirmar pagamento](pages/ConfirmarPagamento.md)
       - [Visualizar dados da corrida](pages/VisualizarDadosCorrida.md)
