@@ -47,7 +47,7 @@
 ## Sprint Review 
 
 **Entrega:** US12, US14, US15, US16 e US17.
-- [App](pages/AppFinal.md)
+- [App](https://drive.google.com/file/d/126SPR8hWoRbOcXAiw-lEiyd-qPVJabbd/view?usp=share_link)
 - [Vídeo de validação com o cliente]()
 
 ## Sprint Retro
