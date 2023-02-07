@@ -25,13 +25,10 @@ Este caso de uso é utilizado pelos clientes para visualizarem informações e d
 <br>
 
 ## 3. Fluxos Alternativos
-- ### 3.1 [FA01] Avalia o motorista
+- ### 3.1 [FA01] Editar Perfil
    - 3.1.1 O cliente não corrige a informação incorreta (FE01).
    - 3.1.2 O cliente envia a edição.
    - 3.1.3 O aplicativo salva a edição.
-- ### 3.2 [FA02] Pular avaliação
-   - 3.2.1 O cliente decide pular a avaliação.
-   - 3.2.2 O aplicativo não disponibiliza a corrida para avaliação novamente.
   
 <br>
 
