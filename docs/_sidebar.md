@@ -41,7 +41,7 @@
       - [Avaliar motorista](pages/AvaliarMotorista.md)
       - [Confirmar pagamento](pages/ConfirmarPagamento.md)
       - [Visualizar dados da corrida](pages/VisualizarDadosCorrida.md)
-      - [Visualizar dados de perfil](pages/VisualizarDadosPerfil.md)
+      - [Visualizar dados de perfil](pages/VisualizarDadosPefil.md)
    - [Vídeo de apresentação da unidade 04]()
    - [Vídeo de validação do cliente MVP2]()
    - [App - MVP2](pages/App2.md)
