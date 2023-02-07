@@ -28,7 +28,7 @@ Este caso de uso é utilizado pelos clientes para avaliarem os motoristas que re
 
 ## 3. Fluxos Alternativos
 - ### 3.1 [FA01] Avalia o motorista
-   - 3.1.1 O cliente adiciona uma nota em estrelas de 1-5 (FE01).
+   - 3.1.1 O cliente adiciona uma nota em estrelas de 1-3 (FE01).
    - 3.1.2 O cliente adiciona um comentário.
    - 3.1.3 O cliente decide se deseja tornar a avaliação anônima.
    - 3.1.4 O cliente envia a avaliação.
