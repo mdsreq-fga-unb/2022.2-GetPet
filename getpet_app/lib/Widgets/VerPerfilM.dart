@@ -120,31 +120,6 @@ class _VerPerfilMState extends State<VerPerfilM> {
                             ),
                           ),
                           const SizedBox(height: 5,),
-                          SizedBox(
-                            width: MediaQuery.of(context).size.width - 20,
-                            height: 50,
-                            child: ElevatedButton(
-                              style: ElevatedButton.styleFrom(
-                                  backgroundColor: Colors.white
-                              ),
-                              child: const Text("Colher Localização", style: TextStyle(color: Colors.black87),),
-                              onPressed: () async{
-                                try{
-                                  geo.Position position = await geo.Geolocator.getCurrentPosition(desiredAccuracy: geo.LocationAccuracy.high);
-                                  double latitude = position.latitude;
-                                  double longitude = position.longitude;
-                                  await FirebaseFirestore.instance.collection("usuarios").doc(model.firebaseUser!.uid).update(
-                                      {
-                                        "longitude": longitude,
-                                        "latitude": latitude,
-                                      });
-                                  _sucesso();
-                                }catch(e){
-                                  _falha();
-                                }
-                              },
-                            ),
-                          ),
                         ],
                       ),
                     );
