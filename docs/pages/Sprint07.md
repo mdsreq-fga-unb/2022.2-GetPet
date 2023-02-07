@@ -47,8 +47,8 @@
 ## Sprint Review 
 
 **Entrega:** US12, US14, US15, US16 e US17.
-- [App](https://drive.google.com/file/d/126SPR8hWoRbOcXAiw-lEiyd-qPVJabbd/view?usp=share_link)
-- [Vídeo de validação com o cliente]()
+- [App Final](https://drive.google.com/file/d/126SPR8hWoRbOcXAiw-lEiyd-qPVJabbd/view?usp=share_link)
+- [Vídeo de validação com o cliente](https://drive.google.com/file/d/1O4JGhHHmszqa02HwZ3SDJGCxzexe-5vs/view?usp=sharing)
 
 ## Sprint Retro
 A Restrospectiva Scrum é uma avaliação do processo que ocorre ao final de cada sprint, na chamada reunião de retrospectiva, onde todo o grupo se reúne para debater a sprint anterior.
