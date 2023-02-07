@@ -14,74 +14,60 @@ class UserModel extends Model {
   Map<String, dynamic> userData = Map();
   late String idChamado;
 
+
   bool isLoading = false;
 
-  void signUp(
-      {required Map<String, dynamic> userData,
-      required String pass,
-      required VoidCallback onSuccess,
-      required VoidCallback onFail}) {
+  void signUp({required Map<String, dynamic> userData, required String pass, required VoidCallback onSuccess, required VoidCallback onFail}){
     isLoading = true;
     notifyListeners();
-    _auth
-        .createUserWithEmailAndPassword(
-            email: userData["email"], password: pass)
-        .then((auth) async {
+    _auth.createUserWithEmailAndPassword(
+        email: userData["email"],
+        password: pass
+    ).then((auth) async{
       firebaseUser = auth.user!;
       await _saveUserData(userData);
-      DocumentSnapshot snapshot = await FirebaseFirestore.instance
-          .collection('usuarios')
-          .doc("${firebaseUser!.uid}")
-          .get();
+      DocumentSnapshot snapshot = await FirebaseFirestore.instance.collection(
+          'usuarios').doc("${firebaseUser!.uid}").get();
       snapshot["ocupacao"] == "servidor" ? servidor = true : servidor = false;
       onSuccess();
       isLoading = false;
       notifyListeners();
-    }).catchError((e) {
+    }).catchError((e){
       print(e);
       onFail();
       isLoading = false;
       notifyListeners();
     });
   }
-
-  void signIn(
-      {required String email,
-      required String pass,
-      required VoidCallback onSuccess,
-      required VoidCallback onFail}) async {
+  void signIn({required String email, required String pass, required VoidCallback onSuccess, required VoidCallback onFail}) async{
     isLoading = true;
     notifyListeners();
 
-    _auth
-        .signInWithEmailAndPassword(email: email, password: pass)
-        .then((auth) async {
-      firebaseUser = auth.user!;
-      DocumentSnapshot snapshot = await FirebaseFirestore.instance
-          .collection('usuarios')
-          .doc(firebaseUser!.uid)
-          .get();
-      snapshot["ocupacao"] == "servidor" ? servidor = true : servidor = false;
-      //servidor = false;
-      onSuccess();
-      isLoading = false;
-      notifyListeners();
-    }).catchError((e) {
+    _auth.signInWithEmailAndPassword(email: email, password: pass).then(
+            (auth) async{
+          firebaseUser = auth.user!;
+          DocumentSnapshot snapshot = await FirebaseFirestore.instance.collection(
+              'usuarios').doc(firebaseUser!.uid).get();
+          snapshot["ocupacao"] == "servidor" ? servidor = true : servidor = false;
+          //servidor = false;
+          onSuccess();
+          isLoading = false;
+          notifyListeners();
+        }).catchError((e){
       onFail();
       isLoading = false;
       notifyListeners();
     });
   }
-
-  void recoverPass(String email) {
+  void recuperarSenha(String email){
     _auth.sendPasswordResetEmail(email: email);
   }
 
-  bool isLoggedIn() {
+  bool isLoggedIn(){
     return firebaseUser != null;
   }
 
-  void signOut() async {
+  void signOut() async{
     print(isLoggedIn());
     //await FirebaseAuth.instance.signOut();
     //print(isLoggedIn());
@@ -91,26 +77,19 @@ class UserModel extends Model {
     notifyListeners();
   }
 
-  void nomeUsuario() async {
-    if (isLoggedIn() == true) {
-      DocumentSnapshot snapshot = await FirebaseFirestore.instance
-          .collection('usuarios')
-          .doc("${firebaseUser!.uid}")
-          .get();
+  void nomeUsuario() async{
+    if(isLoggedIn() == true) {
+      DocumentSnapshot snapshot = await FirebaseFirestore.instance.collection(
+          'usuarios').doc("${firebaseUser!.uid}").get();
       nome = snapshot["usuario"].toString();
       notifyListeners();
     }
   }
 
-  Future<Null> _saveUserData(Map<String, dynamic> userData) async {
+  Future<Null> _saveUserData(Map<String, dynamic> userData) async{
     this.userData = userData;
-    await FirebaseFirestore.instance
-        .collection("usuarios")
-        .doc(firebaseUser!.uid)
-        .set(userData);
-    await FirebaseFirestore.instance
-        .collection("usuarios")
-        .doc(firebaseUser!.uid)
-        .update({"administrador": false});
+    await FirebaseFirestore.instance.collection("usuarios").doc(firebaseUser!.uid).set(userData);
+    await FirebaseFirestore.instance.collection("usuarios").doc(firebaseUser!.uid).update({"administrador" : false});
   }
+
 }

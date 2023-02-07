@@ -315,17 +315,6 @@ class _AbrirChamadoState extends State<AbrirChamado> {
                                     visible: data["pago"],
                                     child: Column(
                                       children: [
-                                        FutureBuilder<DocumentSnapshot<Map<String, dynamic>>>(
-                                            future: FirebaseFirestore.instance.collection("usuarios").doc(data["motoristaFinalId"]).get(),
-                                            builder: (_, snapshott) {
-                                              if (snapshott.hasError) return const Text ('Erro');
-                                              if (snapshott.hasData) {
-                                                var dataa = snapshott.data!.data();
-                                                return Text('Avalie ${dataa!["usuario"]}', style: const TextStyle(fontSize: 15),);
-                                              }
-                                              return const Center(child: CircularProgressIndicator());
-                                            }
-                                        ),
                                         Row(
                                           mainAxisAlignment: MainAxisAlignment.center, //Center Row contents horizontally,
                                           crossAxisAlignment: CrossAxisAlignment.center, //Center Row contents vertically,
