@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:getpet/Telas/AlterarPerfil.dart';
+import 'package:getpet/Telas/Entrar.dart';
 import 'package:getpet/models/user_model.dart';
 import 'package:scoped_model/scoped_model.dart';
-import 'package:intl/intl.dart';
 import 'package:geolocator/geolocator.dart' as geo;
 
 class VerPerfilM extends StatefulWidget {
@@ -142,6 +142,23 @@ class _VerPerfilMState extends State<VerPerfilM> {
                                 }catch(e){
                                   _falha();
                                 }
+                              },
+                            ),
+                          ),
+                          const SizedBox(height: 5,),
+                          SizedBox(
+                            width: MediaQuery.of(context).size.width - 20,
+                            height: 50,
+                            child: ElevatedButton(
+                              style: ElevatedButton.styleFrom(
+                                  backgroundColor: Colors.white
+                              ),
+                              child: const Text("Sair", style: TextStyle(color: Colors.black87),),
+                              onPressed: (){
+                                model.signOut();
+                                Navigator.of(context).push(
+                                    MaterialPageRoute(builder: (context) => const Entrar())
+                                );
                               },
                             ),
                           ),
