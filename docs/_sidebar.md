@@ -20,15 +20,15 @@
 
 - Unidade 01 
    - [Material do Seminário de Processos e Ciclos de Vida](pages/MaterialdoSemináriodoProcessoseCiclosdeVida.md)
-   - [Vídeo de apresentação da unidade 01](pages/VideoApresentacaoDasEntregas.md)
+   - [Vídeo de apresentação da Unidade 01](pages/VideoApresentacaoDasEntregas.md)
    
 - Unidade 02
-   - [Vídeo de apresentação da unidade 02](pages/VideoApresentacaoUnidade2.md)
+   - [Vídeo de apresentação da Unidade 02](pages/VideoApresentacaoUnidade2.md)
 
 - Unidade 03
    - [PBB e BDD](pages/PBB_BDD.md)
    - [User Story Mapping](pages/USM.md)
-   - [Vídeo de apresentação da unidade 03](pages/VideoApresentacaoUnidade3.md)
+   - [Vídeo de apresentação da Unidade 03](pages/VideoApresentacaoUnidade3.md)
    - [Vídeo de validação do cliente MVP1](pages/videoValidacaoCliente.md)
    - [App - MVP1](pages/App.md)
 
@@ -46,6 +46,7 @@
    - [Slide Unidade 4](https://www.canva.com/design/DAFZzHZTx9g/nbLWPhrD-XbFYTCfdsuMmA/view?utm_content=DAFZzHZTx9g&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
    - [Vídeo de validação do cliente MVP2](https://drive.google.com/file/d/1FFNuqSYHGgj6X9P9QQ4KAgfslChqnPZB/view?usp=sharing)
    - [App - MVP2 - Final](pages/Final.md)
+   - [Vídeo de apresentação da Unidade 04](pages/VideoApresentacaoUnidade4.md)
 
 
 
