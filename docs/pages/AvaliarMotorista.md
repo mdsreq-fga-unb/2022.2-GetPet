@@ -14,7 +14,7 @@ Versão 1.2
 <br>
 
 ## 1. Descrição
-Este caso de uso é utilizado pelos clientes para avaliarem os morotistas que realizaram suas corridas.
+Este caso de uso é utilizado pelos clientes para avaliarem os motoristas que realizaram suas corridas.
 
 - Ator: Cliente.
 
