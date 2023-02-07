@@ -49,7 +49,7 @@
 ## Sprint Review 
 
 **Entrega:** US05, US06, US07 e US08
-- [App]()
+- [App](pages/App2.md)
 - [Vídeo de validação com o cliente]()
 
 ## Sprint Retro
@@ -115,5 +115,5 @@ Os 2H:
 
 | What (o que será feito?) | Why (por que será feito?) | Where (onde será feito?) | Who (por quem será feito?) | How (como será feito?) | Check |
 | --- | --- | --- | --- | --- | -- |
-| Atenção com as datas de entrega | As datas de entregas, tanto internas (do grupo) quanto as externas (do professor), estão sendo esquecidas, dessa forma, chega na data limite e ainda estamos desenvolvendo, causando uma "bola de neve" | Trello | Todos os integrantes da equipe | Deixar assionado os alertas do Trello, pedindo para avisar 3 dias antes e 1 dia antes |  |
-| Planejamento detalhado de apresentação | Estamos deixando a apresentação um pouco livre, podendo ficar um pouco perdido em relação as entregas que devem ser feitas | Telegram/Pessoalmente | Todos os integrantes da equipe | Conversaremos para dividir as partes que devemos apresentar, para todos falarem | |
+| Atenção com as datas de entrega | As datas de entregas, tanto internas (do grupo) quanto as externas (do professor), estão sendo esquecidas, dessa forma, chega na data limite e ainda estamos desenvolvendo, causando uma "bola de neve" | Trello | Todos os integrantes da equipe | Deixar assionado os alertas do Trello, pedindo para avisar 3 dias antes e 1 dia antes | ✅ |
+| Planejamento detalhado de apresentação | Estamos deixando a apresentação um pouco livre, podendo ficar um pouco perdido em relação as entregas que devem ser feitas | Telegram/Pessoalmente | Todos os integrantes da equipe | Conversaremos para dividir as partes que devemos apresentar, para todos falarem | ✅ |
