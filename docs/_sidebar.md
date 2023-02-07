@@ -38,6 +38,7 @@
    - [Especificação de casos de uso]()
       - [Avaliar motorista](pages/AvaliarMotorista.md)
       - [Visualizar dados da corrida](pages/VisualizarDadosCorrida.md)
+      - [Confirmar Pagamento ](pages/ConfirmarPagamento.md)
    - [Vídeo de apresentação da unidade 04]()
    - [Vídeo de validação do cliente MVP2]()
    - [App - MVP2](pages/App2.md)
