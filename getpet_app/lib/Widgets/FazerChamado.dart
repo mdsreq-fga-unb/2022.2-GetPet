@@ -446,6 +446,10 @@ class _FazerChamadoState extends State<FazerChamado> {
                               "numero": snapshot["numero"],
                               "qualPet": petValor,
                               "quantidade": quantiaValor,
+                              "idCliente": model.firebaseUser!.uid,
+                              "interesse": false,
+                              "motoristaFinal": false,
+                              "pago": false,
                             });
                         await FirebaseFirestore.instance.collection("pedidos").doc().set(
                             {
@@ -459,6 +463,10 @@ class _FazerChamadoState extends State<FazerChamado> {
                               "numero": snapshot["numero"],
                               "qualPet": petValor,
                               "quantidade": quantiaValor,
+                              "idCliente": model.firebaseUser!.uid,
+                              "interesse": false,
+                              "motoristaFinal": false,
+                              "pago": false,
                             });
                         _comentario.clear();
                         _chamado();
