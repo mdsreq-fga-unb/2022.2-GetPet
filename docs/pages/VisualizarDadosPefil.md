@@ -19,7 +19,7 @@ Este caso de uso é utilizado pelos clientes para visualizarem informações e d
 <br>
 
 ## 2. Fluxo Básico de Eventos
-- 2.1 O cliente deseja visualizar o seu perfil (RN01)(RN02)(RN03).
+- 2.1 O cliente deseja visualizar o seu perfil (RN01)(RN02).
 - 2.2	Algum dado do cliente está incorreto e precisa ser editado. (FA01).
 
 <br>
