@@ -42,7 +42,7 @@
       - [Confirmar pagamento](pages/ConfirmarPagamento.md)
       - [Visualizar dados da corrida](pages/VisualizarDadosCorrida.md)
       - [Visualizar dados de perfil](pages/VisualizarDadosPefil.md)
-   - [Vídeo de apresentação da unidade 04]() 
+   - [Vídeo de apresentação da unidade 04](pages/VideoApresentacaoUnidade4.md) 
    - [Slide Unidade 4](https://www.canva.com/design/DAFZzHZTx9g/nbLWPhrD-XbFYTCfdsuMmA/view?utm_content=DAFZzHZTx9g&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
    - [Vídeo de validação do cliente MVP2](https://drive.google.com/file/d/1FFNuqSYHGgj6X9P9QQ4KAgfslChqnPZB/view?usp=sharing)
    - [App - MVP2 - Final](pages/AppFinal.md)
