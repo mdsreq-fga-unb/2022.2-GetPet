@@ -239,6 +239,13 @@ Na questão de programar o projeto, foi interessante porém corrido, por conta d
 
 <br>
 
+## Unidade 4
+
+Nesta unidade, estudamos um mais ainda a sobre PBB Overview, detalhando e validando os dados. O Product Backlog Building (PBB), BDD (behaviour driven development), User Story Mapping com o acréscimo de um novo conteúdo - **Casos de Uso**. Todos do grupo acharam um conteúdo bem denso e difícil de entender, onde fizemos um reusmo do que o professor passou em sala para tentarmos entender melhor. <br>
+Na questão de programar o projeto, foi corrido mas foi interessante o processo, consguimos ter o sucesso que queríamos sem problemas passados.
+
+<br>
+
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 - [Scrum Guide](https://scrumguides.org/)
 - [The Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html)
